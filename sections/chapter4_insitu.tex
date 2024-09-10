@@ -1,0 +1,97 @@
+\documentclass[../main.tex]{subfiles}
+
+\begin{document}
+
+{
+\setstretch{1.0}
+\chapter{Expression patterns of three sex-related genes and the germline marker \textit{Vasa} in early developmental stages of \textit{Mytilus galloprovincialis} embryos}
+\label{inSitu}
+
+\noindent{\Large{Filippo Nicolini\textsuperscript{1,2}, Sergey Nuzhdin\textsuperscript{3}, Fabrizio Ghiselli\textsuperscript{1}, Andrea Luchetti\textsuperscript{1}, Liliana Milani\textsuperscript{1}}}
+
+\vspace{5mm}
+
+\noindent{\textsuperscript{1}\textit{Department of Biological, Geological and Environmental Science, University of Bologna, via Selmi 3, 40126 Bologna (BO), Italy}.}
+
+\noindent{\textsuperscript{2}\textit{Fano Marine Center, Viale Adriatico 1/n, 61032 Fano (PU), Italy}.}
+
+\noindent{\textsuperscript{3}\textit{3Department of Molecular and Computational Biology, University of Southern California, Los Angeles, CA, USA}.}
+
+\vspace{5mm}
+
+\noindent{\large{\textbf{\textit{In preparation.}}}}
+}
+
+\vspace{5mm}
+
+\section{Materials and Methods} \label{activities_MM}
+\subsection{Time-series gene expression} \label{rnaseq_MM}
+\textbf{\cite{miglioli2024hcrMytilus}} recently produced one of the very first detailed developmental transcriptome of \textit{M. galloprovincialis}, spanning from the unfertilized oocyte to the larval stage at 72 hpf, with time points sampled every 4 hpf. A total of 30 different mRNA libraries was sequenced, consisting of fifteen developmental time points per two technical replicates. These data are very useful to thoroughly investigate the transcription patterns of genes throughout the first three days of development in \textit{M. galloprovincialis} and to obtain hints on the expected outcomes of mRNA-ISH experiments.
+
+Raw reads were downloaded from the Sequence Read Archive (SRA) in NCBI (BioProject: PRJNA996031) and trimmed using Trimmomatic v0.39 (\textbf{\cite{bolger2014trimmomatic}}; \verb|LEADING:5| \verb|TRAILING:5| \verb|SLIDINGWINDOW:4:15| \verb|MINLEN:65|). Read quality was checked using FastQC v0.12.1 (\textbf{\cite{andrews2010fastqc}}). Trimmed reads were mapped against the \textit{M. galloprovincialis} annotated genome (GCA\_900618805.1; \textbf{\cite{gerdol2020massive}}) using STAR v2.7.10b (\textbf{\cite{dobin2013star}}) in \verb|alignReads| mode with default parameters. The resulting gene count matrix was extracted with StringTie v2.2.1 (\textbf{\cite{pertea2015stringtie,pertea2016stringtie}}) in expression estimation mode followed by the python script \verb|prepDE.py| (\verb|-l 99|).
+
+The resulting matrix was processed in R. Raw gene counts were normalized using the built-in function \verb|vst| of the package DESeq2 (\textbf{\cite{love2014deseq2}}). The function \verb|plotPCA| was then used to run a principal component analysis (PCA) on read mapping counts and visualize the corresponding results. Normalized gene counts were also used to plot expression values of target genes (i.e., \textit{Vasa}, \textit{Dmrt1L}, \textit{SoxH} and \textit{FoxL2}), as well as in maSigPro (\textbf{\cite{conesa2006masigpro}}) to run a differential gene expression analysis in a time course experiment.
+
+The entire pipeline was automated through custom python and bash scripts, which are available in a private repository on GitHub.
+
+\subsection{Sample collection, MitoTracker staining and fixation} \label{rearing_MM}
+Adult Mediterranean mussels (\textit{M. galloprovincialis}) were hand collected from various locations surrounding the AltaSea institute at the port of Los Angeles (CA, USA). Sampling took place during the late spawning season of the species in California, i.e., from October 2023 to early January 2024. Specimens were checked for species and sexual maturity before usage.
+
+Selected mussels were thoroughly cleaned from epibionts and placed in ice for approximately 30-60 minutes, then transferred in filtered artificial sea water (FASW) at 16°C and acclimatized for 30 minutes. All the individuals were then placed in a common tank and spawning was induced by cyclical thermal shock, that is, by exposing mussels alternatively to FASW at 24-26°C and 14-16°C for 30-40 minutes. As soon as individual mussels started spawning, they were promptly removed from the common tank, carefully washed and then allowed to continue spawning in isolated containers of about 250 ml 16°C FASW.
+
+Sperm from six males and oocytes from six females were separately mixed to increase the number of crosses. An hour after the spawning started, oocytes were filtered through a 75 over a 30 µm mesh and aged in 1 L of FASW for 40-60 minutes to let them assume a proper circular shape. Oocyte abundance was estimated under a stereo microscope, by counting the number of gametes in five aliquotes of 1 mL and then calculating the mean value. Sperm mitochondria were labeled with MitoTracker™ Red CMXRos (Thermo Fisher Scientific) at a working concentration of 500 nM for 30 minutes. MitoTracker is a vital and fixation-resistant mitochondrial dye and was used to be able to detect the sex of developing embryos (as early as the two-blastomere stage) according to the distribution pattern of sperm mitochondria (\textbf{\cite{cao2004differential,obata2005specific}}). From this step onward, samples were always kept in the dark.
+
+Fertilization was performed by mixing oocytes and sperm at a ratio of 1:10. Fertilization success was checked after 20-30 minutes by the formation of polar bodies. The suspension was then carefully washed to remove excess sperm and brought to a concentration of 250 zygotes/mL. The resulting suspension was transferred into cell-culture flasks of 40 mL and embryos/larvae were reared at 16°C in the dark. Water was changed every 24 hours. After 48 hpf, larvae were fed with \textit{Isochrysis galbana} at a final concentration of \texttildelow100,000 cells/mL following \textbf{\cite{helm2004hatchery}}.
+
+Embryos/larvae were sampled at 1, 2, 3 and 4 hpf, and then every 12 hours until 72 hpf, every time after checking for proper development and vitality. After concentration in a mesh of proper size, embryos/larvae were fixed in 3.2\% paraformaldehyde (PFA) in 1× PBS at 4°C overnight under constant and gentle shaking. Fixed samples were washed 3 × 20 minutes in 1× PBS 0.1\% Tween 20 (PBST) and then dehydrated 3 × 30 minutes in absolute methanol at room temperature (RT). Dehydrated samples were stored at -20°C until usage.
+
+\subsection{Hybridization Chain Reaction (HCR)} \label{hcr_MM}
+\subsubsection{HCR probe design} \label{probedesign_MM}
+\textit{Vasa}, \textit{Dmrt1L}, \textit{SoxH}, and \textit{FoxL2} spliced-transcript nucleotide sequences of \textit{M. galloprovincialis} were obtained from previous analyses with OrthoFinder v2.5.5 (\textbf{\cite{emms2019orthofinder}}) and 30 annotated bivalve genomes (see \textbf{Chapter 3}). Accession numbers of spliced transcripts are 10B017427, 10B093608, 10B014180, and 10B094018, respectively. The \verb|insitu_probe_generator| script from Ozpolat Lab (\textbf{\cite{kuehn2022probegenerator}}) was used to generate pairs of probes specifically designed for third-generation HCR (\textbf{\cite{choi2018hcr3}}). The built-in BLASTN search against the annotated \textit{M. galloprovincialis} transcriptome was employed to check for putative off-target bindings of probe pairs. B1-488, B2-647, B3-546, and B4-700 pairs of HCR amplifiers and fluorophores were chosen as in \textbf{Table \ref{tab:probes}}. Resulting probes were synthetized by Integrated DNA Techonologies (IDT™) in different oligo pools.
+
+\begin{table}
+    \centering
+    \begin{tabular}{c c c c}
+         \hline
+         \textbf{Target} & \textbf{Amplifier} & \textbf{Fluorophore} & \textbf{No. of probe pairs} \\
+         \hline
+         \textit{Vasa} & B1 & ALEXA-488 & 33 \\
+         \textit{Dmrt1L} & B2 & ALEXA-647 & 18 \\
+         \textit{SoxH} & B3 & ALEXA-546 & 22 \\
+         \textit{FoxL2} & B4 & ALEXA-700 & 28 \\
+         \hline
+    \end{tabular}
+    \caption{List of genes targeted through HCR, with the corresponding amplifiers, fluorophores and number of generated probe pairs.}
+    \label{tab:probes}
+\end{table}
+
+\subsubsection{Fluorescent \textit{in-situ} hybridization through hybridization chain reaction and microscope imaging} \label{hcrprotocol_MM}
+HCR mRNA-FISH was performed following \textbf{\cite{miglioli2024hcrMytilus}}. All the steps were carried out in the dark to prevent MitoTracker from fading. Probe hybridization buffer, probe wash buffer and amplification buffer were manufactured by Molecular Instruments, Inc.
+
+Dehydrated samples stored in methanol were washed 4 times per 5 minutes and 1 time per 10 minutes in PBST. Samples were then permeabilized for 30 minutes in a detergent solution (1.0\% SDS, 0.5\% Tween 20, 50 mM Tris-HCl, 1.0 mM EDTA, 150.0 mM NaCl) and washed again 2 times per 5 minutes in PBST. Samples were prepared for the HCR detection stage by incubation in probe hybridization buffer for 30 minutes at 37 °C. Detection stage was then performed with 4 nM of each probe set in hybridization solution overnight ($>$12 h) at 37 °C.
+
+Excess probes was removed by washing 4 times per 20 minutes with probe wash buffer at 37 °C and 3 times per 5 minutes with 5× saline-sodium citrate Tween 20 buffer (SSCT; 5× SSC, 0.1\% Tween 20) at room temperature. Samples were incubated for 30 minutes in amplification buffer at room temperature. Hairpins were heated at 95 °C for 90 seconds and then snap-cooled at room temperature for 30 minutes. The amplification step of HCR was performed with 6 pmol of each hairpin in amplification buffer overnight ($>$12 h) at room temperature.
+
+Excess hairpins was removed by washing 2 times per 5 minutes, 2 times per 30 minutes, and 1 time per 5 minutes with SSCT. If not immediately mounted on slides, samples were stored in SSCT at +4 °C. Otherwise, samples were immersed in 50\% and 70\% glycerol for 30-60 minutes each, and then mounted with VECTASHIELD® PLUS Antifade Mounting Medium with DAPI (H-2000). Slides were imaged on a Stellaris 5 Confocal Package system with the software Las X (Leica Microsystems). Each dye was imaged sequentially in a separate channel, to enhance the yield and avoid any crosstalks. \textbf{Table \ref{tab:imaging}} summarises the excitation and emission peaks for each dye. Images were then manipulated and post-produced using Fiji v2.14.0.
+
+\begin{table}
+    \centering
+    \begin{tabular}{c c c c}
+         \hline
+         \textbf{Target} & \textbf{Dye} & \textbf{Excitation (nm)} & \textbf{Emission (nm)} \\
+         \hline
+         dsDNA (nuclei) & DAPI & 360 & 460 \\
+         Sperm mitochondria & MitoTracker™ Red CMXRos & 575 & 600 \\
+         \textit{Vasa} & ALEXA-488 & 499 & 520 \\
+         \textit{Dmrt1L} & ALEXA-647 & 653 & 670 \\
+         \textit{SoxH} & ALEXA-546 & 557 & 575 \\
+         \textit{FoxL2} & ALEXA-700 & 685 & 700 \\
+         \hline
+    \end{tabular}
+    \caption{List of dyes used for every target, together with the excitation and emission peaks as returned by the Las X software.}
+    \label{tab:imaging}
+\end{table}
+
+\subsection{Immunolocalization of \textit{Vasa}}
+
+\end{document}

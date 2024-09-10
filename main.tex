@@ -1,0 +1,57 @@
+% document style
+\documentclass[12pt]{report}
+\usepackage[a4paper, total={17cm,25cm}]{geometry}
+\linespread{1.5}                                    % regulate line spacing
+\usepackage{setspace}
+\usepackage[indent=20pt]{parskip}                   % indent first line
+\usepackage[utf8]{inputenc}
+
+% packages to print complete titles on table of contents
+\usepackage{titletoc}
+\titlecontents{chapter}
+   [0pt]% <left>
+   {\bfseries}% <above-code>
+   {\chaptername\ \thecontentslabel: }% <numbered-entry-format>
+   {}% <numberless-entry-format>
+   {\titlerule*[0.8pc]{.}\contentspage}
+
+% subfiles manager
+\usepackage{subfiles}
+
+% packages to manage tables
+\usepackage{booktabs}
+\usepackage{lscape}
+\usepackage{longtable}
+
+% packages to manage images
+\usepackage{graphicx,caption}
+\graphicspath{{./images/}}
+
+% packages to manage bibliography and cross-references
+\usepackage{nameref}
+\usepackage{hyperref}
+\usepackage[style=apa, sorting=ynt]{biblatex}
+\addbibresource{tot.bib}
+
+% package to manage ranodm text
+\usepackage{lipsum}
+
+%------------------------------------------------------------------
+
+\begin{document}
+
+\subfile{sections/frontpage.tex}
+
+\tableofcontents{}
+
+\subfile{sections/chapter1_introduction}
+\subfile{sections/chapter2_perspective}
+\subfile{sections/chapter3_molecularEvolution}
+\subfile{sections/chapter4_insitu}
+
+%bibliography
+\begin{refcontext}[sorting=nyt]
+\printbibliography
+\end{refcontext}
+
+\end{document}
