@@ -3611,6 +3611,60 @@
       \field{pages}{391\bibrangedash 405}
       \range{pages}{15}
     \endentry
+    \entry{milani2011doubly}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4b8ad3506d5cdcacfb9836bd7291aa9c}{%
+           family={Milani},
+           familyi={M\bibinitperiod},
+           given={Liliana},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb7a63149ab0265ad0edaac17ee82107}{%
+           family={Ghiselli},
+           familyi={G\bibinitperiod},
+           given={Fabrizio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28b4e330e75eaabfaaf5b310fe1fa992}{%
+           family={Maurizii},
+           familyi={M\bibinitperiod},
+           given={Maria\bibnamedelima Gabriella},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ee72ed892aed91b88cd486073863086}{%
+           family={Passamonti},
+           familyi={P\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, USA}%
+      }
+      \strng{namehash}{4ecbd2e9b52684c11f72e2d834aabad8}
+      \strng{fullhash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{fullhashraw}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{bibnamehash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{authorbibnamehash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{authornamehash}{4ecbd2e9b52684c11f72e2d834aabad8}
+      \strng{authorfullhash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{authorfullhashraw}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS One}
+      \field{number}{11}
+      \field{title}{Doubly uniparental inheritance of mitochondria as a model system for studying germ line formation}
+      \field{volume}{6}
+      \field{year}{2011}
+      \field{pages}{e28194}
+      \range{pages}{-1}
+    \endentry
     \entry{milani2013nuclear}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=4b8ad3506d5cdcacfb9836bd7291aa9c}{%
@@ -3649,7 +3703,7 @@
       \strng{authornamehash}{4ecbd2e9b52684c11f72e2d834aabad8}
       \strng{authorfullhash}{70f5146ef66c66fd1c1f9b0675ad2fc3}
       \strng{authorfullhashraw}{70f5146ef66c66fd1c1f9b0675ad2fc3}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -6547,6 +6601,60 @@
       \field{pages}{e1002195}
       \range{pages}{-1}
     \endentry
+    \entry{milani2011doubly}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4b8ad3506d5cdcacfb9836bd7291aa9c}{%
+           family={Milani},
+           familyi={M\bibinitperiod},
+           given={Liliana},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb7a63149ab0265ad0edaac17ee82107}{%
+           family={Ghiselli},
+           familyi={G\bibinitperiod},
+           given={Fabrizio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28b4e330e75eaabfaaf5b310fe1fa992}{%
+           family={Maurizii},
+           familyi={M\bibinitperiod},
+           given={Maria\bibnamedelima Gabriella},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ee72ed892aed91b88cd486073863086}{%
+           family={Passamonti},
+           familyi={P\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, USA}%
+      }
+      \strng{namehash}{4ecbd2e9b52684c11f72e2d834aabad8}
+      \strng{fullhash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{fullhashraw}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{bibnamehash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{authorbibnamehash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{authornamehash}{4ecbd2e9b52684c11f72e2d834aabad8}
+      \strng{authorfullhash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{authorfullhashraw}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS One}
+      \field{number}{11}
+      \field{title}{Doubly uniparental inheritance of mitochondria as a model system for studying germ line formation}
+      \field{volume}{6}
+      \field{year}{2011}
+      \field{pages}{e28194}
+      \range{pages}{-1}
+    \endentry
     \entry{perez2011cytogenetic}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ba732caf04538b0fc7db480f3daae9cc}{%
@@ -6974,7 +7082,7 @@
       \strng{authornamehash}{4ecbd2e9b52684c11f72e2d834aabad8}
       \strng{authorfullhash}{70f5146ef66c66fd1c1f9b0675ad2fc3}
       \strng{authorfullhashraw}{70f5146ef66c66fd1c1f9b0675ad2fc3}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -7343,7 +7451,7 @@
       \strng{authornamehash}{4ecbd2e9b52684c11f72e2d834aabad8}
       \strng{authorfullhash}{0e3154e5f9a2c36a6907e043b375a98d}
       \strng{authorfullhashraw}{0e3154e5f9a2c36a6907e043b375a98d}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -12305,6 +12413,60 @@
       \field{pages}{e1002195}
       \range{pages}{-1}
     \endentry
+    \entry{milani2011doubly}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4b8ad3506d5cdcacfb9836bd7291aa9c}{%
+           family={Milani},
+           familyi={M\bibinitperiod},
+           given={Liliana},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb7a63149ab0265ad0edaac17ee82107}{%
+           family={Ghiselli},
+           familyi={G\bibinitperiod},
+           given={Fabrizio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28b4e330e75eaabfaaf5b310fe1fa992}{%
+           family={Maurizii},
+           familyi={M\bibinitperiod},
+           given={Maria\bibnamedelima Gabriella},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ee72ed892aed91b88cd486073863086}{%
+           family={Passamonti},
+           familyi={P\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, USA}%
+      }
+      \strng{namehash}{4ecbd2e9b52684c11f72e2d834aabad8}
+      \strng{fullhash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{fullhashraw}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{bibnamehash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{authorbibnamehash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{authornamehash}{4ecbd2e9b52684c11f72e2d834aabad8}
+      \strng{authorfullhash}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \strng{authorfullhashraw}{98c07f1e3dc9b598851108dd5a9de4b0}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS One}
+      \field{number}{11}
+      \field{title}{Doubly uniparental inheritance of mitochondria as a model system for studying germ line formation}
+      \field{volume}{6}
+      \field{year}{2011}
+      \field{pages}{e28194}
+      \range{pages}{-1}
+    \endentry
     \entry{perez2011cytogenetic}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ba732caf04538b0fc7db480f3daae9cc}{%
@@ -12732,7 +12894,7 @@
       \strng{authornamehash}{4ecbd2e9b52684c11f72e2d834aabad8}
       \strng{authorfullhash}{70f5146ef66c66fd1c1f9b0675ad2fc3}
       \strng{authorfullhashraw}{70f5146ef66c66fd1c1f9b0675ad2fc3}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -13101,7 +13263,7 @@
       \strng{authornamehash}{4ecbd2e9b52684c11f72e2d834aabad8}
       \strng{authorfullhash}{0e3154e5f9a2c36a6907e043b375a98d}
       \strng{authorfullhashraw}{0e3154e5f9a2c36a6907e043b375a98d}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
