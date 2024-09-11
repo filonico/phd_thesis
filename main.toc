@@ -1,23 +1,24 @@
-\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Molecular mechanisms of sex determination and the evolution of sex-determining genes}{2}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Sex determination in bivalves: a long-standing enigma}{4}{section.1.2}%
-\contentsline {chapter}{\numberline {2}Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view}{6}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Open yet inspiring topics in bivalve sex determination}{8}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Transitions between environmental and genetic sex determination}{8}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Evolution of sex chromosomes}{9}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Mito-nuclear interactions}{10}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.1.4}Evolution of sex-determination related genes}{12}{subsection.2.1.4}%
-\contentsline {section}{\numberline {2.2}The case of the \textit {Dmrt} gene family in bivalves}{13}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Conclusions: bivalves as new models in the study of sex determination}{16}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Acknowledgments}{23}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Data Availability}{23}{section.2.5}%
-\contentsline {chapter}{\numberline {3}Identification of putative sex-determination related genes in bivalves through comparative molecular evolutionary analyses}{24}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Expression patterns of three sex-related genes and the germline marker \textit {Vasa} in early developmental stages of \textit {Mytilus galloprovincialis} embryos}{25}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Materials and Methods}{25}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Time-series gene expression}{25}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Sample collection, MitoTracker staining and fixation}{26}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Hybridization Chain Reaction (HCR)}{27}{subsection.4.1.3}%
-\contentsline {subsubsection}{HCR probe design}{27}{section*.5}%
-\contentsline {subsubsection}{Fluorescent \textit {in-situ} hybridization through hybridization chain reaction and microscope imaging}{28}{section*.7}%
-\contentsline {subsection}{\numberline {4.1.4}Immunolocalization of \textit {Vasa}}{29}{subsection.4.1.4}%
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Molecular mechanisms of sex determination and the evolution of sex-determining genes}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Sex determination in bivalves: a long-standing enigma}{5}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Open yet inspiring topics in bivalve sex determination}{9}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Transitions between environmental and genetic sex determination}{9}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Evolution of sex chromosomes}{10}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Mito-nuclear interactions}{11}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Evolution of sex-determination related genes}{13}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}The case of the \textit {Dmrt} gene family in bivalves}{14}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Conclusions: bivalves as new models in the study of sex determination}{17}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Acknowledgments}{24}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Data Availability}{24}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Identification of putative sex-determination related genes in bivalves through comparative molecular evolutionary analyses}{25}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Expression patterns of three sex-related genes and the germline marker \textit {Vasa} in early developmental stages of \textit {Mytilus galloprovincialis} embryos}{26}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Materials and Methods}{26}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Time-series gene expression}{26}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Sample collection, MitoTracker staining and fixation}{27}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Hybridization Chain Reaction (HCR)}{28}{subsection.4.1.3}%
+\contentsline {subsubsection}{HCR probe design}{28}{section*.5}%
+\contentsline {subsubsection}{Fluorescent \textit {in-situ} hybridization through hybridization chain reaction and microscope imaging}{29}{section*.7}%
+\contentsline {subsection}{\numberline {4.1.4}Immunolocalization of \textit {Vasa}}{30}{subsection.4.1.4}%
+\contentsline {chapter}{References}{39}{chapter*.9}%
 \contentsfinish 
