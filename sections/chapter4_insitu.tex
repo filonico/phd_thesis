@@ -24,8 +24,8 @@
 
 \newpage
 
-\section{Materials and Methods} \label{activities_MM}
-\subsection{Time-series gene expression} \label{rnaseq_MM}
+\section{Materials and Methods} \label{chapter4_MM}
+\subsection{Time-series gene expression} \label{chapter4_MM_rnaseq}
 \textbf{\cite{miglioli2024hcrMytilus}} recently produced one of the very first detailed developmental transcriptome of \textit{M. galloprovincialis}, spanning from the unfertilized oocyte to the larval stage at 72 hpf, with time points sampled every 4 hpf. A total of 30 different mRNA libraries was sequenced, consisting of fifteen developmental time points per two technical replicates. These data are very useful to thoroughly investigate the transcription patterns of genes throughout the first three days of development in \textit{M. galloprovincialis} and to obtain hints on the expected outcomes of mRNA-ISH experiments.
 
 Raw reads were downloaded from the Sequence Read Archive (SRA) in NCBI (BioProject: PRJNA996031) and trimmed using Trimmomatic v0.39 (\textbf{\cite{bolger2014trimmomatic}}; \verb|LEADING:5| \verb|TRAILING:5| \verb|SLIDINGWINDOW:4:15| \verb|MINLEN:65|). Read quality was checked using FastQC v0.12.1 (\textbf{\cite{andrews2010fastqc}}). Trimmed reads were mapped against the \textit{M. galloprovincialis} annotated genome (GCA\_900618805.1; \textbf{\cite{gerdol2020massive}}) using STAR v2.7.10b (\textbf{\cite{dobin2013star}}) in \verb|alignReads| mode with default parameters. The resulting gene count matrix was extracted with StringTie v2.2.1 (\textbf{\cite{pertea2015stringtie,pertea2016stringtie}}) in expression estimation mode followed by the python script \verb|prepDE.py| (\verb|-l 99|).
@@ -34,7 +34,7 @@ The resulting matrix was processed in R. Raw gene counts were normalized using t
 
 The entire pipeline was automated through custom python and bash scripts, which are available in a private repository on GitHub.
 
-\subsection{Sample collection, MitoTracker staining and fixation} \label{rearing_MM}
+\subsection{Sample collection, MitoTracker staining and fixation} \label{chapter4_MM_rearing}
 Adult Mediterranean mussels (\textit{M. galloprovincialis}) were hand collected from various locations surrounding the AltaSea institute at the port of Los Angeles (CA, USA). Sampling took place during the late spawning season of the species in California, i.e., from October 2023 to early January 2024. Specimens were checked for species and sexual maturity before usage.
 
 Selected mussels were thoroughly cleaned from epibionts and placed in ice for approximately 30-60 minutes, then transferred in filtered artificial sea water (FASW) at 16°C and acclimatized for 30 minutes. All the individuals were then placed in a common tank and spawning was induced by cyclical thermal shock, that is, by exposing mussels alternatively to FASW at 24-26°C and 14-16°C for 30-40 minutes. As soon as individual mussels started spawning, they were promptly removed from the common tank, carefully washed and then allowed to continue spawning in isolated containers of about 250 ml 16°C FASW.
@@ -45,7 +45,7 @@ Fertilization was performed by mixing oocytes and sperm at a ratio of 1:10. Fert
 
 Embryos/larvae were sampled at 1, 2, 3 and 4 hpf, and then every 12 hours until 72 hpf, every time after checking for proper development and vitality. After concentration in a mesh of proper size, embryos/larvae were fixed in 3.2\% paraformaldehyde (PFA) in 1× PBS at 4°C overnight under constant and gentle shaking. Fixed samples were washed 3 × 20 minutes in 1× PBS 0.1\% Tween 20 (PBST) and then dehydrated 3 × 30 minutes in absolute methanol at room temperature (RT). Dehydrated samples were stored at -20°C until usage.
 
-\subsection{mRNA \textit{in-situ} Hybridization Chain Reaction (HCR)} \label{hcr_MM}
+\subsection{mRNA \textit{in-situ} Hybridization Chain Reaction (HCR)} \label{chapter4_MM_hcr}
 \subsubsection{HCR probe design} \label{probedesign_MM}
 \textit{Vasa}, \textit{Dmrt1L}, \textit{SoxH}, and \textit{FoxL2} spliced-transcript nucleotide sequences of \textit{M. galloprovincialis} were obtained from previous analyses with OrthoFinder v2.5.5 (\textbf{\cite{emms2019orthofinder}}) and 30 annotated bivalve genomes (see \textbf{Chapter 3}). Accession numbers of spliced transcripts are 10B017427, 10B093608, 10B014180, and 10B094018, respectively. The \verb|insitu_probe_generator| script from Ozpolat Lab (\textbf{\cite{kuehn2022probegenerator}}) was used to generate pairs of probes specifically designed for third-generation HCR (\textbf{\cite{choi2018hcr3}}). The built-in BLASTN search against the annotated \textit{M. galloprovincialis} transcriptome was employed to check for putative off-target bindings of probe pairs. B1-488, B2-647, B3-546, and B4-700 pairs of HCR amplifiers and fluorophores were chosen as in \textbf{Table \ref{tab:probes}}. Resulting probes were synthetized by Integrated DNA Techonologies (IDT™) in different oligo pools.
 
@@ -65,7 +65,7 @@ Embryos/larvae were sampled at 1, 2, 3 and 4 hpf, and then every 12 hours until 
     \label{tab:probes}
 \end{table}
 
-\subsubsection{Fluorescent \textit{in-situ} hybridization through hybridization chain reaction and microscope imaging} \label{hcrprotocol_MM}
+\subsubsection{Fluorescent \textit{in-situ} hybridization through hybridization chain reaction and microscope imaging} \label{chapter4_MM_hcrprotocol}
 HCR mRNA-FISH in \textit{M. galloprovincialis} embryos was performed following \textbf{\cite{miglioli2024hcrMytilus}}. All the steps were carried out in the dark to prevent MitoTracker from fading. Probe hybridization buffer, probe wash buffer and amplification buffer were manufactured by Molecular Instruments, Inc.
 
 Dehydrated samples stored in methanol were washed 4 times per 5 minutes and 1 time per 10 minutes in a phosphate-buffered saline solution (PBS; 128 mM NaCl, 2 mM KCl, 8 mM \ce{Na2HPO4\cdot2H2O}, 2 mM \ce{KH_2PO_4}) with 0.1\% Tween 20 (PBST). Samples were then permeabilized for 30 minutes in a detergent solution (1.0\% SDS, 0.5\% Tween 20, 50 mM Tris-HCl, 1.0 mM EDTA, 150.0 mM NaCl) and washed again 2 times per 5 minutes in PBST. Samples were prepared for the HCR detection stage by incubation in probe hybridization buffer for 30 minutes at 37 °C. Detection stage was then performed with 4 nM of each probe set in hybridization solution overnight ($>$12 h) at 37 °C.
@@ -92,7 +92,7 @@ Excess hairpins was removed by washing 2 times per 5 minutes, 2 times per 30 min
     \label{tab:imaging}
 \end{table}
 
-\subsection{Immunolocalization of Vasa} \label{immuno}
+\subsection{Immunolocalization of Vasa} \label{chapter4_MM_immuno}
 Vasa immunolocalization in \textit{M. galloprovincialis} embryos was performed following \textbf{\cite{milani2011doubly}} with modifications. All the steps were carried out in the dark to prevent MitoTracker from fading.
 
 Dehydrated samples stored in methanol were rinsed 3 times per 10 minutes and 1 time for 2 hours in Tris-buffered saline (TBS; 10 mM Tris-HCl, 155 mM NaCl), following an additional wash for 10 minutes with PBS. Samples were then digested for 6 minutes and 30 seconds with 0.01\% pronase E (Merck) in PBS, and washed again 2 times for 5 minutes in PBS. Permeabilization was then performed in TBS-Triton (TBST) 0.1\% for 5 minutes at RT and in TBST 1\% overnight at 4°C.

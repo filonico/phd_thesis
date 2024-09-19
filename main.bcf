@@ -182,7 +182,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>init</bcf:value>
+      <bcf:value>false</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -411,7 +411,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>init</bcf:value>
+      <bcf:value>false</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -638,7 +638,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>init</bcf:value>
+      <bcf:value>false</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -863,7 +863,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>init</bcf:value>
+      <bcf:value>false</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -3243,23 +3243,114 @@
     <bcf:citekey order="117" intorder="1">wei2020chromosome</bcf:citekey>
     <bcf:citekey order="118" intorder="1">song2021hard</bcf:citekey>
     <bcf:citekey order="119" intorder="1">xu2022multi</bcf:citekey>
-    <bcf:citekey order="120" intorder="1">miglioli2024hcrMytilus</bcf:citekey>
-    <bcf:citekey order="121" intorder="1">bolger2014trimmomatic</bcf:citekey>
-    <bcf:citekey order="122" intorder="1">andrews2010fastqc</bcf:citekey>
-    <bcf:citekey order="123" intorder="1">gerdol2020massive</bcf:citekey>
-    <bcf:citekey order="124" intorder="1">dobin2013star</bcf:citekey>
-    <bcf:citekey order="125" intorder="1">pertea2015stringtie</bcf:citekey>
-    <bcf:citekey order="125" intorder="2">pertea2016stringtie</bcf:citekey>
-    <bcf:citekey order="126" intorder="1">love2014deseq2</bcf:citekey>
-    <bcf:citekey order="127" intorder="1">conesa2006masigpro</bcf:citekey>
-    <bcf:citekey order="128" intorder="1">cao2004differential</bcf:citekey>
-    <bcf:citekey order="128" intorder="2">obata2005specific</bcf:citekey>
-    <bcf:citekey order="129" intorder="1">helm2004hatchery</bcf:citekey>
-    <bcf:citekey order="130" intorder="1">emms2019orthofinder</bcf:citekey>
-    <bcf:citekey order="131" intorder="1">kuehn2022probegenerator</bcf:citekey>
-    <bcf:citekey order="132" intorder="1">choi2018hcr3</bcf:citekey>
-    <bcf:citekey order="133" intorder="1">miglioli2024hcrMytilus</bcf:citekey>
-    <bcf:citekey order="134" intorder="1">milani2011doubly</bcf:citekey>
+    <bcf:citekey order="120" intorder="1">li2023miniprot</bcf:citekey>
+    <bcf:citekey order="121" intorder="1">piccinini2021mitonuclear</bcf:citekey>
+    <bcf:citekey order="122" intorder="1">iannello2023signatures</bcf:citekey>
+    <bcf:citekey order="123" intorder="1">bolger2014trimmomatic</bcf:citekey>
+    <bcf:citekey order="124" intorder="1">grabherr2011trinity</bcf:citekey>
+    <bcf:citekey order="125" intorder="1">buchfink2015fast</bcf:citekey>
+    <bcf:citekey order="126" intorder="1">manni2021busco</bcf:citekey>
+    <bcf:citekey order="127" intorder="1">mawaribuchi2019independent</bcf:citekey>
+    <bcf:citekey order="128" intorder="1">phochanukul2010no</bcf:citekey>
+    <bcf:citekey order="129" intorder="1">sarkar2013sox</bcf:citekey>
+    <bcf:citekey order="130" intorder="1">mazet2003phylogenetic</bcf:citekey>
+    <bcf:citekey order="131" intorder="1">sievers2011fast</bcf:citekey>
+    <bcf:citekey order="132" intorder="1">capella2009trimal</bcf:citekey>
+    <bcf:citekey order="133" intorder="1">minh2020iq</bcf:citekey>
+    <bcf:citekey order="134" intorder="1">kalyaanamoorthy2017modelfinder</bcf:citekey>
+    <bcf:citekey order="135" intorder="1">wexler2014pan</bcf:citekey>
+    <bcf:citekey order="136" intorder="1">heenan2016evolution</bcf:citekey>
+    <bcf:citekey order="136" intorder="2">nakagawa2013dna</bcf:citekey>
+    <bcf:citekey order="137" intorder="1">lemoine2021gotree</bcf:citekey>
+    <bcf:citekey order="138" intorder="1">grau2021orthology</bcf:citekey>
+    <bcf:citekey order="139" intorder="1">tu2006sea</bcf:citekey>
+    <bcf:citekey order="140" intorder="1">yu2017ggtree</bcf:citekey>
+    <bcf:citekey order="141" intorder="1">emms2019orthofinder</bcf:citekey>
+    <bcf:citekey order="142" intorder="1">willson2022disco</bcf:citekey>
+    <bcf:citekey order="143" intorder="1">abascal2010translatorx</bcf:citekey>
+    <bcf:citekey order="144" intorder="1">schliep2011phangorn</bcf:citekey>
+    <bcf:citekey order="145" intorder="1">jombart2010adephylo</bcf:citekey>
+    <bcf:citekey order="146" intorder="1">altenhoff2024oma</bcf:citekey>
+    <bcf:citekey order="147" intorder="1">alexa2009gene</bcf:citekey>
+    <bcf:citekey order="148" intorder="1">mawaribuchi2019independent</bcf:citekey>
+    <bcf:citekey order="149" intorder="1">li2018foxl2</bcf:citekey>
+    <bcf:citekey order="149" intorder="2">evensen2022comparative</bcf:citekey>
+    <bcf:citekey order="150" intorder="1">phochanukul2010no</bcf:citekey>
+    <bcf:citekey order="151" intorder="1">han2010characterization</bcf:citekey>
+    <bcf:citekey order="152" intorder="1">larroux2008genesis</bcf:citekey>
+    <bcf:citekey order="153" intorder="1">shimeld2010clustered</bcf:citekey>
+    <bcf:citekey order="154" intorder="1">vizueta2020bitacora</bcf:citekey>
+    <bcf:citekey order="155" intorder="1">nicolini2023comparative</bcf:citekey>
+    <bcf:citekey order="155" intorder="2">baldwin2018new</bcf:citekey>
+    <bcf:citekey order="156" intorder="1">dermauw2020diversity</bcf:citekey>
+    <bcf:citekey order="157" intorder="1">mawaribuchi2019independent</bcf:citekey>
+    <bcf:citekey order="158" intorder="1">wang2023genome</bcf:citekey>
+    <bcf:citekey order="159" intorder="1">li2018foxl2</bcf:citekey>
+    <bcf:citekey order="159" intorder="2">evensen2022comparative</bcf:citekey>
+    <bcf:citekey order="160" intorder="1">wexler2014pan</bcf:citekey>
+    <bcf:citekey order="160" intorder="2">mawaribuchi2019independent</bcf:citekey>
+    <bcf:citekey order="160" intorder="3">panara2019phylogenetic</bcf:citekey>
+    <bcf:citekey order="161" intorder="1">evensen2022comparative</bcf:citekey>
+    <bcf:citekey order="162" intorder="1">wang2023genome</bcf:citekey>
+    <bcf:citekey order="163" intorder="1">zeng2024genome</bcf:citekey>
+    <bcf:citekey order="164" intorder="1">yu2017genome</bcf:citekey>
+    <bcf:citekey order="164" intorder="2">evensen2022comparative</bcf:citekey>
+    <bcf:citekey order="164" intorder="3">wang2024genome</bcf:citekey>
+    <bcf:citekey order="165" intorder="1">wu2020identification</bcf:citekey>
+    <bcf:citekey order="165" intorder="2">schomburg2022phylogenetic</bcf:citekey>
+    <bcf:citekey order="165" intorder="3">seudre2022fox</bcf:citekey>
+    <bcf:citekey order="166" intorder="1">larroux2008genesis</bcf:citekey>
+    <bcf:citekey order="167" intorder="1">shimeld2010clustered</bcf:citekey>
+    <bcf:citekey order="168" intorder="1">yang2014phylogeny</bcf:citekey>
+    <bcf:citekey order="169" intorder="1">wu2020identification</bcf:citekey>
+    <bcf:citekey order="170" intorder="1">liu2024characterization</bcf:citekey>
+    <bcf:citekey order="171" intorder="1">yang2014phylogeny</bcf:citekey>
+    <bcf:citekey order="171" intorder="2">wu2020identification</bcf:citekey>
+    <bcf:citekey order="171" intorder="3">schomburg2022phylogenetic</bcf:citekey>
+    <bcf:citekey order="171" intorder="4">seudre2022fox</bcf:citekey>
+    <bcf:citekey order="172" intorder="1">yang2014phylogeny</bcf:citekey>
+    <bcf:citekey order="173" intorder="1">wu2020identification</bcf:citekey>
+    <bcf:citekey order="174" intorder="1">schomburg2022phylogenetic</bcf:citekey>
+    <bcf:citekey order="175" intorder="1">seudre2022fox</bcf:citekey>
+    <bcf:citekey order="176" intorder="1">yang2014phylogeny</bcf:citekey>
+    <bcf:citekey order="176" intorder="2">wu2020identification</bcf:citekey>
+    <bcf:citekey order="176" intorder="3">seudre2022fox</bcf:citekey>
+    <bcf:citekey order="177" intorder="1">yu2008fox</bcf:citekey>
+    <bcf:citekey order="177" intorder="2">tu2006sea</bcf:citekey>
+    <bcf:citekey order="178" intorder="1">yang2014phylogeny</bcf:citekey>
+    <bcf:citekey order="178" intorder="2">wu2020identification</bcf:citekey>
+    <bcf:citekey order="178" intorder="3">seudre2022fox</bcf:citekey>
+    <bcf:citekey order="179" intorder="1">yang2014phylogeny</bcf:citekey>
+    <bcf:citekey order="179" intorder="2">wu2020identification</bcf:citekey>
+    <bcf:citekey order="180" intorder="1">seudre2022fox</bcf:citekey>
+    <bcf:citekey order="181" intorder="1">yang2014phylogeny</bcf:citekey>
+    <bcf:citekey order="181" intorder="2">wu2020identification</bcf:citekey>
+    <bcf:citekey order="182" intorder="1">tu2006sea</bcf:citekey>
+    <bcf:citekey order="183" intorder="1">yang2014phylogeny</bcf:citekey>
+    <bcf:citekey order="183" intorder="2">wu2020identification</bcf:citekey>
+    <bcf:citekey order="184" intorder="1">wu2020identification</bcf:citekey>
+    <bcf:citekey order="185" intorder="1">seudre2022fox</bcf:citekey>
+    <bcf:citekey order="186" intorder="1">schomburg2022phylogenetic</bcf:citekey>
+    <bcf:citekey order="187" intorder="1">wu2020identification</bcf:citekey>
+    <bcf:citekey order="188" intorder="1">schomburg2022phylogenetic</bcf:citekey>
+    <bcf:citekey order="189" intorder="1">jackson2010update</bcf:citekey>
+    <bcf:citekey order="190" intorder="1">miglioli2024hcrMytilus</bcf:citekey>
+    <bcf:citekey order="191" intorder="1">bolger2014trimmomatic</bcf:citekey>
+    <bcf:citekey order="192" intorder="1">andrews2010fastqc</bcf:citekey>
+    <bcf:citekey order="193" intorder="1">gerdol2020massive</bcf:citekey>
+    <bcf:citekey order="194" intorder="1">dobin2013star</bcf:citekey>
+    <bcf:citekey order="195" intorder="1">pertea2015stringtie</bcf:citekey>
+    <bcf:citekey order="195" intorder="2">pertea2016stringtie</bcf:citekey>
+    <bcf:citekey order="196" intorder="1">love2014deseq2</bcf:citekey>
+    <bcf:citekey order="197" intorder="1">conesa2006masigpro</bcf:citekey>
+    <bcf:citekey order="198" intorder="1">cao2004differential</bcf:citekey>
+    <bcf:citekey order="198" intorder="2">obata2005specific</bcf:citekey>
+    <bcf:citekey order="199" intorder="1">helm2004hatchery</bcf:citekey>
+    <bcf:citekey order="200" intorder="1">emms2019orthofinder</bcf:citekey>
+    <bcf:citekey order="201" intorder="1">kuehn2022probegenerator</bcf:citekey>
+    <bcf:citekey order="202" intorder="1">choi2018hcr3</bcf:citekey>
+    <bcf:citekey order="203" intorder="1">miglioli2024hcrMytilus</bcf:citekey>
+    <bcf:citekey order="204" intorder="1">milani2011doubly</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">

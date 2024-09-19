@@ -173,6 +173,8 @@ INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\chemgreek\chemgreek.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\chemgreek\chemgreek.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
 INPUT .\main.aux
 INPUT .\main.aux
 INPUT main.aux
@@ -292,6 +294,26 @@ INPUT .\sections\chapter3_molecularEvolution.tex
 INPUT .\sections\chapter3_molecularEvolution.tex
 INPUT sections\chapter3_molecularEvolution.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
+INPUT .\images\chapter3\figure_1.png
+INPUT images\chapter3\figure_1.png
+INPUT .\images\chapter3\figure_1.png
+INPUT .\images\chapter3\figure_1.png
+INPUT .\images\chapter3\figure_1.png
+INPUT .\images\chapter3\figure_1.png
+INPUT .\images\chapter3\figure_2.png
+INPUT images\chapter3\figure_2.png
+INPUT .\images\chapter3\figure_2.png
+INPUT .\images\chapter3\figure_2.png
+INPUT .\images\chapter3\figure_2.png
+INPUT .\images\chapter3\figure_2.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
+INPUT .\images\chapter3\figure_3.png
+INPUT images\chapter3\figure_3.png
+INPUT .\images\chapter3\figure_3.png
+INPUT .\images\chapter3\figure_3.png
+INPUT .\images\chapter3\figure_3.png
+INPUT .\images\chapter3\figure_3.png
 INPUT .\sections\chapter4_insitu.tex
 INPUT .\sections\chapter4_insitu.tex
 INPUT sections\chapter4_insitu.tex
@@ -299,8 +321,6 @@ INPUT .\sections\chapter4_insitu.tex
 INPUT .\sections\chapter4_insitu.tex
 INPUT sections\chapter4_insitu.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
