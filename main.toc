@@ -25,15 +25,15 @@
 \contentsline {subsection}{\numberline {3.3.2}The \textit {Dmrt}, \textit {Sox}, and \textit {Fox} complements in bivalves}{33}{subsection.3.3.2}%
 \contentsline {subsection}{\numberline {3.3.3}Amino acid sequence divergence of \textit {Dmrt}, \textit {Sox}, and \textit {Fox} genes in bivalves}{34}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.3.4}\textit {Dmrt}, \textit {Sox}, and \textit {Fox} genes, and amino acid sequence divergence in the test datasets}{36}{subsection.3.3.4}%
-\contentsline {section}{\numberline {3.4}Discussion}{39}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}A new manually-curated and phylogenetic-based reference dataset of \textit {Dmrt}, \textit {Sox}, and \textit {Fox} genes in bivalves}{39}{subsection.3.4.1}%
-\contentsline {chapter}{\numberline {4}Expression patterns of three sex-related genes and the germline marker \textit {Vasa} in early developmental stages of \textit {Mytilus galloprovincialis} embryos}{44}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Materials and Methods}{45}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Time-series gene expression}{45}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Sample collection, MitoTracker staining and fixation}{45}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}mRNA \textit {in-situ} Hybridization Chain Reaction (HCR)}{47}{subsection.4.1.3}%
-\contentsline {subsubsection}{HCR probe design}{47}{section*.9}%
-\contentsline {subsubsection}{Fluorescent \textit {in-situ} hybridization through hybridization chain reaction and microscope imaging}{47}{section*.11}%
-\contentsline {subsection}{\numberline {4.1.4}Immunolocalization of Vasa}{48}{subsection.4.1.4}%
-\contentsline {chapter}{References}{62}{chapter*.13}%
+\contentsline {section}{\numberline {3.4}Discussion}{42}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}A new manually-curated and phylogenetic-based reference dataset of \textit {Dmrt}, \textit {Sox}, and \textit {Fox} genes in bivalves}{42}{subsection.3.4.1}%
+\contentsline {chapter}{\numberline {4}Expression patterns of three sex-related genes and the germline marker \textit {Vasa} in early developmental stages of \textit {Mytilus galloprovincialis} embryos}{48}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Materials and Methods}{49}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Time-series gene expression}{49}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Sample collection, MitoTracker staining and fixation}{49}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}mRNA \textit {in-situ} Hybridization Chain Reaction (HCR)}{51}{subsection.4.1.3}%
+\contentsline {subsubsection}{HCR probe design}{51}{section*.9}%
+\contentsline {subsubsection}{Fluorescent \textit {in-situ} hybridization through hybridization chain reaction and microscope imaging}{51}{section*.11}%
+\contentsline {subsection}{\numberline {4.1.4}Immunolocalization of Vasa}{52}{subsection.4.1.4}%
+\contentsline {chapter}{References}{66}{chapter*.13}%
 \contentsfinish 
