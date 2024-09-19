@@ -1,4 +1,4 @@
-GENES	GENES	
+GENES	GENES
 Group	%_missing_data_(out_of_43_bivalve_species)
 Dmrt-1L	48.837209
 Dmrt-3	30.232558
@@ -33,7 +33,7 @@ Sox-D	4.651163
 Sox-E	9.302326
 Sox-F	13.953488
 Sox-H	20.930233
-SPECIES	SPECIES	
+SPECIES	SPECIES
 Species	%_missing_data_(out_of_33_DSFGs)
 A._irradians_concentricus	0.000000
 A._marissinica	21.212121
