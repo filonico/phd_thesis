@@ -222,12 +222,12 @@ INPUT .\sections\frontpage.tex
 INPUT sections\frontpage.tex
 INPUT .\sections\frontpage.tex
 INPUT sections\frontpage.tex
-INPUT .\images\logo.png
-INPUT images\logo.png
-INPUT .\images\logo.png
-INPUT .\images\logo.png
-INPUT .\images\logo.png
-INPUT .\images\logo.png
+INPUT .\figures\logo_unibo.png
+INPUT figures\logo_unibo.png
+INPUT .\figures\logo_unibo.png
+INPUT .\figures\logo_unibo.png
+INPUT .\figures\logo_unibo.png
+INPUT .\figures\logo_unibo.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
@@ -272,22 +272,22 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
-INPUT .\images\chapter2\fig_1.png
-INPUT images\chapter2\fig_1.png
-INPUT .\images\chapter2\fig_1.png
-INPUT .\images\chapter2\fig_1.png
-INPUT .\images\chapter2\fig_1.png
-INPUT .\images\chapter2\fig_1.png
+INPUT .\figures\chapter2\figure_1.png
+INPUT figures\chapter2\figure_1.png
+INPUT .\figures\chapter2\figure_1.png
+INPUT .\figures\chapter2\figure_1.png
+INPUT .\figures\chapter2\figure_1.png
+INPUT .\figures\chapter2\figure_1.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
-INPUT .\images\chapter2\fig_2.png
-INPUT images\chapter2\fig_2.png
-INPUT .\images\chapter2\fig_2.png
-INPUT .\images\chapter2\fig_2.png
-INPUT .\images\chapter2\fig_2.png
-INPUT .\images\chapter2\fig_2.png
+INPUT .\figures\chapter2\figure_2.png
+INPUT figures\chapter2\figure_2.png
+INPUT .\figures\chapter2\figure_2.png
+INPUT .\figures\chapter2\figure_2.png
+INPUT .\figures\chapter2\figure_2.png
+INPUT .\figures\chapter2\figure_2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
@@ -301,35 +301,35 @@ INPUT .\sections\chapter3_molecularEvolution.tex
 INPUT sections\chapter3_molecularEvolution.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
-INPUT .\images\chapter3\figure_1.png
-INPUT images\chapter3\figure_1.png
-INPUT .\images\chapter3\figure_1.png
-INPUT .\images\chapter3\figure_1.png
-INPUT .\images\chapter3\figure_1.png
-INPUT .\images\chapter3\figure_1.png
-INPUT .\images\chapter3\figure_2.png
-INPUT images\chapter3\figure_2.png
-INPUT .\images\chapter3\figure_2.png
-INPUT .\images\chapter3\figure_2.png
-INPUT .\images\chapter3\figure_2.png
-INPUT .\images\chapter3\figure_2.png
+INPUT .\figures\chapter3\figure_1.png
+INPUT figures\chapter3\figure_1.png
+INPUT .\figures\chapter3\figure_1.png
+INPUT .\figures\chapter3\figure_1.png
+INPUT .\figures\chapter3\figure_1.png
+INPUT .\figures\chapter3\figure_1.png
+INPUT .\figures\chapter3\figure_2.png
+INPUT figures\chapter3\figure_2.png
+INPUT .\figures\chapter3\figure_2.png
+INPUT .\figures\chapter3\figure_2.png
+INPUT .\figures\chapter3\figure_2.png
+INPUT .\figures\chapter3\figure_2.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
-INPUT .\images\chapter3\figure_3.png
-INPUT images\chapter3\figure_3.png
-INPUT .\images\chapter3\figure_3.png
-INPUT .\images\chapter3\figure_3.png
-INPUT .\images\chapter3\figure_3.png
-INPUT .\images\chapter3\figure_3.png
+INPUT .\figures\chapter3\figure_3.png
+INPUT figures\chapter3\figure_3.png
+INPUT .\figures\chapter3\figure_3.png
+INPUT .\figures\chapter3\figure_3.png
+INPUT .\figures\chapter3\figure_3.png
+INPUT .\figures\chapter3\figure_3.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
-INPUT .\images\chapter3\figure_4.png
-INPUT images\chapter3\figure_4.png
-INPUT .\images\chapter3\figure_4.png
-INPUT .\images\chapter3\figure_4.png
-INPUT .\images\chapter3\figure_4.png
-INPUT .\images\chapter3\figure_4.png
+INPUT .\figures\chapter3\figure_4.png
+INPUT figures\chapter3\figure_4.png
+INPUT .\figures\chapter3\figure_4.png
+INPUT .\figures\chapter3\figure_4.png
+INPUT .\figures\chapter3\figure_4.png
+INPUT .\figures\chapter3\figure_4.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti8.tfm
 INPUT .\sections\chapter4_insitu.tex
 INPUT .\sections\chapter4_insitu.tex
@@ -337,6 +337,13 @@ INPUT sections\chapter4_insitu.tex
 INPUT .\sections\chapter4_insitu.tex
 INPUT .\sections\chapter4_insitu.tex
 INPUT sections\chapter4_insitu.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT .\sections\appendix.tex
+INPUT .\sections\appendix.tex
+INPUT sections\appendix.tex
+INPUT .\sections\appendix.tex
+INPUT .\sections\appendix.tex
+INPUT sections\appendix.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
 INPUT main.aux
 INPUT .\main.out

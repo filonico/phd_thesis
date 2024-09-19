@@ -27,7 +27,7 @@
 % packages to manage images
 \usepackage{graphicx}
 \usepackage[labelfont=bf, font=small]{caption}
-\graphicspath{{./images/}}
+\graphicspath{{./figures/}}
 
 % packages to manage bibliography and cross-references
 \usepackage{nameref}
@@ -48,7 +48,11 @@
 
 \subfile{sections/frontpage.tex}
 
-\tableofcontents{}
+\pagenumbering{roman}
+\tableofcontents
+\clearpage
+
+\pagenumbering{arabic}
 
 \subfile{sections/chapter1_introduction}
 \subfile{sections/chapter2_perspective}
@@ -60,5 +64,8 @@
 \printbibliography[title=References]
 \addcontentsline{toc}{chapter}{References}
 \end{refcontext}
+
+% appendix
+\subfile{sections/appendix}
 
 \end{document}
