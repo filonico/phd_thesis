@@ -432,7 +432,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome biology and evolution}
       \field{number}{1}
-      \field{title}{A new standard for crustacean genomes: the highly contiguous, annotated genome assembly of the clam shrimp Eulimnadia texana reveals HOX gene order and identifies the sex chromosome}
+      \field{title}{A new standard for crustacean genomes: the highly contiguous, annotated genome assembly of the clam shrimp \textit{Eulimnadia texana} reveals HOX gene order and identifies the sex chromosome}
       \field{volume}{10}
       \field{year}{2018}
       \field{pages}{143\bibrangedash 156}
@@ -1392,7 +1392,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
       \field{number}{1}
-      \field{title}{Sexual and temporal dynamics of molecular evolution in C. elegans development}
+      \field{title}{Sexual and temporal dynamics of molecular evolution in \textit{C. elegans} development}
       \field{volume}{22}
       \field{year}{2005}
       \field{pages}{178\bibrangedash 188}
@@ -1557,7 +1557,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC genomics}
-      \field{title}{Profiling sex-biased gene expression during parthenogenetic reproduction in Daphnia pulex}
+      \field{title}{Profiling sex-biased gene expression during parthenogenetic reproduction in \textit{Daphnia pulex}}
       \field{volume}{8}
       \field{year}{2007}
       \field{pages}{1\bibrangedash 14}
@@ -2466,7 +2466,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
       \field{number}{2}
-      \field{title}{Evolution of the Sox gene family within the chordate phylum}
+      \field{title}{Evolution of the \textit{Sox} gene family within the chordate phylum}
       \field{volume}{575}
       \field{year}{2016}
       \field{pages}{385\bibrangedash 392}
@@ -3568,7 +3568,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
-      \field{title}{Characterization and expression patterns of the Fox gene family under heat and cold stress in Manila clam Ruditapes philippinarum based on genome-wide identification}
+      \field{title}{Characterization and expression patterns of the Fox gene family under heat and cold stress in Manila clam \textit{Ruditapes philippinarum} based on genome-wide identification}
       \field{year}{2024}
       \field{pages}{101313}
       \range{pages}{1}
@@ -3959,7 +3959,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
-      \field{title}{Phylogenetic relationships of the Fox (Forkhead) gene family in the Bilateria}
+      \field{title}{Phylogenetic relationships of the \textit{Fox} (Forkhead) gene family in the Bilateria}
       \field{volume}{316}
       \field{year}{2003}
       \field{pages}{79\bibrangedash 89}
@@ -4570,7 +4570,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Ecology and Evolution}
-      \field{title}{Comparative genomics of Hox and ParaHox genes among major lineages of Branchiopoda with emphasis on tadpole shrimps}
+      \field{title}{Comparative genomics of \textit{Hox} and \textit{ParaHox} genes among major lineages of Branchiopoda with emphasis on tadpole shrimps}
       \field{volume}{11}
       \field{year}{2023}
       \field{pages}{1046960}
@@ -4687,7 +4687,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in zoology}
-      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod Dmrt genes}
+      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod \textit{Dmrt} genes}
       \field{volume}{16}
       \field{year}{2019}
       \field{pages}{1\bibrangedash 18}
@@ -4763,7 +4763,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome research}
       \field{number}{9}
-      \field{title}{Rapid evolution of female-biased genes among four species of Anopheles malaria mosquitoes}
+      \field{title}{Rapid evolution of female-biased genes among four species of \textit{Anopheles} malaria mosquitoes}
       \field{volume}{27}
       \field{year}{2017}
       \field{pages}{1536\bibrangedash 1548}
@@ -4991,7 +4991,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome}
       \field{number}{09}
-      \field{title}{Cytogenetic characterization of the invasive mussel species Xenostrobus securis Lmk.(Bivalvia: Mytilidae)}
+      \field{title}{Cytogenetic characterization of the invasive mussel species \textit{Xenostrobus securis} Lmk. (Bivalvia: Mytilidae)}
       \field{volume}{54}
       \field{year}{2011}
       \field{pages}{771\bibrangedash 778}
@@ -5145,7 +5145,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{The international journal of biochemistry \& cell biology}
       \field{number}{3}
-      \field{title}{No backbone but lots of Sox: Invertebrate Sox genes}
+      \field{title}{No backbone but lots of \textit{Sox}: Invertebrate \textit{Sox} genes}
       \field{volume}{42}
       \field{year}{2010}
       \field{pages}{453\bibrangedash 464}
@@ -5496,7 +5496,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cell stem cell}
       \field{number}{1}
-      \field{title}{The sox family of transcription factors: versatile regulators of stem and progenitor cell fate}
+      \field{title}{The \textit{sox} family of transcription factors: versatile regulators of stem and progenitor cell fate}
       \field{volume}{12}
       \field{year}{2013}
       \field{pages}{15\bibrangedash 30}
@@ -5633,7 +5633,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome Biology and Evolution}
       \field{number}{10}
-      \field{title}{The Fox gene repertoire in the annelid Owenia fusiformis reveals multiple expansions of the foxQ2 class in Spiralia}
+      \field{title}{The \textit{Fox} gene repertoire in the annelid \textit{Owenia fusiformis} reveals multiple expansions of the \textit{foxQ2} class in Spiralia}
       \field{volume}{14}
       \field{year}{2022}
       \field{pages}{evac139}
@@ -5784,7 +5784,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Developmental biology}
       \field{number}{2}
-      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian Fox gene cluster}
+      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian \textit{Fox} gene cluster}
       \field{volume}{340}
       \field{year}{2010}
       \field{pages}{234\bibrangedash 248}
@@ -6481,7 +6481,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC genomics}
       \field{number}{1}
-      \field{title}{Genome-wide identification and expression analysis of Dmrt genes in bivalves}
+      \field{title}{Genome-wide identification and expression analysis of \textit{Dmrt} genes in bivalves}
       \field{volume}{24}
       \field{year}{2023}
       \field{pages}{457}
@@ -7120,7 +7120,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Chinese journal of oceanology and limnology}
       \field{number}{6}
-      \field{title}{Phylogeny of forkhead genes in three spiralians and their expression in Pacific oyster Crassostrea gigas}
+      \field{title}{Phylogeny of forkhead genes in three spiralians and their expression in Pacific oyster \textit{Crassostrea gigas}}
       \field{volume}{32}
       \field{year}{2014}
       \field{pages}{1207\bibrangedash 1223}
@@ -7252,7 +7252,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
       \field{sortyear}{2017-2}
-      \field{title}{Genome-wide identification and expression profiling of the SOX gene family in a bivalve mollusc Patinopecten yessoensis}
+      \field{title}{Genome-wide identification and expression profiling of the SOX gene family in a bivalve mollusc \textit{Patinopecten yessoensis}}
       \field{volume}{627}
       \field{year}{2017}
       \field{pages}{530\bibrangedash 537}
@@ -7309,7 +7309,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development genes and evolution}
-      \field{title}{The Fox genes of Branchiostoma floridae}
+      \field{title}{The \textit{Fox} genes of \textit{Branchiostoma floridae}}
       \field{volume}{218}
       \field{year}{2008}
       \field{pages}{629\bibrangedash 638}
@@ -7509,7 +7509,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
-      \field{title}{Phylogenetic relationships of the Fox (Forkhead) gene family in the Bilateria}
+      \field{title}{Phylogenetic relationships of the \textit{Fox} (Forkhead) gene family in the Bilateria}
       \field{volume}{316}
       \field{year}{2003}
       \field{pages}{79\bibrangedash 89}
@@ -7667,7 +7667,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
       \field{number}{1}
-      \field{title}{Sexual and temporal dynamics of molecular evolution in C. elegans development}
+      \field{title}{Sexual and temporal dynamics of molecular evolution in \textit{C. elegans} development}
       \field{volume}{22}
       \field{year}{2005}
       \field{pages}{178\bibrangedash 188}
@@ -7965,7 +7965,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC genomics}
-      \field{title}{Profiling sex-biased gene expression during parthenogenetic reproduction in Daphnia pulex}
+      \field{title}{Profiling sex-biased gene expression during parthenogenetic reproduction in \textit{Daphnia pulex}}
       \field{volume}{8}
       \field{year}{2007}
       \field{pages}{1\bibrangedash 14}
@@ -8125,7 +8125,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development genes and evolution}
-      \field{title}{The Fox genes of Branchiostoma floridae}
+      \field{title}{The \textit{Fox} genes of \textit{Branchiostoma floridae}}
       \field{volume}{218}
       \field{year}{2008}
       \field{pages}{629\bibrangedash 638}
@@ -8498,7 +8498,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{The international journal of biochemistry \& cell biology}
       \field{number}{3}
-      \field{title}{No backbone but lots of Sox: Invertebrate Sox genes}
+      \field{title}{No backbone but lots of \textit{Sox}: Invertebrate \textit{Sox} genes}
       \field{volume}{42}
       \field{year}{2010}
       \field{pages}{453\bibrangedash 464}
@@ -8552,7 +8552,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Developmental biology}
       \field{number}{2}
-      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian Fox gene cluster}
+      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian \textit{Fox} gene cluster}
       \field{volume}{340}
       \field{year}{2010}
       \field{pages}{234\bibrangedash 248}
@@ -8885,7 +8885,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome}
       \field{number}{09}
-      \field{title}{Cytogenetic characterization of the invasive mussel species Xenostrobus securis Lmk.(Bivalvia: Mytilidae)}
+      \field{title}{Cytogenetic characterization of the invasive mussel species \textit{Xenostrobus securis} Lmk. (Bivalvia: Mytilidae)}
       \field{volume}{54}
       \field{year}{2011}
       \field{pages}{771\bibrangedash 778}
@@ -9467,7 +9467,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cell stem cell}
       \field{number}{1}
-      \field{title}{The sox family of transcription factors: versatile regulators of stem and progenitor cell fate}
+      \field{title}{The \textit{sox} family of transcription factors: versatile regulators of stem and progenitor cell fate}
       \field{volume}{12}
       \field{year}{2013}
       \field{pages}{15\bibrangedash 30}
@@ -9960,7 +9960,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Chinese journal of oceanology and limnology}
       \field{number}{6}
-      \field{title}{Phylogeny of forkhead genes in three spiralians and their expression in Pacific oyster Crassostrea gigas}
+      \field{title}{Phylogeny of forkhead genes in three spiralians and their expression in Pacific oyster \textit{Crassostrea gigas}}
       \field{volume}{32}
       \field{year}{2014}
       \field{pages}{1207\bibrangedash 1223}
@@ -10390,7 +10390,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
       \field{number}{2}
-      \field{title}{Evolution of the Sox gene family within the chordate phylum}
+      \field{title}{Evolution of the \textit{Sox} gene family within the chordate phylum}
       \field{volume}{575}
       \field{year}{2016}
       \field{pages}{385\bibrangedash 392}
@@ -10668,7 +10668,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome research}
       \field{number}{9}
-      \field{title}{Rapid evolution of female-biased genes among four species of Anopheles malaria mosquitoes}
+      \field{title}{Rapid evolution of female-biased genes among four species of \textit{Anopheles} malaria mosquitoes}
       \field{volume}{27}
       \field{year}{2017}
       \field{pages}{1536\bibrangedash 1548}
@@ -10869,7 +10869,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome biology and evolution}
       \field{number}{1}
-      \field{title}{A new standard for crustacean genomes: the highly contiguous, annotated genome assembly of the clam shrimp Eulimnadia texana reveals HOX gene order and identifies the sex chromosome}
+      \field{title}{A new standard for crustacean genomes: the highly contiguous, annotated genome assembly of the clam shrimp \textit{Eulimnadia texana} reveals HOX gene order and identifies the sex chromosome}
       \field{volume}{10}
       \field{year}{2018}
       \field{pages}{143\bibrangedash 156}
@@ -11704,7 +11704,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in zoology}
-      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod Dmrt genes}
+      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod \textit{Dmrt} genes}
       \field{volume}{16}
       \field{year}{2019}
       \field{pages}{1\bibrangedash 18}
@@ -13962,7 +13962,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome Biology and Evolution}
       \field{number}{10}
-      \field{title}{The Fox gene repertoire in the annelid Owenia fusiformis reveals multiple expansions of the foxQ2 class in Spiralia}
+      \field{title}{The \textit{Fox} gene repertoire in the annelid \textit{Owenia fusiformis} reveals multiple expansions of the \textit{foxQ2} class in Spiralia}
       \field{volume}{14}
       \field{year}{2022}
       \field{pages}{evac139}
@@ -14282,7 +14282,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Ecology and Evolution}
-      \field{title}{Comparative genomics of Hox and ParaHox genes among major lineages of Branchiopoda with emphasis on tadpole shrimps}
+      \field{title}{Comparative genomics of \textit{Hox} and \textit{ParaHox} genes among major lineages of Branchiopoda with emphasis on tadpole shrimps}
       \field{volume}{11}
       \field{year}{2023}
       \field{pages}{1046960}
@@ -14326,7 +14326,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC genomics}
       \field{number}{1}
-      \field{title}{Genome-wide identification and expression analysis of Dmrt genes in bivalves}
+      \field{title}{Genome-wide identification and expression analysis of \textit{Dmrt} genes in bivalves}
       \field{volume}{24}
       \field{year}{2023}
       \field{pages}{457}
@@ -14460,7 +14460,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
-      \field{title}{Characterization and expression patterns of the Fox gene family under heat and cold stress in Manila clam Ruditapes philippinarum based on genome-wide identification}
+      \field{title}{Characterization and expression patterns of the Fox gene family under heat and cold stress in Manila clam \textit{Ruditapes philippinarum} based on genome-wide identification}
       \field{year}{2024}
       \field{pages}{101313}
       \range{pages}{1}
@@ -14897,7 +14897,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
       \field{sortyear}{2017-2}
-      \field{title}{Genome-wide identification and expression profiling of the SOX gene family in a bivalve mollusc Patinopecten yessoensis}
+      \field{title}{Genome-wide identification and expression profiling of the SOX gene family in a bivalve mollusc \textit{Patinopecten yessoensis}}
       \field{volume}{627}
       \field{year}{2017}
       \field{pages}{530\bibrangedash 537}
@@ -14952,7 +14952,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
-      \field{title}{Phylogenetic relationships of the Fox (Forkhead) gene family in the Bilateria}
+      \field{title}{Phylogenetic relationships of the \textit{Fox} (Forkhead) gene family in the Bilateria}
       \field{volume}{316}
       \field{year}{2003}
       \field{pages}{79\bibrangedash 89}
@@ -15110,7 +15110,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
       \field{number}{1}
-      \field{title}{Sexual and temporal dynamics of molecular evolution in C. elegans development}
+      \field{title}{Sexual and temporal dynamics of molecular evolution in \textit{C. elegans} development}
       \field{volume}{22}
       \field{year}{2005}
       \field{pages}{178\bibrangedash 188}
@@ -15408,7 +15408,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC genomics}
-      \field{title}{Profiling sex-biased gene expression during parthenogenetic reproduction in Daphnia pulex}
+      \field{title}{Profiling sex-biased gene expression during parthenogenetic reproduction in \textit{Daphnia pulex}}
       \field{volume}{8}
       \field{year}{2007}
       \field{pages}{1\bibrangedash 14}
@@ -15568,7 +15568,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development genes and evolution}
-      \field{title}{The Fox genes of Branchiostoma floridae}
+      \field{title}{The \textit{Fox} genes of \textit{Branchiostoma floridae}}
       \field{volume}{218}
       \field{year}{2008}
       \field{pages}{629\bibrangedash 638}
@@ -15941,7 +15941,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{The international journal of biochemistry \& cell biology}
       \field{number}{3}
-      \field{title}{No backbone but lots of Sox: Invertebrate Sox genes}
+      \field{title}{No backbone but lots of \textit{Sox}: Invertebrate \textit{Sox} genes}
       \field{volume}{42}
       \field{year}{2010}
       \field{pages}{453\bibrangedash 464}
@@ -15995,7 +15995,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Developmental biology}
       \field{number}{2}
-      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian Fox gene cluster}
+      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian \textit{Fox} gene cluster}
       \field{volume}{340}
       \field{year}{2010}
       \field{pages}{234\bibrangedash 248}
@@ -16328,7 +16328,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome}
       \field{number}{09}
-      \field{title}{Cytogenetic characterization of the invasive mussel species Xenostrobus securis Lmk.(Bivalvia: Mytilidae)}
+      \field{title}{Cytogenetic characterization of the invasive mussel species \textit{Xenostrobus securis} Lmk. (Bivalvia: Mytilidae)}
       \field{volume}{54}
       \field{year}{2011}
       \field{pages}{771\bibrangedash 778}
@@ -16910,7 +16910,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cell stem cell}
       \field{number}{1}
-      \field{title}{The sox family of transcription factors: versatile regulators of stem and progenitor cell fate}
+      \field{title}{The \textit{sox} family of transcription factors: versatile regulators of stem and progenitor cell fate}
       \field{volume}{12}
       \field{year}{2013}
       \field{pages}{15\bibrangedash 30}
@@ -17403,7 +17403,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Chinese journal of oceanology and limnology}
       \field{number}{6}
-      \field{title}{Phylogeny of forkhead genes in three spiralians and their expression in Pacific oyster Crassostrea gigas}
+      \field{title}{Phylogeny of forkhead genes in three spiralians and their expression in Pacific oyster \textit{Crassostrea gigas}}
       \field{volume}{32}
       \field{year}{2014}
       \field{pages}{1207\bibrangedash 1223}
@@ -17833,7 +17833,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
       \field{number}{2}
-      \field{title}{Evolution of the Sox gene family within the chordate phylum}
+      \field{title}{Evolution of the \textit{Sox} gene family within the chordate phylum}
       \field{volume}{575}
       \field{year}{2016}
       \field{pages}{385\bibrangedash 392}
@@ -18111,7 +18111,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome research}
       \field{number}{9}
-      \field{title}{Rapid evolution of female-biased genes among four species of Anopheles malaria mosquitoes}
+      \field{title}{Rapid evolution of female-biased genes among four species of \textit{Anopheles} malaria mosquitoes}
       \field{volume}{27}
       \field{year}{2017}
       \field{pages}{1536\bibrangedash 1548}
@@ -18312,7 +18312,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome biology and evolution}
       \field{number}{1}
-      \field{title}{A new standard for crustacean genomes: the highly contiguous, annotated genome assembly of the clam shrimp Eulimnadia texana reveals HOX gene order and identifies the sex chromosome}
+      \field{title}{A new standard for crustacean genomes: the highly contiguous, annotated genome assembly of the clam shrimp \textit{Eulimnadia texana} reveals HOX gene order and identifies the sex chromosome}
       \field{volume}{10}
       \field{year}{2018}
       \field{pages}{143\bibrangedash 156}
@@ -19147,7 +19147,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in zoology}
-      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod Dmrt genes}
+      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod \textit{Dmrt} genes}
       \field{volume}{16}
       \field{year}{2019}
       \field{pages}{1\bibrangedash 18}
@@ -21405,7 +21405,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome Biology and Evolution}
       \field{number}{10}
-      \field{title}{The Fox gene repertoire in the annelid Owenia fusiformis reveals multiple expansions of the foxQ2 class in Spiralia}
+      \field{title}{The \textit{Fox} gene repertoire in the annelid \textit{Owenia fusiformis} reveals multiple expansions of the \textit{foxQ2} class in Spiralia}
       \field{volume}{14}
       \field{year}{2022}
       \field{pages}{evac139}
@@ -21725,7 +21725,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Ecology and Evolution}
-      \field{title}{Comparative genomics of Hox and ParaHox genes among major lineages of Branchiopoda with emphasis on tadpole shrimps}
+      \field{title}{Comparative genomics of \textit{Hox} and \textit{ParaHox} genes among major lineages of Branchiopoda with emphasis on tadpole shrimps}
       \field{volume}{11}
       \field{year}{2023}
       \field{pages}{1046960}
@@ -21769,7 +21769,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC genomics}
       \field{number}{1}
-      \field{title}{Genome-wide identification and expression analysis of Dmrt genes in bivalves}
+      \field{title}{Genome-wide identification and expression analysis of \textit{Dmrt} genes in bivalves}
       \field{volume}{24}
       \field{year}{2023}
       \field{pages}{457}
@@ -21903,7 +21903,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
-      \field{title}{Characterization and expression patterns of the Fox gene family under heat and cold stress in Manila clam Ruditapes philippinarum based on genome-wide identification}
+      \field{title}{Characterization and expression patterns of the Fox gene family under heat and cold stress in Manila clam \textit{Ruditapes philippinarum} based on genome-wide identification}
       \field{year}{2024}
       \field{pages}{101313}
       \range{pages}{1}
@@ -22340,7 +22340,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
       \field{sortyear}{2017-2}
-      \field{title}{Genome-wide identification and expression profiling of the SOX gene family in a bivalve mollusc Patinopecten yessoensis}
+      \field{title}{Genome-wide identification and expression profiling of the SOX gene family in a bivalve mollusc \textit{Patinopecten yessoensis}}
       \field{volume}{627}
       \field{year}{2017}
       \field{pages}{530\bibrangedash 537}
