@@ -38,9 +38,16 @@
 % package to manage random text
 \usepackage{lipsum}
 
-% package for chemical formulae and special symbol
+% packages for chemical formulae and special symbol
 \usepackage{mhchem}
 \usepackage{textcomp}
+
+% packages and commands for glossaries
+\usepackage[acronym, nonumberlist, toc, nomain, nogroupskip, nopostdot, shortcuts, style=super]{glossaries}
+\makeglossaries
+\loadglsentries{sections/abbreviations}
+\renewcommand{\glsnamefont}[1]{\textbf{#1}} % make entries in list bold
+\preto\chapter{\glsresetall} % reset glossary every chpater
 
 %------------------------------------------------------------------
 
@@ -53,6 +60,8 @@
 \clearpage
 
 \pagenumbering{arabic}
+
+\printglossary[type=\acronymtype, title=List of abbreviations, toctitle=List of abbreviations]
 
 \subfile{sections/chapter1_introduction}
 \subfile{sections/chapter2_perspective}

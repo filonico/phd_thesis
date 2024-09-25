@@ -1,0 +1,28 @@
+\glsdefs@newdocentry{sd}%
+{%
+name={\acronymfont {\glsentryshort {sd}}},%
+sort={SD},%
+type={acronym},%
+first={SD},%
+firstplural={SDs},%
+text={SD},%
+plural={SDs},%
+description={sex determination},%
+descriptionplural={sex determination},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={sex determination},%
+longplural={sex determinations},%
+short={SD},%
+shortplural={SDs},%
+counter={page},%
+parent={},%
+%
+}%
+
