@@ -177,12 +177,14 @@ INPUT C:\Program Files\MiKTeX\tex\latex\chemgreek\chemgreek.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\chemgreek\chemgreek.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\glossaries\base\glossaries.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\glossaries\base\glossaries.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\glossaries-extra\glossaries-extra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\glossaries-extra\glossaries-extra.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\xkeyval\xkeyval.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\xkeyval\xkeyval.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\xkeyval\xkeyval.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\glossaries\base\glossaries.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\glossaries\base\glossaries.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\mfirstuc\mfirstuc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\mfirstuc\mfirstuc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\xfor\xfor.sty
@@ -230,7 +232,9 @@ INPUT C:\Program Files\MiKTeX\tex\latex\glossaries\styles\glossary-super.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\supertabular\supertabular.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\glossaries\styles\glossary-tree.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\glossaries\styles\glossary-tree.sty
-OUTPUT main.acn
+INPUT C:\Program Files\MiKTeX\tex\latex\glossaries-extra\glossaries-extra-abbrstyles.def
+INPUT C:\Program Files\MiKTeX\tex\latex\glossaries-extra\glossaries-extra-abbrstyles.def
+INPUT C:\Program Files\MiKTeX\tex\latex\glossaries-extra\glossaries-extra-abbrstyles.def
 INPUT .\sections\abbreviations.tex
 INPUT .\sections\abbreviations.tex
 INPUT .\sections\abbreviations.tex
@@ -277,9 +281,6 @@ INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
-INPUT .\main.glsdefs
-INPUT .\main.glsdefs
-INPUT main.glsdefs
 INPUT .\sections\frontpage.tex
 INPUT sections\frontpage.tex
 INPUT .\sections\frontpage.tex
@@ -296,7 +297,6 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-OUTPUT main.ist
 INPUT C:\Users\nicol\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
@@ -318,9 +318,6 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
 OUTPUT main.toc
-INPUT .\main.acr
-INPUT .\main.acr
-INPUT main.acr
 INPUT .\sections\chapter1_introduction.tex
 INPUT .\sections\chapter1_introduction.tex
 INPUT sections\chapter1_introduction.tex
@@ -346,7 +343,6 @@ INPUT .\figures\chapter2\figure_1.png
 INPUT .\figures\chapter2\figure_1.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
 INPUT .\figures\chapter2\figure_2.png
 INPUT figures\chapter2\figure_2.png
@@ -373,6 +369,7 @@ INPUT .\figures\chapter3\figure_1.png
 INPUT .\figures\chapter3\figure_1.png
 INPUT .\figures\chapter3\figure_1.png
 INPUT .\figures\chapter3\figure_1.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT .\figures\chapter3\figure_2.png
 INPUT figures\chapter3\figure_2.png
 INPUT .\figures\chapter3\figure_2.png

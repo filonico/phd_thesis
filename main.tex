@@ -1,3 +1,5 @@
+%---------------------------------------------------------------------------
+
 % document style
 \documentclass[12pt]{report}
 \usepackage[a4paper, total={17cm,25cm}]{geometry}
@@ -38,18 +40,18 @@
 % package to manage random text
 \usepackage{lipsum}
 
-% packages for chemical formulae and special symbol
+% packages for chemical formulae and special symbols
 \usepackage{mhchem}
 \usepackage{textcomp}
 
-% packages and commands for glossaries
-\usepackage[acronym, nonumberlist, toc, nomain, nogroupskip, nopostdot, shortcuts, style=super]{glossaries}
-\makeglossaries
-\loadglsentries{sections/abbreviations}
+% packages and commands for acronyms (and species abbreviations)
+\usepackage[acronym, nonumberlist, toc, nomain, nogroupskip, nopostdot, shortcuts, style=super]{glossaries-extra}
 \renewcommand{\glsnamefont}[1]{\textbf{#1}} % make entries in list bold
-\preto\chapter{\glsresetall} % reset glossary every chpater
+\setabbreviationstyle[species]{long-only-short-only}
+\loadglsentries{sections/abbreviations}
+\preto\chapter\glsresetall % reset glossary for every chapter
 
-%------------------------------------------------------------------
+%-------------------------------------------------------------------------
 
 \begin{document}
 
@@ -61,7 +63,16 @@
 
 \pagenumbering{arabic}
 
-\printglossary[type=\acronymtype, title=List of abbreviations, toctitle=List of abbreviations]
+\printunsrtglossary*[title={List of abbreviations}, toctitle={List of abbreviations}]
+{
+   \renewcommand{\printunsrtglossaryentryprocesshook}[1]{
+   \glsxtriflabelinlist
+   {\glscategory{#1}} % category label for this entry
+   {species} % exclusion list
+   {\printunsrtglossaryskipentry} % skip (exclude)
+   {} % don't skip (include)
+}
+}
 
 \subfile{sections/chapter1_introduction}
 \subfile{sections/chapter2_perspective}
