@@ -46,9 +46,9 @@
 
 % packages and commands for acronyms (and species abbreviations)
 \usepackage[acronym, nonumberlist, toc, nomain, nogroupskip, nopostdot, shortcuts, style=super]{glossaries-extra}
-\renewcommand{\glsnamefont}[1]{\textbf{#1}} % make entries in list bold
 \setabbreviationstyle[species]{long-only-short-only}
 \loadglsentries{sections/abbreviations}
+\renewcommand{\glsnamefont}[1]{\textbf{#1}} % make entries in glossary bold
 \preto\chapter\glsresetall % reset glossary for every chapter
 
 %-------------------------------------------------------------------------

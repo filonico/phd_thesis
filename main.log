@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  2 OCT 2024 18:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  3 OCT 2024 15:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -849,7 +849,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
+ (main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                papa2017anopheles
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 56.
 Package biblatex Info: Reference segment=0 on input line 56.
 
@@ -901,6 +909,10 @@ Chapter 1.
 
 ]
 
+LaTeX Warning: Citation 'papa2017anopheles' on page 4 undefined on input line 20.
+
+
+
 [4]
 Overfull \hbox (11.33884pt too wide) in paragraph at lines 24--24
 []\OT1/cmr/bx/n/17.28 Sex de-ter-mi-na-tion in bi-valves: a long-standing enigma 
@@ -934,7 +946,7 @@ Overfull \hbox (11.58908pt too wide) in paragraph at lines 44--45
 []\OT1/cmr/m/n/12 Researchers have been ad-dress-ing this topic mainly in snakes, ratites and stur-geons ([]\OT1/cmr/bx/n/12 Bachtrog
  []
 
-<./figures/chapter2/figure_1.png, id=565, 5548.73pt x 4710.59875pt>
+<./figures/chapter2/figure_1.png, id=577, 5548.73pt x 4710.59875pt>
 File: ./figures/chapter2/figure_1.png Graphic file (type png)
 <use ./figures/chapter2/figure_1.png>
 Package pdftex.def Info: ./figures/chapter2/figure_1.png  used on input line 51.
@@ -946,7 +958,7 @@ Package pdftex.def Info: ./figures/chapter2/figure_1.png  used on input line 51.
 [13 <./figures/chapter2/figure_1.png>]
 
 [14]
-<./figures/chapter2/figure_2.png, id=683, 6965.02126pt x 4262.92625pt>
+<./figures/chapter2/figure_2.png, id=695, 6965.02126pt x 4262.92625pt>
 File: ./figures/chapter2/figure_2.png Graphic file (type png)
 <use ./figures/chapter2/figure_2.png>
 Package pdftex.def Info: ./figures/chapter2/figure_2.png  used on input line 75.
@@ -989,7 +1001,7 @@ $[]$\OT1/cmr/m/it/12 Department of Bi-o-log-i-cal, Ge-o-log-i-cal and En-vi-ron-
 [29]
 
 [30]
-<./figures/chapter3/figure_1.png, id=987, 3388.66pt x 1675.25874pt>
+<./figures/chapter3/figure_1.png, id=1000, 3388.66pt x 1675.25874pt>
 File: ./figures/chapter3/figure_1.png Graphic file (type png)
 <use ./figures/chapter3/figure_1.png>
 Package pdftex.def Info: ./figures/chapter3/figure_1.png  used on input line 60.
@@ -1001,7 +1013,7 @@ Package pdftex.def Info: ./figures/chapter3/figure_1.png  used on input line 60.
 [32]
 
 [33]
-<./figures/chapter3/figure_2.png, id=1022, 6539.43124pt x 7565.26375pt>
+<./figures/chapter3/figure_2.png, id=1035, 6539.43124pt x 7565.26375pt>
 File: ./figures/chapter3/figure_2.png Graphic file (type png)
 <use ./figures/chapter3/figure_2.png>
 Package pdftex.def Info: ./figures/chapter3/figure_2.png  used on input line 83.
@@ -1015,7 +1027,7 @@ LaTeX Warning: Float too large for page by 7.80179pt on input line 89.
 [34]
 
 [35 <./figures/chapter3/figure_2.png>]
-<./figures/chapter3/figure_3.png, id=1043, 8677.41875pt x 8710.5425pt>
+<./figures/chapter3/figure_3.png, id=1056, 8677.41875pt x 8710.5425pt>
 File: ./figures/chapter3/figure_3.png Graphic file (type png)
 <use ./figures/chapter3/figure_3.png>
 Package pdftex.def Info: ./figures/chapter3/figure_3.png  used on input line 99.
@@ -1029,7 +1041,7 @@ Package pdftex.def Info: ./figures/chapter3/figure_3.png  used on input line 99.
 ] [39] [40]
 
 [41]
-<./figures/chapter3/figure_4.png, id=1081, 8681.43375pt x 10097.725pt>
+<./figures/chapter3/figure_4.png, id=1093, 8681.43375pt x 10097.725pt>
 File: ./figures/chapter3/figure_4.png Graphic file (type png)
 <use ./figures/chapter3/figure_4.png>
 Package pdftex.def Info: ./figures/chapter3/figure_4.png  used on input line 209.
@@ -1171,10 +1183,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30504 strings out of 473899
- 573975 string characters out of 5736316
+ 31118 strings out of 473899
+ 583088 string characters out of 5736316
  1968960 words of memory out of 5000000
- 52677 multiletter control sequences out of 15000+600000
+ 53279 multiletter control sequences out of 15000+600000
  572316 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  109i,9n,107p,6308b,5185s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1206,9 +1218,9 @@ pdfTeX warning (dest): name{glo:cgig} has been referenced but does not exist, re
 pdfTeX warning (dest): name{glo:dpul} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\nicol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (80 pages, 21335666 bytes).
+Output written on main.pdf (80 pages, 21337403 bytes).
 PDF statistics:
- 1504 PDF objects out of 1728 (max. 8388607)
- 320 named destinations out of 1000 (max. 500000)
+ 1520 PDF objects out of 1728 (max. 8388607)
+ 332 named destinations out of 1000 (max. 500000)
  380 words of extra memory for PDF output out of 10000 (max. 10000000)
 

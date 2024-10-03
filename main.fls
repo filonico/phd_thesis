@@ -318,6 +318,7 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
 OUTPUT main.toc
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT .\sections\chapter1_introduction.tex
 INPUT .\sections\chapter1_introduction.tex
 INPUT sections\chapter1_introduction.tex
@@ -376,7 +377,6 @@ INPUT .\figures\chapter3\figure_2.png
 INPUT .\figures\chapter3\figure_2.png
 INPUT .\figures\chapter3\figure_2.png
 INPUT .\figures\chapter3\figure_2.png
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT .\figures\chapter3\figure_3.png
 INPUT figures\chapter3\figure_3.png
 INPUT .\figures\chapter3\figure_3.png

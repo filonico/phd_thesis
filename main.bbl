@@ -3151,7 +3151,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Experimental Zoology Part B: Molecular and Developmental Evolution}
       \field{number}{4}
-      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in \textit{Platynereis dumerilii}}
+      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in Platynereis dumerilii}
       \field{volume}{338}
       \field{year}{2022}
       \field{pages}{225\bibrangedash 240}
@@ -4153,7 +4153,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development}
       \field{number}{4}
-      \field{title}{The Mediterranean mussel \textit{Mytilus galloprovincialis}: a novel model for developmental studies in mollusks}
+      \field{title}{The Mediterranean mussel Mytilus galloprovincialis: a novel model for developmental studies in mollusks}
       \field{volume}{151}
       \field{year}{2024}
       \field{pages}{dev202256}
@@ -4609,7 +4609,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development, growth \& differentiation}
       \field{number}{4}
-      \field{title}{Specific location of sperm mitochondria in mussel \textit{Mytilus galloprovincialis} zygotes stained by MitoTracker}
+      \field{title}{Specific location of sperm mitochondria in mussel Mytilus galloprovincialis zygotes stained by MitoTracker}
       \field{volume}{47}
       \field{year}{2005}
       \field{pages}{255\bibrangedash 263}
@@ -4693,82 +4693,6 @@
       \field{pages}{1\bibrangedash 18}
       \range{pages}{18}
     \endentry
-    \entry{papa2017anopheles}{article}{}{}
-      \name{author}{9}{}{%
-        {{hash=3735f9ba2490da01af60dc7da09511ff}{%
-           family={Papa},
-           familyi={P\bibinitperiod},
-           given={Francesco},
-           giveni={F\bibinitperiod}}}%
-        {{hash=15ea9f15dce341b2350f8e38dab5cee9}{%
-           family={Windbichler},
-           familyi={W\bibinitperiod},
-           given={Nikolai},
-           giveni={N\bibinitperiod}}}%
-        {{hash=6b399de267d3ee45187304aab883997f}{%
-           family={Waterhouse},
-           familyi={W\bibinitperiod},
-           given={Robert\bibnamedelima M},
-           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=94d2bbaae44d2e1ca13e527ee41dfe25}{%
-           family={Cagnetti},
-           familyi={C\bibinitperiod},
-           given={Alessia},
-           giveni={A\bibinitperiod}}}%
-        {{hash=8f22194600bce99708d7f0c8544a0767}{%
-           family={D'Amato},
-           familyi={D\bibinitperiod},
-           given={Rocco},
-           giveni={R\bibinitperiod}}}%
-        {{hash=b17d44e4d29cb32981a7296e53fde58a}{%
-           family={Persampieri},
-           familyi={P\bibinitperiod},
-           given={Tania},
-           giveni={T\bibinitperiod}}}%
-        {{hash=a106817d0593f42cb9916dec606d9b98}{%
-           family={Lawniczak},
-           familyi={L\bibinitperiod},
-           given={Mara\bibnamedelima KN},
-           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=3410667fcf0d3095029b66ef4a816a0f}{%
-           family={Nolan},
-           familyi={N\bibinitperiod},
-           given={Tony},
-           giveni={T\bibinitperiod}}}%
-        {{hash=40b4838227aa5d3d8008c2a3cdda7653}{%
-           family={Papathanos},
-           familyi={P\bibinitperiod},
-           given={Philippos\bibnamedelima Aris},
-           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Cold Spring Harbor Lab}%
-      }
-      \strng{namehash}{0f4c6eb9011f6454fac1f620023fcf0a}
-      \strng{fullhash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{fullhashraw}{64dde39406469c4cf99348a711d07cfa}
-      \strng{bibnamehash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{authorbibnamehash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{authornamehash}{0f4c6eb9011f6454fac1f620023fcf0a}
-      \strng{authorfullhash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{authorfullhashraw}{64dde39406469c4cf99348a711d07cfa}
-      \field{extraname}{1}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Genome research}
-      \field{number}{9}
-      \field{title}{Rapid evolution of female-biased genes among four species of \textit{Anopheles} malaria mosquitoes}
-      \field{volume}{27}
-      \field{year}{2017}
-      \field{pages}{1536\bibrangedash 1548}
-      \range{pages}{13}
-    \endentry
     \entry{papa2017rapid}{article}{}{}
       \name{author}{9}{}{%
         {{hash=3735f9ba2490da01af60dc7da09511ff}{%
@@ -4828,10 +4752,8 @@
       \strng{authornamehash}{0f4c6eb9011f6454fac1f620023fcf0a}
       \strng{authorfullhash}{64dde39406469c4cf99348a711d07cfa}
       \strng{authorfullhashraw}{64dde39406469c4cf99348a711d07cfa}
-      \field{extraname}{2}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -6437,7 +6359,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Marine Science}
-      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of \textit{Mytilus coruscus}}
+      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of Mytilus coruscus}
       \field{volume}{9}
       \field{year}{2022}
       \field{pages}{1013857}
@@ -7780,7 +7702,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development, growth \& differentiation}
       \field{number}{4}
-      \field{title}{Specific location of sperm mitochondria in mussel \textit{Mytilus galloprovincialis} zygotes stained by MitoTracker}
+      \field{title}{Specific location of sperm mitochondria in mussel Mytilus galloprovincialis zygotes stained by MitoTracker}
       \field{volume}{47}
       \field{year}{2005}
       \field{pages}{255\bibrangedash 263}
@@ -10598,82 +10520,6 @@
       \field{pages}{587\bibrangedash 589}
       \range{pages}{3}
     \endentry
-    \entry{papa2017anopheles}{article}{}{}
-      \name{author}{9}{}{%
-        {{hash=3735f9ba2490da01af60dc7da09511ff}{%
-           family={Papa},
-           familyi={P\bibinitperiod},
-           given={Francesco},
-           giveni={F\bibinitperiod}}}%
-        {{hash=15ea9f15dce341b2350f8e38dab5cee9}{%
-           family={Windbichler},
-           familyi={W\bibinitperiod},
-           given={Nikolai},
-           giveni={N\bibinitperiod}}}%
-        {{hash=6b399de267d3ee45187304aab883997f}{%
-           family={Waterhouse},
-           familyi={W\bibinitperiod},
-           given={Robert\bibnamedelima M},
-           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=94d2bbaae44d2e1ca13e527ee41dfe25}{%
-           family={Cagnetti},
-           familyi={C\bibinitperiod},
-           given={Alessia},
-           giveni={A\bibinitperiod}}}%
-        {{hash=8f22194600bce99708d7f0c8544a0767}{%
-           family={D'Amato},
-           familyi={D\bibinitperiod},
-           given={Rocco},
-           giveni={R\bibinitperiod}}}%
-        {{hash=b17d44e4d29cb32981a7296e53fde58a}{%
-           family={Persampieri},
-           familyi={P\bibinitperiod},
-           given={Tania},
-           giveni={T\bibinitperiod}}}%
-        {{hash=a106817d0593f42cb9916dec606d9b98}{%
-           family={Lawniczak},
-           familyi={L\bibinitperiod},
-           given={Mara\bibnamedelima KN},
-           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=3410667fcf0d3095029b66ef4a816a0f}{%
-           family={Nolan},
-           familyi={N\bibinitperiod},
-           given={Tony},
-           giveni={T\bibinitperiod}}}%
-        {{hash=40b4838227aa5d3d8008c2a3cdda7653}{%
-           family={Papathanos},
-           familyi={P\bibinitperiod},
-           given={Philippos\bibnamedelima Aris},
-           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Cold Spring Harbor Lab}%
-      }
-      \strng{namehash}{0f4c6eb9011f6454fac1f620023fcf0a}
-      \strng{fullhash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{fullhashraw}{64dde39406469c4cf99348a711d07cfa}
-      \strng{bibnamehash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{authorbibnamehash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{authornamehash}{0f4c6eb9011f6454fac1f620023fcf0a}
-      \strng{authorfullhash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{authorfullhashraw}{64dde39406469c4cf99348a711d07cfa}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Genome research}
-      \field{number}{9}
-      \field{title}{Rapid evolution of female-biased genes among four species of \textit{Anopheles} malaria mosquitoes}
-      \field{volume}{27}
-      \field{year}{2017}
-      \field{pages}{1536\bibrangedash 1548}
-      \range{pages}{13}
-    \endentry
     \entry{papa2017rapid}{article}{}{}
       \name{author}{9}{}{%
         {{hash=3735f9ba2490da01af60dc7da09511ff}{%
@@ -10733,10 +10579,8 @@
       \strng{authornamehash}{0f4c6eb9011f6454fac1f620023fcf0a}
       \strng{authorfullhash}{64dde39406469c4cf99348a711d07cfa}
       \strng{authorfullhashraw}{64dde39406469c4cf99348a711d07cfa}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -13744,7 +13588,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Experimental Zoology Part B: Molecular and Developmental Evolution}
       \field{number}{4}
-      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in \textit{Platynereis dumerilii}}
+      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in Platynereis dumerilii}
       \field{volume}{338}
       \field{year}{2022}
       \field{pages}{225\bibrangedash 240}
@@ -14073,7 +13917,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Marine Science}
-      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of \textit{Mytilus coruscus}}
+      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of Mytilus coruscus}
       \field{volume}{9}
       \field{year}{2022}
       \field{pages}{1013857}
@@ -14533,7 +14377,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development}
       \field{number}{4}
-      \field{title}{The Mediterranean mussel \textit{Mytilus galloprovincialis}: a novel model for developmental studies in mollusks}
+      \field{title}{The Mediterranean mussel Mytilus galloprovincialis: a novel model for developmental studies in mollusks}
       \field{volume}{151}
       \field{year}{2024}
       \field{pages}{dev202256}
@@ -15223,7 +15067,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development, growth \& differentiation}
       \field{number}{4}
-      \field{title}{Specific location of sperm mitochondria in mussel \textit{Mytilus galloprovincialis} zygotes stained by MitoTracker}
+      \field{title}{Specific location of sperm mitochondria in mussel Mytilus galloprovincialis zygotes stained by MitoTracker}
       \field{volume}{47}
       \field{year}{2005}
       \field{pages}{255\bibrangedash 263}
@@ -18041,82 +17885,6 @@
       \field{pages}{587\bibrangedash 589}
       \range{pages}{3}
     \endentry
-    \entry{papa2017anopheles}{article}{}{}
-      \name{author}{9}{}{%
-        {{hash=3735f9ba2490da01af60dc7da09511ff}{%
-           family={Papa},
-           familyi={P\bibinitperiod},
-           given={Francesco},
-           giveni={F\bibinitperiod}}}%
-        {{hash=15ea9f15dce341b2350f8e38dab5cee9}{%
-           family={Windbichler},
-           familyi={W\bibinitperiod},
-           given={Nikolai},
-           giveni={N\bibinitperiod}}}%
-        {{hash=6b399de267d3ee45187304aab883997f}{%
-           family={Waterhouse},
-           familyi={W\bibinitperiod},
-           given={Robert\bibnamedelima M},
-           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=94d2bbaae44d2e1ca13e527ee41dfe25}{%
-           family={Cagnetti},
-           familyi={C\bibinitperiod},
-           given={Alessia},
-           giveni={A\bibinitperiod}}}%
-        {{hash=8f22194600bce99708d7f0c8544a0767}{%
-           family={D'Amato},
-           familyi={D\bibinitperiod},
-           given={Rocco},
-           giveni={R\bibinitperiod}}}%
-        {{hash=b17d44e4d29cb32981a7296e53fde58a}{%
-           family={Persampieri},
-           familyi={P\bibinitperiod},
-           given={Tania},
-           giveni={T\bibinitperiod}}}%
-        {{hash=a106817d0593f42cb9916dec606d9b98}{%
-           family={Lawniczak},
-           familyi={L\bibinitperiod},
-           given={Mara\bibnamedelima KN},
-           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=3410667fcf0d3095029b66ef4a816a0f}{%
-           family={Nolan},
-           familyi={N\bibinitperiod},
-           given={Tony},
-           giveni={T\bibinitperiod}}}%
-        {{hash=40b4838227aa5d3d8008c2a3cdda7653}{%
-           family={Papathanos},
-           familyi={P\bibinitperiod},
-           given={Philippos\bibnamedelima Aris},
-           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Cold Spring Harbor Lab}%
-      }
-      \strng{namehash}{0f4c6eb9011f6454fac1f620023fcf0a}
-      \strng{fullhash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{fullhashraw}{64dde39406469c4cf99348a711d07cfa}
-      \strng{bibnamehash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{authorbibnamehash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{authornamehash}{0f4c6eb9011f6454fac1f620023fcf0a}
-      \strng{authorfullhash}{64dde39406469c4cf99348a711d07cfa}
-      \strng{authorfullhashraw}{64dde39406469c4cf99348a711d07cfa}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Genome research}
-      \field{number}{9}
-      \field{title}{Rapid evolution of female-biased genes among four species of \textit{Anopheles} malaria mosquitoes}
-      \field{volume}{27}
-      \field{year}{2017}
-      \field{pages}{1536\bibrangedash 1548}
-      \range{pages}{13}
-    \endentry
     \entry{papa2017rapid}{article}{}{}
       \name{author}{9}{}{%
         {{hash=3735f9ba2490da01af60dc7da09511ff}{%
@@ -18176,10 +17944,8 @@
       \strng{authornamehash}{0f4c6eb9011f6454fac1f620023fcf0a}
       \strng{authorfullhash}{64dde39406469c4cf99348a711d07cfa}
       \strng{authorfullhashraw}{64dde39406469c4cf99348a711d07cfa}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -21187,7 +20953,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Experimental Zoology Part B: Molecular and Developmental Evolution}
       \field{number}{4}
-      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in \textit{Platynereis dumerilii}}
+      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in Platynereis dumerilii}
       \field{volume}{338}
       \field{year}{2022}
       \field{pages}{225\bibrangedash 240}
@@ -21516,7 +21282,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Marine Science}
-      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of \textit{Mytilus coruscus}}
+      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of Mytilus coruscus}
       \field{volume}{9}
       \field{year}{2022}
       \field{pages}{1013857}
@@ -21976,7 +21742,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development}
       \field{number}{4}
-      \field{title}{The Mediterranean mussel \textit{Mytilus galloprovincialis}: a novel model for developmental studies in mollusks}
+      \field{title}{The Mediterranean mussel Mytilus galloprovincialis: a novel model for developmental studies in mollusks}
       \field{volume}{151}
       \field{year}{2024}
       \field{pages}{dev202256}
@@ -22347,6 +22113,7 @@
       \range{pages}{8}
     \endentry
   \enddatalist
+  \missing{papa2017anopheles}
 \endrefsection
 \endinput
 
