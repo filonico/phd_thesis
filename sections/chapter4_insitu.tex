@@ -54,19 +54,19 @@ Embryos/larvae were sampled at 1, 2, 3 and 4 hpf, and then every 12 hours until 
 \textit{Vasa}, \textit{Dmrt1L}, \textit{SoxH}, and \textit{FoxL2} spliced-transcript nucleotide sequences of \textit{M. galloprovincialis} were obtained from previous analyses with OrthoFinder v2.5.5 (\textbf{\cite{emms2019orthofinder}}) and 30 annotated bivalve genomes (see \textbf{Chapter 3}). Accession numbers of spliced transcripts are 10B017427, 10B093608, 10B014180, and 10B094018, respectively. The \verb|insitu_probe_generator| script from Ozpolat Lab (\textbf{\cite{kuehn2022probegenerator}}) was used to generate pairs of probes specifically designed for third-generation HCR (\textbf{\cite{choi2018hcr3}}). The built-in BLASTN search against the annotated \textit{M. galloprovincialis} transcriptome was employed to check for putative off-target bindings of probe pairs. B1-488, B2-647, B3-546, and B4-700 pairs of HCR amplifiers and fluorophores were chosen as in \textbf{Table \ref{tab:probes}}. Resulting probes were synthetized by Integrated DNA Techonologies (IDT™) in different oligo pools.
 
 \begin{table}
-    \centering
-    \begin{tabular}{c c c c}
-         \hline
-         \textbf{Target} & \textbf{Amplifier} & \textbf{Fluorophore} & \textbf{No. of probe pairs} \\
-         \hline
-         \textit{Vasa} & B1 & ALEXA-488 & 33 \\
-         \textit{Dmrt1L} & B2 & ALEXA-647 & 18 \\
-         \textit{SoxH} & B3 & ALEXA-546 & 22 \\
-         \textit{FoxL2} & B4 & ALEXA-700 & 28 \\
-         \hline
-    \end{tabular}
-    \caption{List of genes targeted through HCR, with the corresponding amplifiers, fluorophores and number of generated probe pairs.}
-    \label{tab:probes}
+	\centering
+	\begin{tabular}{c c c c}
+		\hline
+		\textbf{Target} & \textbf{Amplifier} & \textbf{Fluorophore} & \textbf{No. of probe pairs} \\
+		\hline
+		\textit{Vasa}   & B1                 & ALEXA-488            & 33                          \\
+		\textit{Dmrt1L} & B2                 & ALEXA-647            & 18                          \\
+		\textit{SoxH}   & B3                 & ALEXA-546            & 22                          \\
+		\textit{FoxL2}  & B4                 & ALEXA-700            & 28                          \\
+		\hline
+	\end{tabular}
+	\caption{List of genes targeted through HCR, with the corresponding amplifiers, fluorophores and number of generated probe pairs.}
+	\label{tab:probes}
 \end{table}
 
 \subsubsection{Fluorescent \textit{in-situ} hybridization through hybridization chain reaction and microscope imaging} \label{chapter4_MM_hcrprotocol}
@@ -79,21 +79,21 @@ Excess probes was removed by washing 4 times per 20 minutes with probe wash buff
 Excess hairpins was removed by washing 2 times per 5 minutes, 2 times per 30 minutes, and 1 time per 5 minutes with SSCT. If not immediately mounted on slides, samples were stored in SSCT at +4 °C. Otherwise, samples were immersed in 50\% and 75\% glycerol for 30-60 minutes each, and then mounted with VECTASHIELD® PLUS Antifade Mounting Medium with DAPI (H-2000). Slides were imaged on a Stellaris 5 Confocal Package system with the software Las X (Leica Microsystems). Each dye was imaged sequentially in a separate channel, to enhance the yield and avoid any crosstalks. \textbf{Table \ref{tab:imaging}} summarises the excitation and emission peaks for each dye. Images were then manipulated and post-produced using Fiji v2.14.0.
 
 \begin{table}
-    \centering
-    \begin{tabular}{c c c c}
-         \hline
-         \textbf{Target} & \textbf{Dye} & \textbf{Excitation (nm)} & \textbf{Emission (nm)} \\
-         \hline
-         dsDNA (nuclei) & DAPI & 360 & 460 \\
-         Sperm mitochondria & MitoTracker™ Red CMXRos & 575 & 600 \\
-         \textit{Vasa} & ALEXA-488 & 499 & 520 \\
-         \textit{Dmrt1L} & ALEXA-647 & 653 & 670 \\
-         \textit{SoxH} & ALEXA-546 & 557 & 575 \\
-         \textit{FoxL2} & ALEXA-700 & 685 & 700 \\
-         \hline
-    \end{tabular}
-    \caption{List of dyes used for every target, together with the excitation and emission peaks as returned by the Las X software.}
-    \label{tab:imaging}
+	\centering
+	\begin{tabular}{c c c c}
+		\hline
+		\textbf{Target}    & \textbf{Dye}            & \textbf{Excitation (nm)} & \textbf{Emission (nm)} \\
+		\hline
+		dsDNA (nuclei)     & DAPI                    & 360                      & 460                    \\
+		Sperm mitochondria & MitoTracker™ Red CMXRos & 575                      & 600                    \\
+		\textit{Vasa}      & ALEXA-488               & 499                      & 520                    \\
+		\textit{Dmrt1L}    & ALEXA-647               & 653                      & 670                    \\
+		\textit{SoxH}      & ALEXA-546               & 557                      & 575                    \\
+		\textit{FoxL2}     & ALEXA-700               & 685                      & 700                    \\
+		\hline
+	\end{tabular}
+	\caption{List of dyes used for every target, together with the excitation and emission peaks as returned by the Las X software.}
+	\label{tab:imaging}
 \end{table}
 
 \subsection{Immunolocalization of Vasa} \label{chapter4_MM_immuno}

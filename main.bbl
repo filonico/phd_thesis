@@ -667,7 +667,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Transitions Between Sexual Systems: Understanding the Mechanisms of, and Pathways Between, Dioecy, Hermaphroditism and Other Sexual Systems}
       \field{journaltitle}{Transitions between sexual systems: understanding the mechanisms of, and pathways between, dioecy, hermaphroditism and other sexual systems}
-      \field{title}{Sex-Determining Mechanisms in Bivalves}
+      \field{title}{Sex-Determining mechanisms in bivalves}
       \field{year}{2018}
       \field{pages}{165\bibrangedash 192}
       \range{pages}{28}
@@ -4693,7 +4693,7 @@
       \field{pages}{1\bibrangedash 18}
       \range{pages}{18}
     \endentry
-    \entry{papa2017rapid}{article}{}{}
+    \entry{papa2017anopheles}{article}{}{}
       \name{author}{9}{}{%
         {{hash=3735f9ba2490da01af60dc7da09511ff}{%
            family={Papa},
@@ -6528,7 +6528,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
       \field{number}{27}
-      \field{title}{Genetic and epigenetic architecture of sex-biased expression in the jewel wasps Nasonia vitripennis and giraulti}
+      \field{title}{Genetic and epigenetic architecture of sex-biased expression in the jewel wasps \textit{Nasonia vitripennis} and \textit{giraulti}}
       \field{volume}{112}
       \field{year}{2015}
       \field{pages}{E3545\bibrangedash E3554}
@@ -10177,7 +10177,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
       \field{number}{27}
-      \field{title}{Genetic and epigenetic architecture of sex-biased expression in the jewel wasps Nasonia vitripennis and giraulti}
+      \field{title}{Genetic and epigenetic architecture of sex-biased expression in the jewel wasps \textit{Nasonia vitripennis} and \textit{giraulti}}
       \field{volume}{112}
       \field{year}{2015}
       \field{pages}{E3545\bibrangedash E3554}
@@ -10520,7 +10520,7 @@
       \field{pages}{587\bibrangedash 589}
       \range{pages}{3}
     \endentry
-    \entry{papa2017rapid}{article}{}{}
+    \entry{papa2017anopheles}{article}{}{}
       \name{author}{9}{}{%
         {{hash=3735f9ba2490da01af60dc7da09511ff}{%
            family={Papa},
@@ -10777,7 +10777,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Transitions Between Sexual Systems: Understanding the Mechanisms of, and Pathways Between, Dioecy, Hermaphroditism and Other Sexual Systems}
       \field{journaltitle}{Transitions between sexual systems: understanding the mechanisms of, and pathways between, dioecy, hermaphroditism and other sexual systems}
-      \field{title}{Sex-Determining Mechanisms in Bivalves}
+      \field{title}{Sex-Determining mechanisms in bivalves}
       \field{year}{2018}
       \field{pages}{165\bibrangedash 192}
       \range{pages}{28}
@@ -17542,7 +17542,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
       \field{number}{27}
-      \field{title}{Genetic and epigenetic architecture of sex-biased expression in the jewel wasps Nasonia vitripennis and giraulti}
+      \field{title}{Genetic and epigenetic architecture of sex-biased expression in the jewel wasps \textit{Nasonia vitripennis} and \textit{giraulti}}
       \field{volume}{112}
       \field{year}{2015}
       \field{pages}{E3545\bibrangedash E3554}
@@ -17885,7 +17885,7 @@
       \field{pages}{587\bibrangedash 589}
       \range{pages}{3}
     \endentry
-    \entry{papa2017rapid}{article}{}{}
+    \entry{papa2017anopheles}{article}{}{}
       \name{author}{9}{}{%
         {{hash=3735f9ba2490da01af60dc7da09511ff}{%
            family={Papa},
@@ -18142,7 +18142,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Transitions Between Sexual Systems: Understanding the Mechanisms of, and Pathways Between, Dioecy, Hermaphroditism and Other Sexual Systems}
       \field{journaltitle}{Transitions between sexual systems: understanding the mechanisms of, and pathways between, dioecy, hermaphroditism and other sexual systems}
-      \field{title}{Sex-Determining Mechanisms in Bivalves}
+      \field{title}{Sex-Determining mechanisms in bivalves}
       \field{year}{2018}
       \field{pages}{165\bibrangedash 192}
       \range{pages}{28}
@@ -22113,7 +22113,6 @@
       \range{pages}{8}
     \endentry
   \enddatalist
-  \missing{papa2017anopheles}
 \endrefsection
 \endinput
 

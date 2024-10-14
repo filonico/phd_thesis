@@ -43,6 +43,8 @@
 % packages for chemical formulae and special symbols
 \usepackage{mhchem}
 \usepackage{textcomp}
+\usepackage{siunitx}
+\sisetup{output-exponent-marker=\ensuremath{\mathrm{e}}} %correctly prints scientific notation
 
 % packages and commands for acronyms (and species abbreviations)
 \usepackage[acronym, nonumberlist, toc, nomain, nogroupskip, nopostdot, shortcuts, style=super]{glossaries-extra}
@@ -65,13 +67,13 @@
 
 \printunsrtglossary*[title={List of abbreviations}, toctitle={List of abbreviations}]
 {
-   \renewcommand{\printunsrtglossaryentryprocesshook}[1]{
-   \glsxtriflabelinlist
-   {\glscategory{#1}} % category label for this entry
-   {species} % exclusion list
-   {\printunsrtglossaryskipentry} % skip (exclude)
-   {} % don't skip (include)
-}
+	\renewcommand{\printunsrtglossaryentryprocesshook}[1]{
+		\glsxtriflabelinlist
+		{\glscategory{#1}} % category label for this entry
+		{species} % exclusion list
+		{\printunsrtglossaryskipentry} % skip (exclude)
+		{} % don't skip (include)
+	}
 }
 
 \subfile{sections/chapter1_introduction}
@@ -81,8 +83,8 @@
 
 % bibliography
 \begin{refcontext}[sorting=nyt]
-\printbibliography[title=References]
-\addcontentsline{toc}{chapter}{References}
+	\printbibliography[title=References]
+	\addcontentsline{toc}{chapter}{References}
 \end{refcontext}
 
 % appendix
