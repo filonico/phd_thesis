@@ -51,7 +51,7 @@
 % packages and commands for acronyms (and species abbreviations)
 \usepackage[acronym, nonumberlist, toc, nomain, nogroupskip, nopostdot, shortcuts, style=super]{glossaries-extra}
 \setabbreviationstyle[species]{long-only-short-only}
-\loadglsentries{sections/abbreviations}
+\loadglsentries{sections/abbreviations}	
 \renewcommand{\glsnamefont}[1]{\textbf{#1}} % make entries in glossary bold
 \preto\chapter\glsresetall % reset glossary for every chapter
 
@@ -60,7 +60,6 @@
 \begin{document}
 
 \subfile{sections/frontpage.tex}
-
 \pagenumbering{roman}
 \tableofcontents
 \clearpage
@@ -69,7 +68,7 @@
 
 \printunsrtglossary*[title={List of abbreviations}, toctitle={List of abbreviations}]
 {
-	\renewcommand{\printunsrtglossaryentryprocesshook}[1]{
+	\renewcommand{\printunsrtglossaryentryprocesshook}[1]{%
 		\glsxtriflabelinlist
 		{\glscategory{#1}} % category label for this entry
 		{species} % exclusion list
