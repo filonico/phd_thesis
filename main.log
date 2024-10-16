@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  16 OCT 2024 10:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  16 OCT 2024 10:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1057,7 +1057,7 @@ Package pdftex.def Info: ./figures/chapter3/figure_1.png  used on input line 60.
 [32]
 
 [33]
-<./figures/chapter3/figure_2.png, id=1083, 6539.43124pt x 7565.26375pt>
+<./figures/chapter3/figure_2.png, id=1092, 6539.43124pt x 7565.26375pt>
 File: ./figures/chapter3/figure_2.png Graphic file (type png)
 <use ./figures/chapter3/figure_2.png>
 Package pdftex.def Info: ./figures/chapter3/figure_2.png  used on input line 86.
@@ -1071,7 +1071,7 @@ LaTeX Warning: Float too large for page by 7.80179pt on input line 92.
 [34]
 
 [35 <./figures/chapter3/figure_2.png>]
-<./figures/chapter3/figure_3.png, id=1110, 8677.41875pt x 8710.5425pt>
+<./figures/chapter3/figure_3.png, id=1125, 8677.41875pt x 8710.5425pt>
 File: ./figures/chapter3/figure_3.png Graphic file (type png)
 <use ./figures/chapter3/figure_3.png>
 Package pdftex.def Info: ./figures/chapter3/figure_3.png  used on input line 99.
@@ -1085,7 +1085,7 @@ Package pdftex.def Info: ./figures/chapter3/figure_3.png  used on input line 99.
 ] [39] [40]
 
 [41]
-<./figures/chapter3/figure_4.png, id=1194, 8681.43375pt x 10097.725pt>
+<./figures/chapter3/figure_4.png, id=1220, 8681.43375pt x 10097.725pt>
 File: ./figures/chapter3/figure_4.png Graphic file (type png)
 <use ./figures/chapter3/figure_4.png>
 Package pdftex.def Info: ./figures/chapter3/figure_4.png  used on input line 212.
@@ -1110,7 +1110,7 @@ Overfull \hbox (25.45576pt too wide) in paragraph at lines 221--221
 [46]
 
 [47]
-<./figures/chapter3/supp_fig_S1.pdf, id=1302, 650.43pt x 867.24pt>
+<./figures/chapter3/supp_fig_S1.pdf, id=1341, 650.43pt x 867.24pt>
 File: ./figures/chapter3/supp_fig_S1.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S1.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S1.pdf  used on input line 251.
@@ -1119,22 +1119,22 @@ Package pdftex.def Info: ./figures/chapter3/supp_fig_S1.pdf  used on input line 
 
 LaTeX Warning: Float too large for page by 6.86377pt on input line 257.
 
-<./figures/chapter3/supp_fig_S2.pdf, id=1311, 867.24pt x 1734.48pt>
+<./figures/chapter3/supp_fig_S2.pdf, id=1350, 867.24pt x 1734.48pt>
 File: ./figures/chapter3/supp_fig_S2.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S2.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S2.pdf  used on input line 261.
 (pdftex.def)             Requested size: 320.09303pt x 640.18265pt.
-<./figures/chapter3/supp_fig_S3.pdf, id=1320, 1084.05pt x 4336.2pt>
+<./figures/chapter3/supp_fig_S3.pdf, id=1359, 1084.05pt x 4336.2pt>
 File: ./figures/chapter3/supp_fig_S3.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S3.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S3.pdf  used on input line 271.
 (pdftex.def)             Requested size: 160.03659pt x 640.18265pt.
-<./figures/chapter3/supp_fig_S4.png, id=1329, 9664.105pt x 10366.73pt>
+<./figures/chapter3/supp_fig_S4.png, id=1368, 9664.105pt x 10366.73pt>
 File: ./figures/chapter3/supp_fig_S4.png Graphic file (type png)
 <use ./figures/chapter3/supp_fig_S4.png>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S4.png  used on input line 281.
 (pdftex.def)             Requested size: 483.69684pt x 518.84143pt.
-<./figures/chapter3/supp_fig_S5.pdf, id=1336, 578.16pt x 867.24pt>
+<./figures/chapter3/supp_fig_S5.pdf, id=1375, 578.16pt x 867.24pt>
 File: ./figures/chapter3/supp_fig_S5.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S5.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S5.pdf  used on input line 291.
@@ -1142,47 +1142,47 @@ Package pdftex.def Info: ./figures/chapter3/supp_fig_S5.pdf  used on input line 
 
 LaTeX Warning: Float too large for page by 6.86377pt on input line 297.
 
-<./figures/chapter3/supp_fig_S6.pdf, id=1349, 578.16pt x 2384.91pt>
+<./figures/chapter3/supp_fig_S6.pdf, id=1388, 578.16pt x 2384.91pt>
 File: ./figures/chapter3/supp_fig_S6.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S6.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S6.pdf  used on input line 301.
 (pdftex.def)             Requested size: 155.19661pt x 640.18265pt.
-<./figures/chapter3/supp_fig_S7.pdf, id=1362, 722.7pt x 5058.9pt>
+<./figures/chapter3/supp_fig_S7.pdf, id=1401, 722.7pt x 5058.9pt>
 File: ./figures/chapter3/supp_fig_S7.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S7.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S7.pdf  used on input line 311.
 (pdftex.def)             Requested size: 91.45105pt x 640.18265pt.
-<./figures/chapter3/supp_fig_S8.pdf, id=1375, 867.24pt x 361.35pt>
+<./figures/chapter3/supp_fig_S8.pdf, id=1414, 867.24pt x 361.35pt>
 File: ./figures/chapter3/supp_fig_S8.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S8.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S8.pdf  used on input line 321.
 (pdftex.def)             Requested size: 483.69684pt x 201.5441pt.
-<./figures/chapter3/supp_fig_S9.pdf, id=1388, 867.24pt x 505.89pt>
+<./figures/chapter3/supp_fig_S9.pdf, id=1427, 867.24pt x 505.89pt>
 File: ./figures/chapter3/supp_fig_S9.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S9.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S9.pdf  used on input line 331.
 (pdftex.def)             Requested size: 483.69684pt x 282.16173pt.
-<./figures/chapter3/supp_fig_S10.pdf, id=1401, 1084.05pt x 1084.05pt>
+<./figures/chapter3/supp_fig_S10.pdf, id=1440, 1084.05pt x 1084.05pt>
 File: ./figures/chapter3/supp_fig_S10.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S10.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S10.pdf  used on input line 341.
 (pdftex.def)             Requested size: 483.69684pt x 483.69922pt.
-<./figures/chapter3/supp_fig_S11.pdf, id=1414, 650.43pt x 650.43pt>
+<./figures/chapter3/supp_fig_S11.pdf, id=1453, 650.43pt x 650.43pt>
 File: ./figures/chapter3/supp_fig_S11.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S11.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S11.pdf  used on input line 351.
 (pdftex.def)             Requested size: 483.69684pt x 483.71245pt.
-<./figures/chapter3/supp_fig_S12.pdf, id=1419, 505.89pt x 505.89pt>
+<./figures/chapter3/supp_fig_S12.pdf, id=1458, 505.89pt x 505.89pt>
 File: ./figures/chapter3/supp_fig_S12.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S12.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S12.pdf  used on input line 361.
 (pdftex.def)             Requested size: 483.69684pt x 483.70361pt.
-<./figures/chapter3/supp_fig_S13.pdf, id=1428, 505.89pt x 722.7pt>
+<./figures/chapter3/supp_fig_S13.pdf, id=1467, 505.89pt x 722.7pt>
 File: ./figures/chapter3/supp_fig_S13.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S13.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S13.pdf  used on input line 371.
 (pdftex.def)             Requested size: 448.13332pt x 640.18265pt.
-<./figures/chapter3/supp_fig_S14.pdf, id=1429, 505.89pt x 2529.45pt>
+<./figures/chapter3/supp_fig_S14.pdf, id=1468, 505.89pt x 2529.45pt>
 File: ./figures/chapter3/supp_fig_S14.pdf Graphic file (type pdf)
 <use ./figures/chapter3/supp_fig_S14.pdf>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S14.pdf  used on input line 381.
@@ -1190,7 +1190,7 @@ Package pdftex.def Info: ./figures/chapter3/supp_fig_S14.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 6.86377pt on input line 387.
 
-<./figures/chapter3/supp_fig_S15.png, id=1440, 650.43pt x 505.89pt>
+<./figures/chapter3/supp_fig_S15.png, id=1479, 650.43pt x 505.89pt>
 File: ./figures/chapter3/supp_fig_S15.png Graphic file (type png)
 <use ./figures/chapter3/supp_fig_S15.png>
 Package pdftex.def Info: ./figures/chapter3/supp_fig_S15.png  used on input line 391.
@@ -1347,7 +1347,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  36225 strings out of 473899
  725513 string characters out of 5736316
- 2053428 words of memory out of 5000000
+ 2053601 words of memory out of 5000000
  58296 multiletter control sequences out of 15000+600000
  571957 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1437,9 +1437,9 @@ pdfTeX warning (dest): name{glo:cgig} has been referenced but does not exist, re
 pdfTeX warning (dest): name{glo:dpul} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\nicol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (93 pages, 34979217 bytes).
+Output written on main.pdf (93 pages, 34983884 bytes).
 PDF statistics:
- 1980 PDF objects out of 2073 (max. 8388607)
+ 2011 PDF objects out of 2073 (max. 8388607)
  385 named destinations out of 1000 (max. 500000)
  471 words of extra memory for PDF output out of 10000 (max. 10000000)
 
