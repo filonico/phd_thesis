@@ -3338,23 +3338,24 @@
     <bcf:citekey order="191" intorder="1">schomburg2022phylogenetic</bcf:citekey>
     <bcf:citekey order="192" intorder="1">jackson2010update</bcf:citekey>
     <bcf:citekey order="193" intorder="1">tu2006sea</bcf:citekey>
-    <bcf:citekey order="194" intorder="1">miglioli2024hcrMytilus</bcf:citekey>
-    <bcf:citekey order="195" intorder="1">bolger2014trimmomatic</bcf:citekey>
-    <bcf:citekey order="196" intorder="1">andrews2010fastqc</bcf:citekey>
-    <bcf:citekey order="197" intorder="1">gerdol2020massive</bcf:citekey>
-    <bcf:citekey order="198" intorder="1">dobin2013star</bcf:citekey>
-    <bcf:citekey order="199" intorder="1">pertea2015stringtie</bcf:citekey>
-    <bcf:citekey order="199" intorder="2">pertea2016stringtie</bcf:citekey>
-    <bcf:citekey order="200" intorder="1">love2014deseq2</bcf:citekey>
-    <bcf:citekey order="201" intorder="1">conesa2006masigpro</bcf:citekey>
-    <bcf:citekey order="202" intorder="1">cao2004differential</bcf:citekey>
-    <bcf:citekey order="202" intorder="2">obata2005specific</bcf:citekey>
-    <bcf:citekey order="203" intorder="1">helm2004hatchery</bcf:citekey>
-    <bcf:citekey order="204" intorder="1">emms2019orthofinder</bcf:citekey>
-    <bcf:citekey order="205" intorder="1">kuehn2022probegenerator</bcf:citekey>
-    <bcf:citekey order="206" intorder="1">choi2018hcr3</bcf:citekey>
-    <bcf:citekey order="207" intorder="1">miglioli2024hcrMytilus</bcf:citekey>
-    <bcf:citekey order="208" intorder="1">milani2011doubly</bcf:citekey>
+    <bcf:citekey order="194" intorder="1">tu2006sea</bcf:citekey>
+    <bcf:citekey order="195" intorder="1">miglioli2024hcrMytilus</bcf:citekey>
+    <bcf:citekey order="196" intorder="1">bolger2014trimmomatic</bcf:citekey>
+    <bcf:citekey order="197" intorder="1">andrews2010fastqc</bcf:citekey>
+    <bcf:citekey order="198" intorder="1">gerdol2020massive</bcf:citekey>
+    <bcf:citekey order="199" intorder="1">dobin2013star</bcf:citekey>
+    <bcf:citekey order="200" intorder="1">pertea2015stringtie</bcf:citekey>
+    <bcf:citekey order="200" intorder="2">pertea2016stringtie</bcf:citekey>
+    <bcf:citekey order="201" intorder="1">love2014deseq2</bcf:citekey>
+    <bcf:citekey order="202" intorder="1">conesa2006masigpro</bcf:citekey>
+    <bcf:citekey order="203" intorder="1">cao2004differential</bcf:citekey>
+    <bcf:citekey order="203" intorder="2">obata2005specific</bcf:citekey>
+    <bcf:citekey order="204" intorder="1">helm2004hatchery</bcf:citekey>
+    <bcf:citekey order="205" intorder="1">emms2019orthofinder</bcf:citekey>
+    <bcf:citekey order="206" intorder="1">kuehn2022probegenerator</bcf:citekey>
+    <bcf:citekey order="207" intorder="1">choi2018hcr3</bcf:citekey>
+    <bcf:citekey order="208" intorder="1">miglioli2024hcrMytilus</bcf:citekey>
+    <bcf:citekey order="209" intorder="1">milani2011doubly</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">

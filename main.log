@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  14 OCT 2024 20:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  16 OCT 2024 10:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -777,34 +777,38 @@ File: glossaries-extra-abbrstyles.def 2023/06/28 v1.52 (NLCT)
 ) (sections/abbreviations.tex)
 \@quotelevel=\count495
 \@quotereset=\count496
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 58.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 60.
  (C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2024/01/14 v1.3d Standard LaTeX Color (DPC)
  (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
- (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (main.aux)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (main.aux
+
+LaTeX Warning: Label `suppFig:fox_JMOP' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -863,7 +867,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 58.
+Package hyperref Info: Link coloring OFF on input line 60.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -898,17 +902,17 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 58.
-Package biblatex Info: Reference segment=0 on input line 58.
+Package biblatex Info: Reference section=0 on input line 60.
+Package biblatex Info: Reference segment=0 on input line 60.
 
-Package chemgreek Info: Activating mapping `default' on line 58.
+Package chemgreek Info: Activating mapping `default' on line 60.
 
  (C:\Program Files\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 58.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 60.
  (sections/frontpage.tex
-<./figures/logo_unibo.png, id=175, 185.0112pt x 133.6995pt>
+<./figures/logo_unibo.png, id=183, 185.0112pt x 133.6995pt>
 File: ./figures/logo_unibo.png Graphic file (type png)
 <use ./figures/logo_unibo.png>
 Package pdftex.def Info: ./figures/logo_unibo.png  used on input line 18.
@@ -938,7 +942,7 @@ Overfull \hbox (6.75513pt too wide) in paragraph at lines 30--30
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.77 }
+l.79 }
        [1
 
 
@@ -986,7 +990,7 @@ Overfull \hbox (11.58908pt too wide) in paragraph at lines 44--45
 []\OT1/cmr/m/n/12 Researchers have been ad-dress-ing this topic mainly in snakes, ratites and stur-geons ([]\OT1/cmr/bx/n/12 Bachtrog
  []
 
-<./figures/chapter2/figure_1.png, id=586, 5548.73pt x 4710.59875pt>
+<./figures/chapter2/figure_1.png, id=596, 5548.73pt x 4710.59875pt>
 File: ./figures/chapter2/figure_1.png Graphic file (type png)
 <use ./figures/chapter2/figure_1.png>
 Package pdftex.def Info: ./figures/chapter2/figure_1.png  used on input line 51.
@@ -998,7 +1002,7 @@ Package pdftex.def Info: ./figures/chapter2/figure_1.png  used on input line 51.
 [13 <./figures/chapter2/figure_1.png>]
 
 [14]
-<./figures/chapter2/figure_2.png, id=703, 6965.02126pt x 4262.92625pt>
+<./figures/chapter2/figure_2.png, id=713, 6965.02126pt x 4262.92625pt>
 File: ./figures/chapter2/figure_2.png Graphic file (type png)
 <use ./figures/chapter2/figure_2.png>
 Package pdftex.def Info: ./figures/chapter2/figure_2.png  used on input line 75.
@@ -1041,7 +1045,7 @@ $[]$\OT1/cmr/m/it/12 Department of Bi-o-log-i-cal, Ge-o-log-i-cal and En-vi-ron-
 [29]
 
 [30]
-<./figures/chapter3/figure_1.png, id=1007, 3388.66pt x 1675.25874pt>
+<./figures/chapter3/figure_1.png, id=1016, 3388.66pt x 1675.25874pt>
 File: ./figures/chapter3/figure_1.png Graphic file (type png)
 <use ./figures/chapter3/figure_1.png>
 Package pdftex.def Info: ./figures/chapter3/figure_1.png  used on input line 60.
@@ -1053,7 +1057,7 @@ Package pdftex.def Info: ./figures/chapter3/figure_1.png  used on input line 60.
 [32]
 
 [33]
-<./figures/chapter3/figure_2.png, id=1074, 6539.43124pt x 7565.26375pt>
+<./figures/chapter3/figure_2.png, id=1083, 6539.43124pt x 7565.26375pt>
 File: ./figures/chapter3/figure_2.png Graphic file (type png)
 <use ./figures/chapter3/figure_2.png>
 Package pdftex.def Info: ./figures/chapter3/figure_2.png  used on input line 86.
@@ -1067,7 +1071,7 @@ LaTeX Warning: Float too large for page by 7.80179pt on input line 92.
 [34]
 
 [35 <./figures/chapter3/figure_2.png>]
-<./figures/chapter3/figure_3.png, id=1101, 8677.41875pt x 8710.5425pt>
+<./figures/chapter3/figure_3.png, id=1110, 8677.41875pt x 8710.5425pt>
 File: ./figures/chapter3/figure_3.png Graphic file (type png)
 <use ./figures/chapter3/figure_3.png>
 Package pdftex.def Info: ./figures/chapter3/figure_3.png  used on input line 99.
@@ -1081,7 +1085,7 @@ Package pdftex.def Info: ./figures/chapter3/figure_3.png  used on input line 99.
 ] [39] [40]
 
 [41]
-<./figures/chapter3/figure_4.png, id=1185, 8681.43375pt x 10097.725pt>
+<./figures/chapter3/figure_4.png, id=1194, 8681.43375pt x 10097.725pt>
 File: ./figures/chapter3/figure_4.png Graphic file (type png)
 <use ./figures/chapter3/figure_4.png>
 Package pdftex.def Info: ./figures/chapter3/figure_4.png  used on input line 212.
@@ -1106,14 +1110,126 @@ Overfull \hbox (25.45576pt too wide) in paragraph at lines 221--221
 [46]
 
 [47]
+<./figures/chapter3/supp_fig_S1.pdf, id=1302, 650.43pt x 867.24pt>
+File: ./figures/chapter3/supp_fig_S1.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S1.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S1.pdf  used on input line 251.
+(pdftex.def)             Requested size: 480.1594pt x 640.18265pt.
+
+
+LaTeX Warning: Float too large for page by 6.86377pt on input line 257.
+
+<./figures/chapter3/supp_fig_S2.pdf, id=1311, 867.24pt x 1734.48pt>
+File: ./figures/chapter3/supp_fig_S2.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S2.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S2.pdf  used on input line 261.
+(pdftex.def)             Requested size: 320.09303pt x 640.18265pt.
+<./figures/chapter3/supp_fig_S3.pdf, id=1320, 1084.05pt x 4336.2pt>
+File: ./figures/chapter3/supp_fig_S3.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S3.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S3.pdf  used on input line 271.
+(pdftex.def)             Requested size: 160.03659pt x 640.18265pt.
+<./figures/chapter3/supp_fig_S4.png, id=1329, 9664.105pt x 10366.73pt>
+File: ./figures/chapter3/supp_fig_S4.png Graphic file (type png)
+<use ./figures/chapter3/supp_fig_S4.png>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S4.png  used on input line 281.
+(pdftex.def)             Requested size: 483.69684pt x 518.84143pt.
+<./figures/chapter3/supp_fig_S5.pdf, id=1336, 578.16pt x 867.24pt>
+File: ./figures/chapter3/supp_fig_S5.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S5.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S5.pdf  used on input line 291.
+(pdftex.def)             Requested size: 426.80835pt x 640.18265pt.
+
+LaTeX Warning: Float too large for page by 6.86377pt on input line 297.
+
+<./figures/chapter3/supp_fig_S6.pdf, id=1349, 578.16pt x 2384.91pt>
+File: ./figures/chapter3/supp_fig_S6.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S6.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S6.pdf  used on input line 301.
+(pdftex.def)             Requested size: 155.19661pt x 640.18265pt.
+<./figures/chapter3/supp_fig_S7.pdf, id=1362, 722.7pt x 5058.9pt>
+File: ./figures/chapter3/supp_fig_S7.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S7.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S7.pdf  used on input line 311.
+(pdftex.def)             Requested size: 91.45105pt x 640.18265pt.
+<./figures/chapter3/supp_fig_S8.pdf, id=1375, 867.24pt x 361.35pt>
+File: ./figures/chapter3/supp_fig_S8.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S8.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S8.pdf  used on input line 321.
+(pdftex.def)             Requested size: 483.69684pt x 201.5441pt.
+<./figures/chapter3/supp_fig_S9.pdf, id=1388, 867.24pt x 505.89pt>
+File: ./figures/chapter3/supp_fig_S9.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S9.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S9.pdf  used on input line 331.
+(pdftex.def)             Requested size: 483.69684pt x 282.16173pt.
+<./figures/chapter3/supp_fig_S10.pdf, id=1401, 1084.05pt x 1084.05pt>
+File: ./figures/chapter3/supp_fig_S10.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S10.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S10.pdf  used on input line 341.
+(pdftex.def)             Requested size: 483.69684pt x 483.69922pt.
+<./figures/chapter3/supp_fig_S11.pdf, id=1414, 650.43pt x 650.43pt>
+File: ./figures/chapter3/supp_fig_S11.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S11.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S11.pdf  used on input line 351.
+(pdftex.def)             Requested size: 483.69684pt x 483.71245pt.
+<./figures/chapter3/supp_fig_S12.pdf, id=1419, 505.89pt x 505.89pt>
+File: ./figures/chapter3/supp_fig_S12.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S12.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S12.pdf  used on input line 361.
+(pdftex.def)             Requested size: 483.69684pt x 483.70361pt.
+<./figures/chapter3/supp_fig_S13.pdf, id=1428, 505.89pt x 722.7pt>
+File: ./figures/chapter3/supp_fig_S13.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S13.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S13.pdf  used on input line 371.
+(pdftex.def)             Requested size: 448.13332pt x 640.18265pt.
+<./figures/chapter3/supp_fig_S14.pdf, id=1429, 505.89pt x 2529.45pt>
+File: ./figures/chapter3/supp_fig_S14.pdf Graphic file (type pdf)
+<use ./figures/chapter3/supp_fig_S14.pdf>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S14.pdf  used on input line 381.
+(pdftex.def)             Requested size: 128.03146pt x 640.18265pt.
+
+LaTeX Warning: Float too large for page by 6.86377pt on input line 387.
+
+<./figures/chapter3/supp_fig_S15.png, id=1440, 650.43pt x 505.89pt>
+File: ./figures/chapter3/supp_fig_S15.png Graphic file (type png)
+<use ./figures/chapter3/supp_fig_S15.png>
+Package pdftex.def Info: ./figures/chapter3/supp_fig_S15.png  used on input line 391.
+(pdftex.def)             Requested size: 483.69684pt x 376.22078pt.
+
 
 [48]
 
-[49]
+[49 <./figures/chapter3/supp_fig_S1.pdf>]
 
-[50]) (sections/chapter4_insitu.tex
+[50 <./figures/chapter3/supp_fig_S2.pdf>]
 
-[51]
+[51 <./figures/chapter3/supp_fig_S3.pdf>]
+
+[52 <./figures/chapter3/supp_fig_S4.png>]
+
+[53 <./figures/chapter3/supp_fig_S5.pdf>]
+
+[54 <./figures/chapter3/supp_fig_S6.pdf>]
+
+[55 <./figures/chapter3/supp_fig_S7.pdf>]
+
+[56 <./figures/chapter3/supp_fig_S8.pdf> <./figures/chapter3/supp_fig_S9.pdf>]
+
+[57 <./figures/chapter3/supp_fig_S10.pdf>]
+
+[58 <./figures/chapter3/supp_fig_S11.pdf>]
+
+[59 <./figures/chapter3/supp_fig_S12.pdf>]
+
+[60 <./figures/chapter3/supp_fig_S13.pdf>]
+
+[61 <./figures/chapter3/supp_fig_S14.pdf>]
+
+[62 <./figures/chapter3/supp_fig_S15.png>]) (sections/chapter4_insitu.tex
+
+[63
+
+]
 Chapter 4.
 
 Overfull \hbox (15.28265pt too wide) in paragraph at lines 10--11
@@ -1127,7 +1243,7 @@ $[]$\OT1/cmr/m/it/12 Department of Bi-o-log-i-cal, Ge-o-log-i-cal and En-vi-ron-
 
 
 
-[52
+[64
 
 ]
 Overfull \hbox (0.41971pt too wide) in paragraph at lines 35--36
@@ -1136,62 +1252,62 @@ Overfull \hbox (0.41971pt too wide) in paragraph at lines 35--36
 
 
 
-[53]
+[65]
 
-[54]
+[66]
 Overfull \hbox (9.5588pt too wide) in paragraph at lines 54--55
 \OT1/cmr/m/n/12 10B017427, 10B093608, 10B014180, and 10B094018, re-spec-tively. The [][]\OT1/cmtt/m/n/12 insitu_probe_generator
  []
 
 
 
-[55]
-
-[56])
-
-[57]
-
-[58]
-
-[59
-
-]
-
-[60]
-
-[61]
-
-[62]
-
-[63]
-
-[64]
-
-[65]
-
-[66]
-
 [67]
 
-[68]
+[68])
 
 [69]
 
-[70] (sections/appendix.tex
+[70]
 
-[71]
-
-[72
+[71
 
 ]
 
-[73
+[72]
 
-]
+[73]
 
 [74]
 
-[75
+[75]
+
+[76]
+
+[77]
+
+[78]
+
+[79]
+
+[80]
+
+[81]
+
+[82] (sections/appendix.tex
+
+[83]
+
+[84
+
+]
+
+[85
+
+]
+
+[86]
+
+[87
 
 ]
 Overfull \hbox (3.68353pt too wide) in paragraph at lines 82--82
@@ -1200,38 +1316,75 @@ Overfull \hbox (3.68353pt too wide) in paragraph at lines 82--82
 
 
 
-[76
+[88
 
 ]
 
-[77]
+[89]
 Overfull \hbox (5.74783pt too wide) in paragraph at lines 117--118
 $[]$\OT1/cmr/m/it/12 Laboratoire de Bi-olo-gie Com-pu-ta-tion-nelle et Quan-ti-ta-tive (LCQB), Sor-bonne Uni-ver-sit^^Se, CNRS,
  []
 
 )
 
-[78
+[90
 
 ] (main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 303775D82FE6B019CCF6C31C2AC8D8EB;12075.
+(rerunfilecheck)             Checksum: B38FBFDEC6C2FA53B9D699FC15B72772;12410.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35731 strings out of 473899
- 714487 string characters out of 5736316
- 2043993 words of memory out of 5000000
- 57855 multiletter control sequences out of 15000+600000
- 572316 words of font info for 83 fonts, out of 8000000 for 9000
+ 36225 strings out of 473899
+ 725513 string characters out of 5736316
+ 2053428 words of memory out of 5000000
+ 58296 multiletter control sequences out of 15000+600000
+ 571957 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 109i,9n,107p,6308b,5185s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,9n,107p,6169b,5185s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{glo:cvir} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:cari} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:cang} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:spur} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:dsuz} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:dpse} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:dhyd} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:oana} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:emax} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:mmus} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:hsap} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{glo:lorb} has been referenced but does not exist, replaced by a fixed one
 
@@ -1284,9 +1437,9 @@ pdfTeX warning (dest): name{glo:cgig} has been referenced but does not exist, re
 pdfTeX warning (dest): name{glo:dpul} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\nicol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (81 pages, 21353887 bytes).
+Output written on main.pdf (93 pages, 34979217 bytes).
 PDF statistics:
- 1617 PDF objects out of 1728 (max. 8388607)
- 347 named destinations out of 1000 (max. 500000)
- 380 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1980 PDF objects out of 2073 (max. 8388607)
+ 385 named destinations out of 1000 (max. 500000)
+ 471 words of extra memory for PDF output out of 10000 (max. 10000000)
 

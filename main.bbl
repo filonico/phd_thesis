@@ -2466,7 +2466,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
       \field{number}{2}
-      \field{title}{Evolution of the \textit{Sox} gene family within the chordate phylum}
+      \field{title}{Evolution of the Sox gene family within the chordate phylum}
       \field{volume}{575}
       \field{year}{2016}
       \field{pages}{385\bibrangedash 392}
@@ -3048,7 +3048,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Trends in Genetics}
       \field{number}{4}
-      \field{title}{\textit{Dmrt} genes in the development and evolution of sexual dimorphism}
+      \field{title}{Dmrt genes in the development and evolution of sexual dimorphism}
       \field{volume}{28}
       \field{year}{2012}
       \field{pages}{175\bibrangedash 184}
@@ -3959,7 +3959,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
-      \field{title}{Phylogenetic relationships of the \textit{Fox} (Forkhead) gene family in the Bilateria}
+      \field{title}{Phylogenetic relationships of the Fox (Forkhead) gene family in the Bilateria}
       \field{volume}{316}
       \field{year}{2003}
       \field{pages}{79\bibrangedash 89}
@@ -4687,7 +4687,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in zoology}
-      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod \textit{Dmrt} genes}
+      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod Dmrt genes}
       \field{volume}{16}
       \field{year}{2019}
       \field{pages}{1\bibrangedash 18}
@@ -5067,7 +5067,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{The international journal of biochemistry \& cell biology}
       \field{number}{3}
-      \field{title}{No backbone but lots of \textit{Sox}: Invertebrate \textit{Sox} genes}
+      \field{title}{No backbone but lots of Sox: Invertebrate Sox genes}
       \field{volume}{42}
       \field{year}{2010}
       \field{pages}{453\bibrangedash 464}
@@ -5555,7 +5555,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome Biology and Evolution}
       \field{number}{10}
-      \field{title}{The \textit{Fox} gene repertoire in the annelid \textit{Owenia fusiformis} reveals multiple expansions of the \textit{foxQ2} class in Spiralia}
+      \field{title}{The Fox gene repertoire in the annelid \textit{Owenia fusiformis} reveals multiple expansions of the \textit{foxQ2} class in Spiralia}
       \field{volume}{14}
       \field{year}{2022}
       \field{pages}{evac139}
@@ -5706,7 +5706,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Developmental biology}
       \field{number}{2}
-      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian \textit{Fox} gene cluster}
+      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian Fox gene cluster}
       \field{volume}{340}
       \field{year}{2010}
       \field{pages}{234\bibrangedash 248}
@@ -6403,7 +6403,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC genomics}
       \field{number}{1}
-      \field{title}{Genome-wide identification and expression analysis of \textit{Dmrt} genes in bivalves}
+      \field{title}{Genome-wide identification and expression analysis of Dmrt genes in bivalves}
       \field{volume}{24}
       \field{year}{2023}
       \field{pages}{457}
@@ -7231,7 +7231,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development genes and evolution}
-      \field{title}{The \textit{Fox} genes of \textit{Branchiostoma floridae}}
+      \field{title}{The Fox genes of \textit{Branchiostoma floridae}}
       \field{volume}{218}
       \field{year}{2008}
       \field{pages}{629\bibrangedash 638}
@@ -7431,7 +7431,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
-      \field{title}{Phylogenetic relationships of the \textit{Fox} (Forkhead) gene family in the Bilateria}
+      \field{title}{Phylogenetic relationships of the Fox (Forkhead) gene family in the Bilateria}
       \field{volume}{316}
       \field{year}{2003}
       \field{pages}{79\bibrangedash 89}
@@ -8047,7 +8047,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development genes and evolution}
-      \field{title}{The \textit{Fox} genes of \textit{Branchiostoma floridae}}
+      \field{title}{The Fox genes of \textit{Branchiostoma floridae}}
       \field{volume}{218}
       \field{year}{2008}
       \field{pages}{629\bibrangedash 638}
@@ -8420,7 +8420,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{The international journal of biochemistry \& cell biology}
       \field{number}{3}
-      \field{title}{No backbone but lots of \textit{Sox}: Invertebrate \textit{Sox} genes}
+      \field{title}{No backbone but lots of Sox: Invertebrate Sox genes}
       \field{volume}{42}
       \field{year}{2010}
       \field{pages}{453\bibrangedash 464}
@@ -8474,7 +8474,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Developmental biology}
       \field{number}{2}
-      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian \textit{Fox} gene cluster}
+      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian Fox gene cluster}
       \field{volume}{340}
       \field{year}{2010}
       \field{pages}{234\bibrangedash 248}
@@ -8995,7 +8995,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Trends in Genetics}
       \field{number}{4}
-      \field{title}{\textit{Dmrt} genes in the development and evolution of sexual dimorphism}
+      \field{title}{Dmrt genes in the development and evolution of sexual dimorphism}
       \field{volume}{28}
       \field{year}{2012}
       \field{pages}{175\bibrangedash 184}
@@ -10312,7 +10312,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
       \field{number}{2}
-      \field{title}{Evolution of the \textit{Sox} gene family within the chordate phylum}
+      \field{title}{Evolution of the Sox gene family within the chordate phylum}
       \field{volume}{575}
       \field{year}{2016}
       \field{pages}{385\bibrangedash 392}
@@ -11548,7 +11548,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in zoology}
-      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod \textit{Dmrt} genes}
+      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod Dmrt genes}
       \field{volume}{16}
       \field{year}{2019}
       \field{pages}{1\bibrangedash 18}
@@ -13806,7 +13806,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome Biology and Evolution}
       \field{number}{10}
-      \field{title}{The \textit{Fox} gene repertoire in the annelid \textit{Owenia fusiformis} reveals multiple expansions of the \textit{foxQ2} class in Spiralia}
+      \field{title}{The Fox gene repertoire in the annelid \textit{Owenia fusiformis} reveals multiple expansions of the \textit{foxQ2} class in Spiralia}
       \field{volume}{14}
       \field{year}{2022}
       \field{pages}{evac139}
@@ -14170,7 +14170,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC genomics}
       \field{number}{1}
-      \field{title}{Genome-wide identification and expression analysis of \textit{Dmrt} genes in bivalves}
+      \field{title}{Genome-wide identification and expression analysis of Dmrt genes in bivalves}
       \field{volume}{24}
       \field{year}{2023}
       \field{pages}{457}
@@ -14796,7 +14796,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
-      \field{title}{Phylogenetic relationships of the \textit{Fox} (Forkhead) gene family in the Bilateria}
+      \field{title}{Phylogenetic relationships of the Fox (Forkhead) gene family in the Bilateria}
       \field{volume}{316}
       \field{year}{2003}
       \field{pages}{79\bibrangedash 89}
@@ -15412,7 +15412,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development genes and evolution}
-      \field{title}{The \textit{Fox} genes of \textit{Branchiostoma floridae}}
+      \field{title}{The Fox genes of \textit{Branchiostoma floridae}}
       \field{volume}{218}
       \field{year}{2008}
       \field{pages}{629\bibrangedash 638}
@@ -15785,7 +15785,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{The international journal of biochemistry \& cell biology}
       \field{number}{3}
-      \field{title}{No backbone but lots of \textit{Sox}: Invertebrate \textit{Sox} genes}
+      \field{title}{No backbone but lots of Sox: Invertebrate Sox genes}
       \field{volume}{42}
       \field{year}{2010}
       \field{pages}{453\bibrangedash 464}
@@ -15839,7 +15839,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Developmental biology}
       \field{number}{2}
-      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian \textit{Fox} gene cluster}
+      \field{title}{Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian Fox gene cluster}
       \field{volume}{340}
       \field{year}{2010}
       \field{pages}{234\bibrangedash 248}
@@ -16360,7 +16360,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Trends in Genetics}
       \field{number}{4}
-      \field{title}{\textit{Dmrt} genes in the development and evolution of sexual dimorphism}
+      \field{title}{Dmrt genes in the development and evolution of sexual dimorphism}
       \field{volume}{28}
       \field{year}{2012}
       \field{pages}{175\bibrangedash 184}
@@ -17677,7 +17677,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
       \field{number}{2}
-      \field{title}{Evolution of the \textit{Sox} gene family within the chordate phylum}
+      \field{title}{Evolution of the Sox gene family within the chordate phylum}
       \field{volume}{575}
       \field{year}{2016}
       \field{pages}{385\bibrangedash 392}
@@ -18913,7 +18913,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in zoology}
-      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod \textit{Dmrt} genes}
+      \field{title}{Phylogenetic analysis and embryonic expression of panarthropod Dmrt genes}
       \field{volume}{16}
       \field{year}{2019}
       \field{pages}{1\bibrangedash 18}
@@ -21171,7 +21171,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome Biology and Evolution}
       \field{number}{10}
-      \field{title}{The \textit{Fox} gene repertoire in the annelid \textit{Owenia fusiformis} reveals multiple expansions of the \textit{foxQ2} class in Spiralia}
+      \field{title}{The Fox gene repertoire in the annelid \textit{Owenia fusiformis} reveals multiple expansions of the \textit{foxQ2} class in Spiralia}
       \field{volume}{14}
       \field{year}{2022}
       \field{pages}{evac139}
@@ -21535,7 +21535,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC genomics}
       \field{number}{1}
-      \field{title}{Genome-wide identification and expression analysis of \textit{Dmrt} genes in bivalves}
+      \field{title}{Genome-wide identification and expression analysis of Dmrt genes in bivalves}
       \field{volume}{24}
       \field{year}{2023}
       \field{pages}{457}
