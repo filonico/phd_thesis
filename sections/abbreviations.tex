@@ -11,7 +11,7 @@
 \newabbreviation{dmrt-1l}{\textit{Dmrt-1L}}{\textit{doublesex and mab-3 related transcription factor 1-like}}
 \newabbreviation{dmw}{\textit{Dm-W}}{\textit{doublesex and mab-3 related gene W}}
 \newabbreviation{dmy}{\textit{Dmy}}{\textit{doublesex and mab-3 related gene Y}}
-\newabbreviation{dsfg}{DSFG}{Dmrt, Sox, and Fox gene}
+\newabbreviation{dsfg}{DSFG}{\gls{dmrt}, \gls{sox}, and \gls{fox} gene}
 \newabbreviation{dsx}{\textit{dsx}}{\textit{doublesex}}
 \newabbreviation{dui}{DUI}{doubly uniparental inheritance}
 \newabbreviation{edta}{EDTA}{ethylenediaminetetraacetic acid}
@@ -20,13 +20,16 @@
 \newabbreviation[description={forkhead-associated [domain]}]{fha}{FHA}{forkhead-associated}
 \newabbreviation{fox}{Fox}{forkhead box}
 \newabbreviation{gsd}{GSD}{genetic sex determination}
+\newabbreviation{go}{GO}{gene ontology}
 \newabbreviation{hcr}{HCR}{hybridization chain reaction}
 \newabbreviation{hesc}{HeSC}{heteromorphic sex chromosome}
+\newabbreviation[description={high mobility group [box domain]}]{hmg}{HMG}{high mobility group}
 \newabbreviation{hmm}{HMM}{hidden Markov model}
 \newabbreviation{hosc}{HoSC}{homomorphic sex chromosome}
 \newabbreviation{hpf}{hpf}{hours post fertilization}
 \newabbreviation{ish}{mRNA-ISH}{mRNA \textit{in-situ} hybridization}
 \newabbreviation{mab3}{\textit{mab-3}}{\textit{male abnormal-3}}
+\newabbreviation{mcl}{MCL}{Markov clustering algorithm}
 \newabbreviation{ml}{ML}{maximum likelihood}
 \newabbreviation{mya}{Mya}{million years ago}
 \newabbreviation{orf}{ORF}{open reading frame}
@@ -42,23 +45,34 @@
 \newabbreviation{sco}{SCO}{single-copy orthogroup}
 \newabbreviation{sd}{SD}{sex determination}
 \newabbreviation{sdg}{SDG}{sex-determining gene}
+\newabbreviation{sxl}{\textit{Sxl}}{\textit{Sex-lethal}}
 \newabbreviation{sox}{Sox}{\textit{Sry}-related HMG-box}
 \newabbreviation{srg}{SRG}{sex-determination related gene}
 \newabbreviation{sry}{\textit{Sry}}{\textit{Sex-determining region of chromosome Y}}
 \newabbreviation{ssct}{SSC-Tw}{5× saline-sodium citrate with Tween 20 buffer}
 \newabbreviation{tbs}{TBS}{1× Tris-buffered saline}
 \newabbreviation{tbstx}{TBS-Tx}{1× TBS with Triton X-100}
+\newabbreviation{tra}{\textit{tra}}{\textit{transformer}}
 
-% DA AGGIUNGERE: CUE 
 
 % list of species abbreviations
 \newabbreviation[category={species}]{hsap}{\textit{H. sapiens}}{\textit{Homo sapiens}}
 \newabbreviation[category={species}]{mmus}{\textit{M. musculus}}{\textit{Mus musculus}}
-\newabbreviation[category={species}]{drer}{\textit{D. rerio}}{\textit{Danio rerio}}
 \newabbreviation[category={species}]{ggal}{\textit{G. gallus}}{\textit{Gallus gallus}}
 \newabbreviation[category={species}]{oana}{\textit{O. anatinus}}{\textit{Ornithorhynchus anatinus}}
 \newabbreviation[category={species}]{emax}{\textit{E. maximus indicus}}{\textit{Elephas maximus indicus}}
 \newabbreviation[category={species}]{spur}{\textit{S. purpuratus}}{\textit{Strongylocentrotus purpuratus}}
+\newabbreviation[category={species}]{bbub}{\textit{B. bubalis}}{\textit{Bubalus bubalis}}
+\newabbreviation[category={species}]{ptig}{\textit{P. tigris}}{\textit{Panthera tigris}}
+\newabbreviation[category={species}]{cdro}{\textit{C. dromedarius}}{\textit{Camelus dromedarius}}
+\newabbreviation[category={species}]{mdom}{\textit{M. domestica}}{\textit{Monodelphis domestica}}
+
+\newabbreviation[category={species}]{drer}{\textit{D. rerio}}{\textit{Danio rerio}}
+\newabbreviation[category={species}]{olat}{\textit{O. latipes}}{\textit{Oryzias latipes}}
+
+\newabbreviation[category={species}]{xlae}{\textit{X. laevis}}{\textit{Xenopus laevis}}
+
+\newabbreviation[category={species}]{bflo}{\textit{B. floridae}}{\textit{Branchiostoma floridae}}
 
 \newabbreviation[category={species}]{dmel}{\textit{D. melanogaster}}{\textit{Drosophila melanogaster}}
 \newabbreviation[category={species}]{dhyd}{\textit{D. hydei}}{\textit{Drosophila hydei}}
@@ -67,6 +81,11 @@
 \newabbreviation[category={species}]{agam}{\textit{A. gambiae}}{\textit{Anopheles gambiae}}
 \newabbreviation[category={species}]{cele}{\textit{C. elegans}}{\textit{Caenorhabditis elegans}}
 \newabbreviation[category={species}]{dpul}{\textit{D. pulex}}{\textit{Daphnia pulex}}
+\newabbreviation[category={species}]{cscu}{\textit{C. sculpturatus}}{\textit{Centruroides sculpturatus}}
+\newabbreviation[category={species}]{smar}{\textit{S. maritima}}{\textit{Strigamia maritima}}
+
+\newabbreviation[category={species}]{lung}{\textit{L. unguis}}{\textit{Lingula unguis}}
+\newabbreviation[category={species}]{ctel}{\textit{C. teleta}}{\textit{Capitella teleta}}
 
 \newabbreviation[category={species}]{cgig}{\textit{C. gigas}}{\textit{Crassostrea gigas}}
 \newabbreviation[category={species}]{cang}{\textit{C. angulata}}{\textit{Crassostrea angulata}}
@@ -86,6 +105,15 @@
 \newabbreviation[category={species}]{mmod}{\textit{M. modiolus}}{\textit{Modiolus modiolus}}
 \newabbreviation[category={species}]{pvir}{\textit{P. viridis}}{\textit{Perna viridis}}
 \newabbreviation[category={species}]{airc}{\textit{A. irradians concentricus}}{\textit{Argopecten irradians concentricus}}
+\newabbreviation[category={species}]{amar}{\textit{A. marissinica}}{\textit{Archivesica marissinica}}
+\newabbreviation[category={species}]{sglo}{\textit{S. glomerata}}{\textit{Saccostrea glomerata}}
+\newabbreviation[category={species}]{tsqu}{\textit{T. squamosa}}{\textit{Tridacna squamosa}}
+\newabbreviation[category={species}]{sgra}{\textit{S. grandis}}{\textit{Solen grandis}}
+\newabbreviation[category={species}]{hbia}{\textit{H. bialata}}{\textit{Hyriopsis bialata}}
+\newabbreviation[category={species}]{mmer}{\textit{M. mercenaria}}{\textit{Mercenaria mercenaria}}
+\newabbreviation[category={species}]{csin}{\textit{C. sinensis}}{\textit{Cyclina sinensis}}
+\newabbreviation[category={species}]{dpol}{\textit{D. polymorpha}}{\textit{Dreissena polymorpha}}
+\newabbreviation[category={species}]{rphi}{\textit{R. philippinarum}}{\textit{Ruditapes philippinarum}}
 
 \newabbreviation[category={species}]{iobs}{\textit{I. obsoleta}}{\textit{Ilyanassa obsoleta}}
 \newabbreviation[category={species}]{hasi}{\textit{H. asinina}}{\textit{Haliotis asinina}}
