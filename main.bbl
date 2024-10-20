@@ -1679,7 +1679,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development}
       \field{number}{12}
-      \field{title}{Third-generation in situ hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust}
+      \field{title}{Third-generation \textit{in situ} hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust}
       \field{volume}{145}
       \field{year}{2018}
       \field{pages}{dev165753}
@@ -1715,7 +1715,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular biology and evolution}
       \field{number}{7}
-      \field{title}{Sex-related genes, directional sexual selection, and speciation.}
+      \field{title}{Sex-related genes, directional sexual selection, and speciation}
       \field{volume}{15}
       \field{year}{1998}
       \field{pages}{901\bibrangedash 909}
@@ -1945,7 +1945,7 @@
       \field{volume}{10}
       \field{year}{2022}
     \endentry
-    \entry{deBono1996evolution}{article}{}{}
+    \entry{deBono1996caenorhabditis_tra}{article}{}{}
       \name{author}{2}{}{%
         {{hash=962fb69c38c1f65236e1f4263009dbf6}{%
            family={Bono},
@@ -4003,7 +4003,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC Molecular Biology}
-      \field{title}{Characterization, phylogeny, alternative splicing and expression of Sox30 gene}
+      \field{title}{Characterization, phylogeny, alternative splicing and expression of \textit{Sox30} gene}
       \field{volume}{11}
       \field{year}{2010}
       \field{pages}{1\bibrangedash 11}
@@ -5251,7 +5251,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Experimental Zoology Part B: Molecular and Developmental Evolution}
       \field{number}{4}
-      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in Platynereis dumerilii}
+      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in \textit{Platynereis dumerilii}}
       \field{volume}{338}
       \field{year}{2022}
       \field{pages}{225\bibrangedash 240}
@@ -6015,6 +6015,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
       \field{title}{Characterization and expression patterns of the Fox gene family under heat and cold stress in Manila clam \textit{Ruditapes philippinarum} based on genome-wide identification}
+      \field{volume}{52}
       \field{year}{2024}
       \field{pages}{101313}
       \range{pages}{1}
@@ -6903,7 +6904,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development}
       \field{number}{4}
-      \field{title}{The Mediterranean mussel Mytilus galloprovincialis: a novel model for developmental studies in mollusks}
+      \field{title}{The Mediterranean mussel \textit{Mytilus galloprovincialis}: a novel model for developmental studies in mollusks}
       \field{volume}{151}
       \field{year}{2024}
       \field{pages}{dev202256}
@@ -7487,7 +7488,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology}
       \field{number}{1}
-      \field{title}{Molecular cloning and gene expression of Cg-Foxl2 during the development and the adult gametogenetic cycle in the oyster \textit{Crassostrea gigas}}
+      \field{title}{Molecular cloning and gene expression of \textit{Cg-Foxl2} during the development and the adult gametogenetic cycle in the oyster \textit{Crassostrea gigas}}
       \field{volume}{154}
       \field{year}{2009}
       \field{pages}{134\bibrangedash 142}
@@ -7734,7 +7735,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development, growth \& differentiation}
       \field{number}{4}
-      \field{title}{Specific location of sperm mitochondria in mussel Mytilus galloprovincialis zygotes stained by MitoTracker}
+      \field{title}{Specific location of sperm mitochondria in mussel \textit{Mytilus galloprovincialis} zygotes stained by MitoTracker}
       \field{volume}{47}
       \field{year}{2005}
       \field{pages}{255\bibrangedash 263}
@@ -7808,7 +7809,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genetics}
       \field{number}{1}
-      \field{title}{Interspecific comparison of the transformer gene of \textit{Drosophila} reveals an unusually high degree of evolutionary divergence.}
+      \field{title}{Interspecific comparison of the \textit{transforme}r gene of \textit{Drosophila} reveals an unusually high degree of evolutionary divergence}
       \field{volume}{131}
       \field{year}{1992}
       \field{pages}{113\bibrangedash 128}
@@ -7994,7 +7995,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular biology and evolution}
       \field{number}{1}
-      \field{title}{Evolution of the \textit{Sry} genes.}
+      \field{title}{Evolution of the \textit{Sry} genes}
       \field{volume}{14}
       \field{year}{1997}
       \field{pages}{49\bibrangedash 55}
@@ -10516,7 +10517,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Current opinion in genetics \& development}
       \field{number}{4}
-      \field{title}{Insect sex determination: it all evolves around transformer}
+      \field{title}{Insect sex determination: it all evolves around \textit{transformer}}
       \field{volume}{20}
       \field{year}{2010}
       \field{pages}{376\bibrangedash 383}
@@ -11001,7 +11002,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Marine Science}
-      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of Mytilus coruscus}
+      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of \textit{Mytilus coruscus}}
       \field{volume}{9}
       \field{year}{2022}
       \field{pages}{1013857}
@@ -12306,7 +12307,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genetics}
       \field{number}{1}
-      \field{title}{Interspecific comparison of the transformer gene of \textit{Drosophila} reveals an unusually high degree of evolutionary divergence.}
+      \field{title}{Interspecific comparison of the \textit{transforme}r gene of \textit{Drosophila} reveals an unusually high degree of evolutionary divergence}
       \field{volume}{131}
       \field{year}{1992}
       \field{pages}{113\bibrangedash 128}
@@ -12390,7 +12391,7 @@
       \field{pages}{71\bibrangedash 77}
       \range{pages}{7}
     \endentry
-    \entry{deBono1996evolution}{article}{}{}
+    \entry{deBono1996caenorhabditis_tra}{article}{}{}
       \name{author}{2}{}{%
         {{hash=962fb69c38c1f65236e1f4263009dbf6}{%
            family={Bono},
@@ -12461,7 +12462,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular biology and evolution}
       \field{number}{1}
-      \field{title}{Evolution of the \textit{Sry} genes.}
+      \field{title}{Evolution of the \textit{Sry} genes}
       \field{volume}{14}
       \field{year}{1997}
       \field{pages}{49\bibrangedash 55}
@@ -12497,7 +12498,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular biology and evolution}
       \field{number}{7}
-      \field{title}{Sex-related genes, directional sexual selection, and speciation.}
+      \field{title}{Sex-related genes, directional sexual selection, and speciation}
       \field{volume}{15}
       \field{year}{1998}
       \field{pages}{901\bibrangedash 909}
@@ -12963,7 +12964,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development, growth \& differentiation}
       \field{number}{4}
-      \field{title}{Specific location of sperm mitochondria in mussel Mytilus galloprovincialis zygotes stained by MitoTracker}
+      \field{title}{Specific location of sperm mitochondria in mussel \textit{Mytilus galloprovincialis} zygotes stained by MitoTracker}
       \field{volume}{47}
       \field{year}{2005}
       \field{pages}{255\bibrangedash 263}
@@ -13621,7 +13622,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology}
       \field{number}{1}
-      \field{title}{Molecular cloning and gene expression of Cg-Foxl2 during the development and the adult gametogenetic cycle in the oyster \textit{Crassostrea gigas}}
+      \field{title}{Molecular cloning and gene expression of \textit{Cg-Foxl2} during the development and the adult gametogenetic cycle in the oyster \textit{Crassostrea gigas}}
       \field{volume}{154}
       \field{year}{2009}
       \field{pages}{134\bibrangedash 142}
@@ -13807,7 +13808,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC Molecular Biology}
-      \field{title}{Characterization, phylogeny, alternative splicing and expression of Sox30 gene}
+      \field{title}{Characterization, phylogeny, alternative splicing and expression of \textit{Sox30} gene}
       \field{volume}{11}
       \field{year}{2010}
       \field{pages}{1\bibrangedash 11}
@@ -14068,7 +14069,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Current opinion in genetics \& development}
       \field{number}{4}
-      \field{title}{Insect sex determination: it all evolves around transformer}
+      \field{title}{Insect sex determination: it all evolves around \textit{transformer}}
       \field{volume}{20}
       \field{year}{2010}
       \field{pages}{376\bibrangedash 383}
@@ -17767,7 +17768,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development}
       \field{number}{12}
-      \field{title}{Third-generation in situ hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust}
+      \field{title}{Third-generation \textit{in situ} hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust}
       \field{volume}{145}
       \field{year}{2018}
       \field{pages}{dev165753}
@@ -22150,7 +22151,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Experimental Zoology Part B: Molecular and Developmental Evolution}
       \field{number}{4}
-      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in Platynereis dumerilii}
+      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in \textit{Platynereis dumerilii}}
       \field{volume}{338}
       \field{year}{2022}
       \field{pages}{225\bibrangedash 240}
@@ -22602,7 +22603,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Marine Science}
-      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of Mytilus coruscus}
+      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of \textit{Mytilus coruscus}}
       \field{volume}{9}
       \field{year}{2022}
       \field{pages}{1013857}
@@ -23869,6 +23870,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
       \field{title}{Characterization and expression patterns of the Fox gene family under heat and cold stress in Manila clam \textit{Ruditapes philippinarum} based on genome-wide identification}
+      \field{volume}{52}
       \field{year}{2024}
       \field{pages}{101313}
       \range{pages}{1}
@@ -23941,7 +23943,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development}
       \field{number}{4}
-      \field{title}{The Mediterranean mussel Mytilus galloprovincialis: a novel model for developmental studies in mollusks}
+      \field{title}{The Mediterranean mussel \textit{Mytilus galloprovincialis}: a novel model for developmental studies in mollusks}
       \field{volume}{151}
       \field{year}{2024}
       \field{pages}{dev202256}
@@ -24481,7 +24483,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genetics}
       \field{number}{1}
-      \field{title}{Interspecific comparison of the transformer gene of \textit{Drosophila} reveals an unusually high degree of evolutionary divergence.}
+      \field{title}{Interspecific comparison of the \textit{transforme}r gene of \textit{Drosophila} reveals an unusually high degree of evolutionary divergence}
       \field{volume}{131}
       \field{year}{1992}
       \field{pages}{113\bibrangedash 128}
@@ -24565,7 +24567,7 @@
       \field{pages}{71\bibrangedash 77}
       \range{pages}{7}
     \endentry
-    \entry{deBono1996evolution}{article}{}{}
+    \entry{deBono1996caenorhabditis_tra}{article}{}{}
       \name{author}{2}{}{%
         {{hash=962fb69c38c1f65236e1f4263009dbf6}{%
            family={Bono},
@@ -24636,7 +24638,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular biology and evolution}
       \field{number}{1}
-      \field{title}{Evolution of the \textit{Sry} genes.}
+      \field{title}{Evolution of the \textit{Sry} genes}
       \field{volume}{14}
       \field{year}{1997}
       \field{pages}{49\bibrangedash 55}
@@ -24672,7 +24674,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular biology and evolution}
       \field{number}{7}
-      \field{title}{Sex-related genes, directional sexual selection, and speciation.}
+      \field{title}{Sex-related genes, directional sexual selection, and speciation}
       \field{volume}{15}
       \field{year}{1998}
       \field{pages}{901\bibrangedash 909}
@@ -25138,7 +25140,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development, growth \& differentiation}
       \field{number}{4}
-      \field{title}{Specific location of sperm mitochondria in mussel Mytilus galloprovincialis zygotes stained by MitoTracker}
+      \field{title}{Specific location of sperm mitochondria in mussel \textit{Mytilus galloprovincialis} zygotes stained by MitoTracker}
       \field{volume}{47}
       \field{year}{2005}
       \field{pages}{255\bibrangedash 263}
@@ -25796,7 +25798,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology}
       \field{number}{1}
-      \field{title}{Molecular cloning and gene expression of Cg-Foxl2 during the development and the adult gametogenetic cycle in the oyster \textit{Crassostrea gigas}}
+      \field{title}{Molecular cloning and gene expression of \textit{Cg-Foxl2} during the development and the adult gametogenetic cycle in the oyster \textit{Crassostrea gigas}}
       \field{volume}{154}
       \field{year}{2009}
       \field{pages}{134\bibrangedash 142}
@@ -25982,7 +25984,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC Molecular Biology}
-      \field{title}{Characterization, phylogeny, alternative splicing and expression of Sox30 gene}
+      \field{title}{Characterization, phylogeny, alternative splicing and expression of \textit{Sox30} gene}
       \field{volume}{11}
       \field{year}{2010}
       \field{pages}{1\bibrangedash 11}
@@ -26243,7 +26245,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Current opinion in genetics \& development}
       \field{number}{4}
-      \field{title}{Insect sex determination: it all evolves around transformer}
+      \field{title}{Insect sex determination: it all evolves around \textit{transformer}}
       \field{volume}{20}
       \field{year}{2010}
       \field{pages}{376\bibrangedash 383}
@@ -29942,7 +29944,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development}
       \field{number}{12}
-      \field{title}{Third-generation in situ hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust}
+      \field{title}{Third-generation \textit{in situ} hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust}
       \field{volume}{145}
       \field{year}{2018}
       \field{pages}{dev165753}
@@ -34325,7 +34327,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Experimental Zoology Part B: Molecular and Developmental Evolution}
       \field{number}{4}
-      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in Platynereis dumerilii}
+      \field{title}{Segment number threshold determines juvenile onset of germline cluster expansion in \textit{Platynereis dumerilii}}
       \field{volume}{338}
       \field{year}{2022}
       \field{pages}{225\bibrangedash 240}
@@ -34777,7 +34779,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Marine Science}
-      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of Mytilus coruscus}
+      \field{title}{Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of \textit{Mytilus coruscus}}
       \field{volume}{9}
       \field{year}{2022}
       \field{pages}{1013857}
@@ -36044,6 +36046,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
       \field{title}{Characterization and expression patterns of the Fox gene family under heat and cold stress in Manila clam \textit{Ruditapes philippinarum} based on genome-wide identification}
+      \field{volume}{52}
       \field{year}{2024}
       \field{pages}{101313}
       \range{pages}{1}
@@ -36116,7 +36119,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development}
       \field{number}{4}
-      \field{title}{The Mediterranean mussel Mytilus galloprovincialis: a novel model for developmental studies in mollusks}
+      \field{title}{The Mediterranean mussel \textit{Mytilus galloprovincialis}: a novel model for developmental studies in mollusks}
       \field{volume}{151}
       \field{year}{2024}
       \field{pages}{dev202256}

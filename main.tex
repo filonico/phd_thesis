@@ -47,13 +47,12 @@
 \sisetup{output-exponent-marker=\ensuremath{\mathrm{e}}} %correctly prints scientific notation
 
 % packages and commands for acronyms (and species abbreviations)
-\usepackage[acronym, nonumberlist, toc, nomain, nogroupskip, nopostdot, shortcuts, style=super]{glossaries-extra}
+\usepackage[acronym, nonumberlist, toc, nomain, nopostdot, shortcuts]{glossaries-extra}
 \setabbreviationstyle[species]{long-only-short-only}
+\setabbreviationstyle[gene]{long-em-short-em}
 \loadglsentries{sections/abbreviations}	
 \renewcommand{\glsnamefont}[1]{\textbf{#1}} % make entries in glossary bold
 \preto\chapter\glsresetall % reset glossary for every chapter
-
-\excludeonly{sections/data_availability}
 
 %-------------------------------------------------------------------------
 
@@ -67,7 +66,7 @@
 
 \pagenumbering{arabic}
 
-\printunsrtglossary*[title={List of abbreviations}, toctitle={List of abbreviations}]
+\printunsrtglossary*[title={List of abbreviations}, toctitle={List of abbreviations}, style={super}]
 {
 	\small
 	\renewcommand{\printunsrtglossaryentryprocesshook}[1]{%
