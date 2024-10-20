@@ -53,11 +53,13 @@
 \renewcommand{\glsnamefont}[1]{\textbf{#1}} % make entries in glossary bold
 \preto\chapter\glsresetall % reset glossary for every chapter
 
+\excludeonly{sections/data_availability}
+
 %-------------------------------------------------------------------------
 
 \begin{document}
 
-\subfile{sections/frontpage.tex}
+\include{sections/frontpage.tex}
 \pagenumbering{roman}
 \addcontentsline{toc}{chapter}{Table of contents} % include the TOC in TOC
 \tableofcontents{}
@@ -67,6 +69,7 @@
 
 \printunsrtglossary*[title={List of abbreviations}, toctitle={List of abbreviations}]
 {
+	\small
 	\renewcommand{\printunsrtglossaryentryprocesshook}[1]{%
 		\glsxtriflabelinlist
 		{\glscategory{#1}} % category label for this entry
@@ -76,10 +79,10 @@
 	}
 }
 
-\subfile{sections/chapter1_introduction}
-\subfile{sections/chapter2_perspective}
-\subfile{sections/chapter3_molecularEvolution}
-\subfile{sections/chapter4_insitu}
+\include{sections/chapter1_introduction}
+\include{sections/chapter2_perspective}
+\include{sections/chapter3_molecularEvolution}
+\include{sections/chapter4_insitu}
 
 % bibliography
 \begin{refcontext}[sorting=nyt]
@@ -88,7 +91,8 @@
 \end{refcontext}
 
 % appendix and supp matherials
-\subfile{sections/appendix}
-\subfile{sections/supp_materials}
+\include{sections/appendix}
+\include{sections/supp_materials}
+\include{sections/data_availability}
 
 \end{document}

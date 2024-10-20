@@ -1,6 +1,6 @@
-\documentclass[../main.tex]{subfiles}
+% \documentclass[../main.tex]{subfiles}
 
-\begin{document}
+% \begin{document}
 
 {
 \setstretch{1.0}
@@ -409,9 +409,10 @@
 \end{landscape}
 
 % list of referece DSFGs
-\tiny
-\setstretch{0.95}
-\begin{longtable}{llll}
+{
+	\tiny
+	\setstretch{0.95}
+	\begin{longtable}{llll}
 	\caption{\textbf{List of \glspl{dsfg} from reference species used to assess the identity of \glspl{dsfg} in molluscs.} NCBI accession numbers are reported in parenthesis. Each row represents an orthology group.}
 	\label{suppTab:reference_dsfgs}                                                                                                                                                                                                                                                               \\
 	\toprule
@@ -512,7 +513,8 @@
 	-                                                       & -                                                                                                      & \textit{F40H3.4/FKH-8 (NP\_001254107.1)}                                                           & -                     \\ [0.1cm]
 	-                                                       & -                                                                                                      & \textit{C29F7.4/FKH-3 (NP\_001294822.1)}                                                           & -                     \\ [0.1cm]
 	-                                                       & -                                                                                                      & \textit{K03C7.2/FKH-9 (NP\_001024760.1)}                                                           & -                     \\* \bottomrule \bottomrule
-\end{longtable}
+	\end{longtable}
+}
 
 % mammal dataset
 \begin{landscape}
@@ -2334,8 +2336,9 @@
 \end{landscape}
 
 % missing data
-\footnotesize
-\setstretch{0.95}
+{
+	\footnotesize
+	\setstretch{0.95}
 \begin{longtable}{lr|lr}
 \caption{\textbf{Proportions of missing data in both DSFGs and bivalve species.} Bivalve species represented by transcriptomic data are highlighted with an asterisk (‘*’).}
 \label{suppTab:missing_data}\\
@@ -2389,12 +2392,14 @@
 \textit{S. grandis}*               & 54.545455                                                                                                &                      & \multicolumn{1}{l}{}                                                                                               \\
 \textit{T. granosa}                & 42.424242                                                                                                &                      & \multicolumn{1}{l}{}                                                                                               \\
 \textit{T. squamosa}*              & 48.484848                                                                                                &                      & \multicolumn{1}{l}{}                                                        \\* \bottomrule \bottomrule                                      
-\end{longtable}
+	\end{longtable}
+}
 
 % DSFGs in mammals
-\tiny
-\setstretch{0.95}
-\begin{longtable}{llcl|llcl}
+{
+	\tiny
+	\setstretch{0.95}
+	\begin{longtable}{llcl|llcl}
 	\caption{\textbf{Complete set of \glspl{dsfg} in mammals.} For each gene, the species ID (Sp. ID) as in \textbf{Supp. Tab. \ref{suppTab:mammal_dataset}}, the accession number (Gene ID), and the Possvm-based annotation are indicated.}
 	\label{suppTab:dsfg_mammalAnnotation}                                                                                                                         \\
 	\toprule
@@ -3552,12 +3557,14 @@
 	Amel                & XP\_019655962.1  & Fox            & N/A                 & Oana                & XP\_028913966.1  & Sox            & Sox-5               \\
 	Clup                & XP\_038439326.1  & Fox            & N/A                 & Lcat                & XP\_045422920.1  & Sox            & N/A                 \\
 	Ggal                & NP\_001382914.1  & Fox            & Fox-C1              &                     &                  &                &                     \\* \bottomrule \bottomrule
-\end{longtable}
+	\end{longtable}
+}
 
 % DSFGs in drosophila
-\tiny
-\setstretch{0.95}
-\begin{longtable}{llcl|llcl}
+{
+	\tiny
+	\setstretch{0.95}
+	\begin{longtable}{llcl|llcl}
 	\caption{\textbf{Complete set of \glspl{dsfg} in \textit{Drosophila}.} For each gene, the species ID (Sp. ID) as in \textbf{Supp. Tab. \ref{suppTab:drosophila_dataset}}, the accession number (Gene ID), and the Possvm-based annotation are indicated.}
 	\label{suppTab:dsfg_drosophilaAnnotation}                                                                                                                     \\
 	\toprule
@@ -3817,7 +3824,8 @@
 	Dgri                & XP\_032595015.1  & Fox            & N/A                 & Dwil                & XP\_023035523.1  & Sox            & Sox-100B            \\
 	Dalb                & XP\_034098925.1  & Fox            & Slp-1               & Dgri                & XP\_032597554.1  & Sox            & Sox-100B            \\
 	Dele                & XP\_017110574.1  & Fox            & Slp-1               & Dpse                & XP\_001357577.3  & Sox            & Sox-100B            \\* \bottomrule \bottomrule
-\end{longtable}
+	\end{longtable}
+}
 
 % GO annotations
 \begin{landscape}
@@ -5105,4 +5113,4 @@
 	\end{longtable}
 	\end{landscape}
 
-\end{document}
+% \end{document}
