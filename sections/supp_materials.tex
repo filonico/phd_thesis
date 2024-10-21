@@ -55,10 +55,17 @@
 \begin{figure}[ht]
 	\centering
 	\includegraphics[width=\textwidth]{supp_figures/supp_fig_S4.png}
+	\captionsetup[subfigure]{labelformat=nocaption}
+	\begin{subfigure}{0\linewidth}
+	\caption{}\label{suppFig:DSFG_testCompilation-A}
+	\end{subfigure}% <----- get rid of space, for proper centering
+	\begin{subfigure}{0\linewidth}
+	\caption{}\label{suppFig:DSFG_testCompilation-B}
+	\end{subfigure}% <----- get rid of space, for proper centering
 	
 	\caption[\textbf{The DSFG complement in Mammalia and \textit{Drosophila} spp}]
 	{
-		\textbf{The DSFG complement in Mammalia and \textit{Drosophila} spp}. Presence/absence of genes in various species are indicated by filled circles. Numbers inside each circle specify genes with 2 or more copies. The shaded area highlights outgroup species, \gls{ggal} (Aves) for mammals and \gls{agam} (Culicidae) for fruit flies. The phylogenetic tree of analysed species, as inferred from literature, is shown on the left, while major taxonomic groups are reported on the right. All species are represented by genomic data. \gls{dsfg} trees are shown on the bottom (full trees can be found in \cref{suppFig:dmrt_mammals,suppFig:fox_mammals}). Full species names for both mammals and fruit flies, along with all assembly and taxonomic information, can be found in \cref{suppTab:mammal_dataset,suppTab:drosophila_dataset}, respectively. A.: Aves; Chirop.: Chiroptera; L.: Lagomorpha; M.: Monotremata; Me.: Metatheria; P.: Pholidota; Pe.: Perissodactyla; Prim.: Primates; Roden.: Rodentia; X.: Xenarthra; C.: Culicidae.
+		\textbf{The DSFG complement in Mammalia (A) and \textit{Drosophila} spp (B)}. Presence/absence of genes in various species are indicated by filled circles. Numbers inside each circle specify genes with 2 or more copies. The shaded area highlights outgroup species, \gls{ggal} (Aves) for mammals and \gls{agam} (Culicidae) for fruit flies. The phylogenetic tree of analysed species, as inferred from literature, is shown on the left, while major taxonomic groups are reported on the right. All species are represented by genomic data. \gls{dsfg} trees are shown on the bottom (full trees can be found in \cref{suppFig:dmrt_mammals,suppFig:fox_mammals}). Full species names for both mammals and fruit flies, along with all assembly and taxonomic information, can be found in \cref{suppTab:mammal_dataset,suppTab:drosophila_dataset}, respectively. A.: Aves; Chirop.: Chiroptera; L.: Lagomorpha; M.: Monotremata; Me.: Metatheria; P.: Pholidota; Pe.: Perissodactyla; Prim.: Primates; Roden.: Rodentia; X.: Xenarthra; C.: Culicidae.
 	}
 	\label{suppFig:DSFG_testCompilation}
 \end{figure}
@@ -66,7 +73,7 @@
 \begin{figure}[ht]
 	\centering
 	\includegraphics[height=0.9\textheight]{supp_figures/supp_fig_S5.pdf}
-	
+
 	\caption[\textbf{\gls{ml} phylogenetic tree of the \gls{dmrt} gene family in mammals, including the Possvm orthology inference}]
 	{
 		\textbf{\gls{ml} phylogenetic tree of the \gls{dmrt} gene family in mammals, including the Possvm orthology inference}. Reference genes from \gls{hsap}, \gls{mmus}, \gls{emax}, and \gls{oana} are marked with an asterisk at the beginning of the tip names. Species ID can be found in \cref{suppTab:mammal_dataset}. The tree has been midpoint rooted. Bootstrap values are shown for each node.
