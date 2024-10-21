@@ -1111,6 +1111,64 @@
       \field{pages}{2100283}
       \range{pages}{1}
     \endentry
+    \entry{briones2018novo}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=5917468a20685fff3a5048b11f79cddd}{%
+           family={Briones},
+           familyi={B\bibinitperiod},
+           given={Carolina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2ccbf9367acb5ccbd4c639919f4d5769}{%
+           family={Nuñez},
+           familyi={N\bibinitperiod},
+           given={José\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=955ff9816fafdd1469209a780ef44fb8}{%
+           family={Pérez},
+           familyi={P\bibinitperiod},
+           given={Montse},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4763bf3d03c1cdaffc65ee6f5828f294}{%
+           family={Espinoza-Rojas},
+           familyi={E\bibinithyphendelim R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b1303ab07b9d9f03d02759e9801f9dde}{%
+           family={Molina-Quiroz},
+           familyi={M\bibinithyphendelim Q\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=32a817455feadb1a174ae288ab5d3e51}{%
+           family={Guiñez},
+           familyi={G\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ivyspring International Publisher}%
+      }
+      \strng{namehash}{f5c95cc1abc3ebb98ab5c21c1e63c831}
+      \strng{fullhash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{fullhashraw}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{bibnamehash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{authorbibnamehash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{authornamehash}{f5c95cc1abc3ebb98ab5c21c1e63c831}
+      \strng{authorfullhash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{authorfullhashraw}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Genomics}
+      \field{title}{De novo male gonad transcriptome draft for the marine mussel \textit{Perumytilus purpuratus} with a focus on its reproductive-related proteins}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{127}
+      \range{pages}{1}
+    \endentry
     \entry{buchfink2015fast}{article}{}{}
       \name{author}{3}{}{%
         {{hash=eaf8f8e4e20bd4fe2df856bad6585dc3}{%
@@ -5323,6 +5381,7 @@
       \strng{authornamehash}{00d3f0d07009f07fe00919b4e72ab815}
       \strng{authorfullhash}{28f1977a99247e1273ded851a4df8d1d}
       \strng{authorfullhashraw}{28f1977a99247e1273ded851a4df8d1d}
+      \field{extraname}{1}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -5336,6 +5395,87 @@
       \field{volume}{12}
       \field{year}{2021}
       \field{pages}{1165}
+      \range{pages}{1}
+    \endentry
+    \entry{lan2019host}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=4309ab0ee14b03f6d505520690029655}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8fd7d49bf86823d5100ee335f17c3505}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=211828baa46967c6d8039289ae2234b9}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Weipeng},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1517b5e5cf9fa1aa26b85edc31fabf3c}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Ting},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9a4f4a1ff661cd600eb26523a5ba8bb4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ea1fab8979cc9aaa8f8ac5e6b5fb3e05}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=253c051a287b32df0b84a19a8112d6bf}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bb596c2ad266541ba401586042bb0896}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Hongbin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=edf3a58fceeca49e576ca4fbd644327c}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=828f14217ef32122c46c97fb37d40eb1}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Jian-Wen},
+           giveni={J\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{00d3f0d07009f07fe00919b4e72ab815}
+      \strng{fullhash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{fullhashraw}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{bibnamehash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{authorbibnamehash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{authornamehash}{00d3f0d07009f07fe00919b4e72ab815}
+      \strng{authorfullhash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{authorfullhashraw}{7b11d09274dbac0c9a1531935d5de7cb}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Marine Science}
+      \field{title}{Host--symbiont interactions in deep-sea chemosymbiotic vesicomyid clams: insights from transcriptome sequencing}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{680}
       \range{pages}{1}
     \endentry
     \entry{larroux2008genesis}{article}{}{}
@@ -5520,7 +5660,7 @@
     \entry{li2020chromosome}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
-      \name{author}{10}{}{%
+      \name{author}{10}{ul=2}{%
         {{hash=95c70634d79714b9e82a3997d934676d}{%
            family={Li},
            familyi={L\bibinitperiod},
@@ -5575,15 +5715,14 @@
       \list{publisher}{1}{%
         {Wiley Online Library}%
       }
-      \strng{namehash}{cd13eb73ff9b0dfda00ed5509d762947}
+      \strng{namehash}{a4906322f1c79dcd07e5094bb1b4df77}
       \strng{fullhash}{2be6e04165581fadb73d6daea105fad0}
       \strng{fullhashraw}{2be6e04165581fadb73d6daea105fad0}
       \strng{bibnamehash}{2be6e04165581fadb73d6daea105fad0}
       \strng{authorbibnamehash}{2be6e04165581fadb73d6daea105fad0}
-      \strng{authornamehash}{cd13eb73ff9b0dfda00ed5509d762947}
+      \strng{authornamehash}{a4906322f1c79dcd07e5094bb1b4df77}
       \strng{authorfullhash}{2be6e04165581fadb73d6daea105fad0}
       \strng{authorfullhashraw}{2be6e04165581fadb73d6daea105fad0}
-      \field{extraname}{2}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -5630,6 +5769,85 @@
       \field{year}{2023}
       \field{pages}{btad014}
       \range{pages}{-1}
+    \endentry
+    \entry{li2020comparative}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{ul=2}{%
+        {{hash=bc20e54573d2db853852f86802ab83de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bedb09c0959a98437537322ea2ebe420}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yinyin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=aa5ac5ee0a1c343dc62955079d104f11}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zihua},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=027ba1cfc5f4f70474fcc5edfe4531d9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Chuanxu},
+           giveni={C\bibinitperiod}}}%
+        {{hash=310af85f08eb2e5c7f65fe39adbbc6ba}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Jinkuan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4cb6efc04b2b6c3904694436085eebbd}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Yanpin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a7621522121d0e84c4e9cf82495b4294}{%
+           family={Xiang},
+           familyi={X\bibinitperiod},
+           given={Zhiming},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=e2f96a4ea2aa5cccd5b3976bbe203345}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Haitao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5291aaa36a6030881878a26055149c6c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yuehuan},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b90539d990b5e055d6678ecc910a754f}
+      \strng{fullhash}{28c8d129e36210b717858d2993840272}
+      \strng{fullhashraw}{28c8d129e36210b717858d2993840272}
+      \strng{bibnamehash}{28c8d129e36210b717858d2993840272}
+      \strng{authorbibnamehash}{28c8d129e36210b717858d2993840272}
+      \strng{authornamehash}{b90539d990b5e055d6678ecc910a754f}
+      \strng{authorfullhash}{28c8d129e36210b717858d2993840272}
+      \strng{authorfullhashraw}{28c8d129e36210b717858d2993840272}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC genomics}
+      \field{title}{Comparative transcriptome analysis of three gonadal development stages reveals potential genes involved in gametogenesis of the fluted giant clam (\textit{Tridacna squamosa})}
+      \field{volume}{21}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
     \endentry
     \entry{li2018foxl2}{article}{}{}
       \name{author}{10}{}{%
@@ -5695,7 +5913,7 @@
       \strng{authornamehash}{d421dadbd7d2e38a00e2db0e1909ba1c}
       \strng{authorfullhash}{1b66101dbfa76f49debf9041736ef63e}
       \strng{authorfullhashraw}{1b66101dbfa76f49debf9041736ef63e}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -5748,7 +5966,7 @@
       \strng{authornamehash}{2a234e20844882c2f8f6b93bd55c8609}
       \strng{authorfullhash}{7ace2d5609cc0c09410e353360780807}
       \strng{authorfullhashraw}{7ace2d5609cc0c09410e353360780807}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -6836,6 +7054,59 @@
       \field{pages}{537\bibrangedash 544}
       \range{pages}{8}
     \endentry
+    \entry{meng2018transcriptome}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=3ad247f9c30b728b8ea3a7663fa621a2}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a1763fca75a6f4cdb2b642548eaad89d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d5ffa18724632f01eea9ec8c2824ff66}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=830e5b3ecbea43ab680b2b2e2e0849e3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xinzheng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=502de95c3193f5c283f4ef712520a97e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{fd42cd6131517c56fe9b7dd04d0d336c}
+      \strng{fullhash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{fullhashraw}{cca4a39152be22ae62e16eaed138decd}
+      \strng{bibnamehash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{authorbibnamehash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{authornamehash}{fd42cd6131517c56fe9b7dd04d0d336c}
+      \strng{authorfullhash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{authorfullhashraw}{cca4a39152be22ae62e16eaed138decd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Oceanologica Sinica}
+      \field{title}{Transcriptome assembly of Modiolus modiolus and comparative analysis with \textit{Bathymodiolus platifrons}}
+      \field{volume}{37}
+      \field{year}{2018}
+      \field{pages}{38\bibrangedash 45}
+      \range{pages}{8}
+    \endentry
     \entry{miglioli2024hcrMytilus}{article}{}{}
       \name{author}{9}{}{%
         {{hash=65030e9928fa0de09b4a8b6733ba8b0c}{%
@@ -7701,6 +7972,69 @@
       \field{year}{2023}
       \field{pages}{1046960}
       \range{pages}{1}
+    \endentry
+    \entry{nie2018rna}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=455b665b1b9e095f6533c5170bdc3478}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Hongtao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f647a0cc5d65561571c560d9e07ba78b}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Shasha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b3f9776d585c29ec61ed02e6fa6175c5}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Dongdong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=eddf1cb05e28419c7dba29e72648257b}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Mengge},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f2c8795ef494bac7a6e728c0c9289073}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Liwen},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2e19f117f2923574b82023ddbfe80eec}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaodong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=0cb5c11e0b31c3012cb6a4bfb086102b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Xiwu},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{fb3d3bedda98384e972a97d083aaba27}
+      \strng{fullhash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{fullhashraw}{134afe018adb8852bb4adeb2556baccb}
+      \strng{bibnamehash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{authorbibnamehash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{authornamehash}{fb3d3bedda98384e972a97d083aaba27}
+      \strng{authorfullhash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{authorfullhashraw}{134afe018adb8852bb4adeb2556baccb}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
+      \field{title}{RNA-Seq analysis of differentially expressed genes in the grand jackknife clam \textit{Solen grandis} under aerial exposure}
+      \field{volume}{28}
+      \field{year}{2018}
+      \field{pages}{54\bibrangedash 62}
+      \range{pages}{9}
     \endentry
     \entry{obata2005specific}{article}{}{}
       \name{author}{2}{}{%
@@ -8763,6 +9097,85 @@
       \field{pages}{2073\bibrangedash 2083}
       \range{pages}{11}
     \endentry
+    \entry{putnam2022dynamic}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=7fdd1245ea9171395e71944e38fda522}{%
+           family={Putnam},
+           familyi={P\bibinitperiod},
+           given={Hollie\bibnamedelima M},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a3384d076e343b93e689fbeba4788d68}{%
+           family={Trigg},
+           familyi={T\bibinitperiod},
+           given={Shelly\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=93db8fce9388b05da8507332c160aadf}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Samuel\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=feae93a90567754d8e8ee392d1194b55}{%
+           family={Spencer},
+           familyi={S\bibinitperiod},
+           given={Laura\bibnamedelima H},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c40d32a9ead2df6203a3b73a1fe76738}{%
+           family={Vadopalas},
+           familyi={V\bibinitperiod},
+           given={Brent},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9d7c4557a6b070a326564b248207ea63}{%
+           family={Natarajan},
+           familyi={N\bibinitperiod},
+           given={Aparna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f4be901ead8ef5d1453b1d49e1977b1d}{%
+           family={Hetzel},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8d10d9b13b83739acf7262d2cb4dd372}{%
+           family={Jaeger},
+           familyi={J\bibinitperiod},
+           given={Erich},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a7299f8bd42d910be84988633dad9e40}{%
+           family={Soohoo},
+           familyi={S\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cfd220d56ec12cbf7e4e64fe1e81a013}{%
+           family={Gallardo-Escárate},
+           familyi={G\bibinithyphendelim E\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{c611737ac268651670c1aa6fe98a9bde}
+      \strng{fullhash}{c661496463b493713854bb462fb07f1d}
+      \strng{fullhashraw}{c661496463b493713854bb462fb07f1d}
+      \strng{bibnamehash}{c661496463b493713854bb462fb07f1d}
+      \strng{authorbibnamehash}{c661496463b493713854bb462fb07f1d}
+      \strng{authornamehash}{c611737ac268651670c1aa6fe98a9bde}
+      \strng{authorfullhash}{c661496463b493713854bb462fb07f1d}
+      \strng{authorfullhashraw}{c661496463b493713854bb462fb07f1d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv}
+      \field{title}{Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams}
+      \field{year}{2022}
+      \field{pages}{2022\bibrangedash 06}
+      \range{pages}{5}
+    \endentry
     \entry{qi2023construction}{article}{}{}
       \name{author}{5}{}{%
         {{hash=3256313274cdaf4f7e319968de0367a4}{%
@@ -9604,6 +10017,86 @@
       \field{year}{2010}
       \field{pages}{234\bibrangedash 248}
       \range{pages}{15}
+    \endentry
+    \entry{shimizu2022evolution}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=4241f99d3b383ed85db7a82cd1d211bd}{%
+           family={Shimizu},
+           familyi={S\bibinitperiod},
+           given={Keisuke},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0b65b65034e5eede7e8ae44af7397289}{%
+           family={Negishi},
+           familyi={N\bibinitperiod},
+           given={Lumi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8ecea6419be407344ebc6419116abf1e}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={Takumi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2a8d04fc9973793475dbe7de806de59a}{%
+           family={Touma},
+           familyi={T\bibinitperiod},
+           given={Shogo},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d36f4786287fe76ed7336de3f6d0e5d8}{%
+           family={Matsumoto},
+           familyi={M\bibinitperiod},
+           given={Toshie},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fe7a76ddb0b90e422b3effc6a9eefbeb}{%
+           family={Awaji},
+           familyi={A\bibinitperiod},
+           given={Masahiko},
+           giveni={M\bibinitperiod}}}%
+        {{hash=756172470f283d456e021eed97f857c1}{%
+           family={Kurumizaka},
+           familyi={K\bibinitperiod},
+           given={Hitoshi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=caaeace82f974d0b3e9b27e3ff394899}{%
+           family={Yoshitake},
+           familyi={Y\bibinitperiod},
+           given={Kazutoshi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bc3310b1cdee1b025afe7adf999eec4c}{%
+           family={Kinoshita},
+           familyi={K\bibinitperiod},
+           given={Shigeharu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3718422569b5f5dff35dd4e3db7822a2}{%
+           family={Asakawa},
+           familyi={A\bibinitperiod},
+           given={Shuichi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2be5f3cf29fcdd93a1506cf045137361}
+      \strng{fullhash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{fullhashraw}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{bibnamehash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{authorbibnamehash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{authornamehash}{2be5f3cf29fcdd93a1506cf045137361}
+      \strng{authorfullhash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{authorfullhashraw}{9e80ed93377d9e4134a758b5850e4f62}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
+      \field{title}{Evolution of nacre-and prisms-related shell matrix proteins in the pen shell, \textit{Atrina pectinata}}
+      \field{volume}{44}
+      \field{year}{2022}
+      \field{pages}{101025}
+      \range{pages}{1}
     \endentry
     \entry{sievers2011fast}{article}{}{}
       \true{moreauthor}
@@ -12042,6 +12535,49 @@
       \field{year}{2021}
       \field{pages}{145692}
       \range{pages}{1}
+    \endentry
+    \entry{yuen2019organ}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=788cbbd41a4b1a214db76c2cff66e4d1}{%
+           family={Yuen},
+           familyi={Y\bibinitperiod},
+           given={Benedict},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5e92e1281d0de0f407604ef1009b240a}{%
+           family={Polzin},
+           familyi={P\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0920b558ee21d8e79f6eac72f3519855}{%
+           family={Petersen},
+           familyi={P\bibinitperiod},
+           given={Jillian\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{047c999644464ef0ba2d00305013230b}
+      \strng{fullhash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{fullhashraw}{82022e8af78e559a88c064b83625bd7b}
+      \strng{bibnamehash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{authorbibnamehash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{authornamehash}{047c999644464ef0ba2d00305013230b}
+      \strng{authorfullhash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{authorfullhashraw}{82022e8af78e559a88c064b83625bd7b}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC genomics}
+      \field{title}{Organ transcriptomes of the lucinid clam \textit{Loripes orbiculatus} (Poli, 1791) provide insights into their specialised roles in the biology of a chemosymbiotic bivalve}
+      \field{volume}{20}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
     \endentry
     \entry{zeng2024genome}{article}{}{}
       \name{author}{6}{}{%
@@ -17635,6 +18171,64 @@
       \field{pages}{165\bibrangedash 192}
       \range{pages}{28}
     \endentry
+    \entry{briones2018novo}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=5917468a20685fff3a5048b11f79cddd}{%
+           family={Briones},
+           familyi={B\bibinitperiod},
+           given={Carolina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2ccbf9367acb5ccbd4c639919f4d5769}{%
+           family={Nuñez},
+           familyi={N\bibinitperiod},
+           given={José\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=955ff9816fafdd1469209a780ef44fb8}{%
+           family={Pérez},
+           familyi={P\bibinitperiod},
+           given={Montse},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4763bf3d03c1cdaffc65ee6f5828f294}{%
+           family={Espinoza-Rojas},
+           familyi={E\bibinithyphendelim R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b1303ab07b9d9f03d02759e9801f9dde}{%
+           family={Molina-Quiroz},
+           familyi={M\bibinithyphendelim Q\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=32a817455feadb1a174ae288ab5d3e51}{%
+           family={Guiñez},
+           familyi={G\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ivyspring International Publisher}%
+      }
+      \strng{namehash}{f5c95cc1abc3ebb98ab5c21c1e63c831}
+      \strng{fullhash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{fullhashraw}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{bibnamehash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{authorbibnamehash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{authornamehash}{f5c95cc1abc3ebb98ab5c21c1e63c831}
+      \strng{authorfullhash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{authorfullhashraw}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Genomics}
+      \field{title}{De novo male gonad transcriptome draft for the marine mussel \textit{Perumytilus purpuratus} with a focus on its reproductive-related proteins}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{127}
+      \range{pages}{1}
+    \endentry
     \entry{capt2018deciphering}{article}{}{}
       \name{author}{8}{}{%
         {{hash=16fe9a7d028872c6aa928adaa25022b0}{%
@@ -18051,6 +18645,122 @@
       \field{year}{2018}
       \field{pages}{e2006348}
       \range{pages}{-1}
+    \endentry
+    \entry{meng2018transcriptome}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=3ad247f9c30b728b8ea3a7663fa621a2}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a1763fca75a6f4cdb2b642548eaad89d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d5ffa18724632f01eea9ec8c2824ff66}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=830e5b3ecbea43ab680b2b2e2e0849e3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xinzheng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=502de95c3193f5c283f4ef712520a97e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{fd42cd6131517c56fe9b7dd04d0d336c}
+      \strng{fullhash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{fullhashraw}{cca4a39152be22ae62e16eaed138decd}
+      \strng{bibnamehash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{authorbibnamehash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{authornamehash}{fd42cd6131517c56fe9b7dd04d0d336c}
+      \strng{authorfullhash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{authorfullhashraw}{cca4a39152be22ae62e16eaed138decd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Oceanologica Sinica}
+      \field{title}{Transcriptome assembly of Modiolus modiolus and comparative analysis with \textit{Bathymodiolus platifrons}}
+      \field{volume}{37}
+      \field{year}{2018}
+      \field{pages}{38\bibrangedash 45}
+      \range{pages}{8}
+    \endentry
+    \entry{nie2018rna}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=455b665b1b9e095f6533c5170bdc3478}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Hongtao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f647a0cc5d65561571c560d9e07ba78b}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Shasha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b3f9776d585c29ec61ed02e6fa6175c5}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Dongdong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=eddf1cb05e28419c7dba29e72648257b}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Mengge},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f2c8795ef494bac7a6e728c0c9289073}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Liwen},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2e19f117f2923574b82023ddbfe80eec}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaodong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=0cb5c11e0b31c3012cb6a4bfb086102b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Xiwu},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{fb3d3bedda98384e972a97d083aaba27}
+      \strng{fullhash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{fullhashraw}{134afe018adb8852bb4adeb2556baccb}
+      \strng{bibnamehash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{authorbibnamehash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{authornamehash}{fb3d3bedda98384e972a97d083aaba27}
+      \strng{authorfullhash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{authorfullhashraw}{134afe018adb8852bb4adeb2556baccb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
+      \field{title}{RNA-Seq analysis of differentially expressed genes in the grand jackknife clam \textit{Solen grandis} under aerial exposure}
+      \field{volume}{28}
+      \field{year}{2018}
+      \field{pages}{54\bibrangedash 62}
+      \range{pages}{9}
     \endentry
     \entry{powell2018genome}{article}{}{}
       \name{author}{7}{}{%
@@ -18575,6 +19285,87 @@
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
     \endentry
+    \entry{lan2019host}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=4309ab0ee14b03f6d505520690029655}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8fd7d49bf86823d5100ee335f17c3505}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=211828baa46967c6d8039289ae2234b9}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Weipeng},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1517b5e5cf9fa1aa26b85edc31fabf3c}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Ting},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9a4f4a1ff661cd600eb26523a5ba8bb4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ea1fab8979cc9aaa8f8ac5e6b5fb3e05}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=253c051a287b32df0b84a19a8112d6bf}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bb596c2ad266541ba401586042bb0896}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Hongbin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=edf3a58fceeca49e576ca4fbd644327c}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=828f14217ef32122c46c97fb37d40eb1}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Jian-Wen},
+           giveni={J\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{00d3f0d07009f07fe00919b4e72ab815}
+      \strng{fullhash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{fullhashraw}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{bibnamehash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{authorbibnamehash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{authornamehash}{00d3f0d07009f07fe00919b4e72ab815}
+      \strng{authorfullhash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{authorfullhashraw}{7b11d09274dbac0c9a1531935d5de7cb}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Marine Science}
+      \field{title}{Host--symbiont interactions in deep-sea chemosymbiotic vesicomyid clams: insights from transcriptome sequencing}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{680}
+      \range{pages}{1}
+    \endentry
     \entry{liang2019sox2}{article}{}{}
       \name{author}{9}{}{%
         {{hash=059402accea505172bd24c4fd83ed19e}{%
@@ -18935,6 +19726,49 @@
       \field{year}{2019}
       \field{pages}{W5\bibrangedash W10}
       \range{pages}{-1}
+    \endentry
+    \entry{yuen2019organ}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=788cbbd41a4b1a214db76c2cff66e4d1}{%
+           family={Yuen},
+           familyi={Y\bibinitperiod},
+           given={Benedict},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5e92e1281d0de0f407604ef1009b240a}{%
+           family={Polzin},
+           familyi={P\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0920b558ee21d8e79f6eac72f3519855}{%
+           family={Petersen},
+           familyi={P\bibinitperiod},
+           given={Jillian\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{047c999644464ef0ba2d00305013230b}
+      \strng{fullhash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{fullhashraw}{82022e8af78e559a88c064b83625bd7b}
+      \strng{bibnamehash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{authorbibnamehash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{authornamehash}{047c999644464ef0ba2d00305013230b}
+      \strng{authorfullhash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{authorfullhashraw}{82022e8af78e559a88c064b83625bd7b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC genomics}
+      \field{title}{Organ transcriptomes of the lucinid clam \textit{Loripes orbiculatus} (Poli, 1791) provide insights into their specialised roles in the biology of a chemosymbiotic bivalve}
+      \field{volume}{20}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
     \endentry
     \entry{zhu2019transcriptome}{article}{}{}
       \name{author}{4}{}{%
@@ -19385,7 +20219,7 @@
     \entry{li2020chromosome}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
-      \name{author}{10}{}{%
+      \name{author}{10}{ul=2}{%
         {{hash=95c70634d79714b9e82a3997d934676d}{%
            family={Li},
            familyi={L\bibinitperiod},
@@ -19440,15 +20274,14 @@
       \list{publisher}{1}{%
         {Wiley Online Library}%
       }
-      \strng{namehash}{cd13eb73ff9b0dfda00ed5509d762947}
+      \strng{namehash}{a4906322f1c79dcd07e5094bb1b4df77}
       \strng{fullhash}{2be6e04165581fadb73d6daea105fad0}
       \strng{fullhashraw}{2be6e04165581fadb73d6daea105fad0}
       \strng{bibnamehash}{2be6e04165581fadb73d6daea105fad0}
       \strng{authorbibnamehash}{2be6e04165581fadb73d6daea105fad0}
-      \strng{authornamehash}{cd13eb73ff9b0dfda00ed5509d762947}
+      \strng{authornamehash}{a4906322f1c79dcd07e5094bb1b4df77}
       \strng{authorfullhash}{2be6e04165581fadb73d6daea105fad0}
       \strng{authorfullhashraw}{2be6e04165581fadb73d6daea105fad0}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -19462,6 +20295,85 @@
       \field{year}{2020}
       \field{pages}{1572\bibrangedash 1582}
       \range{pages}{11}
+    \endentry
+    \entry{li2020comparative}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{ul=2}{%
+        {{hash=bc20e54573d2db853852f86802ab83de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bedb09c0959a98437537322ea2ebe420}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yinyin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=aa5ac5ee0a1c343dc62955079d104f11}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zihua},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=027ba1cfc5f4f70474fcc5edfe4531d9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Chuanxu},
+           giveni={C\bibinitperiod}}}%
+        {{hash=310af85f08eb2e5c7f65fe39adbbc6ba}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Jinkuan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4cb6efc04b2b6c3904694436085eebbd}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Yanpin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a7621522121d0e84c4e9cf82495b4294}{%
+           family={Xiang},
+           familyi={X\bibinitperiod},
+           given={Zhiming},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=e2f96a4ea2aa5cccd5b3976bbe203345}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Haitao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5291aaa36a6030881878a26055149c6c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yuehuan},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b90539d990b5e055d6678ecc910a754f}
+      \strng{fullhash}{28c8d129e36210b717858d2993840272}
+      \strng{fullhashraw}{28c8d129e36210b717858d2993840272}
+      \strng{bibnamehash}{28c8d129e36210b717858d2993840272}
+      \strng{authorbibnamehash}{28c8d129e36210b717858d2993840272}
+      \strng{authornamehash}{b90539d990b5e055d6678ecc910a754f}
+      \strng{authorfullhash}{28c8d129e36210b717858d2993840272}
+      \strng{authorfullhashraw}{28c8d129e36210b717858d2993840272}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC genomics}
+      \field{title}{Comparative transcriptome analysis of three gonadal development stages reveals potential genes involved in gametogenesis of the fluted giant clam (\textit{Tridacna squamosa})}
+      \field{volume}{21}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
     \endentry
     \entry{liu2020draft}{article}{}{}
       \true{moreauthor}
@@ -20647,6 +21559,7 @@
       \strng{authornamehash}{00d3f0d07009f07fe00919b4e72ab815}
       \strng{authorfullhash}{28f1977a99247e1273ded851a4df8d1d}
       \strng{authorfullhashraw}{28f1977a99247e1273ded851a4df8d1d}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -20767,7 +21680,7 @@
       \strng{authornamehash}{d5e025eb1b0a8022bf2c8d4446fcbfc0}
       \strng{authorfullhash}{c3189eacca98ba9686e948e7e4a679d5}
       \strng{authorfullhashraw}{c3189eacca98ba9686e948e7e4a679d5}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -22196,7 +23109,7 @@
       \strng{authornamehash}{2a234e20844882c2f8f6b93bd55c8609}
       \strng{authorfullhash}{7ace2d5609cc0c09410e353360780807}
       \strng{authorfullhashraw}{7ace2d5609cc0c09410e353360780807}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -22395,6 +23308,85 @@
       \field{pages}{681\bibrangedash 688}
       \range{pages}{8}
     \endentry
+    \entry{putnam2022dynamic}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=7fdd1245ea9171395e71944e38fda522}{%
+           family={Putnam},
+           familyi={P\bibinitperiod},
+           given={Hollie\bibnamedelima M},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a3384d076e343b93e689fbeba4788d68}{%
+           family={Trigg},
+           familyi={T\bibinitperiod},
+           given={Shelly\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=93db8fce9388b05da8507332c160aadf}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Samuel\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=feae93a90567754d8e8ee392d1194b55}{%
+           family={Spencer},
+           familyi={S\bibinitperiod},
+           given={Laura\bibnamedelima H},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c40d32a9ead2df6203a3b73a1fe76738}{%
+           family={Vadopalas},
+           familyi={V\bibinitperiod},
+           given={Brent},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9d7c4557a6b070a326564b248207ea63}{%
+           family={Natarajan},
+           familyi={N\bibinitperiod},
+           given={Aparna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f4be901ead8ef5d1453b1d49e1977b1d}{%
+           family={Hetzel},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8d10d9b13b83739acf7262d2cb4dd372}{%
+           family={Jaeger},
+           familyi={J\bibinitperiod},
+           given={Erich},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a7299f8bd42d910be84988633dad9e40}{%
+           family={Soohoo},
+           familyi={S\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cfd220d56ec12cbf7e4e64fe1e81a013}{%
+           family={Gallardo-Escárate},
+           familyi={G\bibinithyphendelim E\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{c611737ac268651670c1aa6fe98a9bde}
+      \strng{fullhash}{c661496463b493713854bb462fb07f1d}
+      \strng{fullhashraw}{c661496463b493713854bb462fb07f1d}
+      \strng{bibnamehash}{c661496463b493713854bb462fb07f1d}
+      \strng{authorbibnamehash}{c661496463b493713854bb462fb07f1d}
+      \strng{authornamehash}{c611737ac268651670c1aa6fe98a9bde}
+      \strng{authorfullhash}{c661496463b493713854bb462fb07f1d}
+      \strng{authorfullhashraw}{c661496463b493713854bb462fb07f1d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv}
+      \field{title}{Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams}
+      \field{year}{2022}
+      \field{pages}{2022\bibrangedash 06}
+      \range{pages}{5}
+    \endentry
     \entry{schomburg2022phylogenetic}{article}{}{}
       \name{author}{3}{}{%
         {{hash=5825b84c2f88d8ebbe18cc9c68add997}{%
@@ -22497,6 +23489,86 @@
       \field{year}{2022}
       \field{pages}{evac139}
       \range{pages}{-1}
+    \endentry
+    \entry{shimizu2022evolution}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=4241f99d3b383ed85db7a82cd1d211bd}{%
+           family={Shimizu},
+           familyi={S\bibinitperiod},
+           given={Keisuke},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0b65b65034e5eede7e8ae44af7397289}{%
+           family={Negishi},
+           familyi={N\bibinitperiod},
+           given={Lumi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8ecea6419be407344ebc6419116abf1e}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={Takumi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2a8d04fc9973793475dbe7de806de59a}{%
+           family={Touma},
+           familyi={T\bibinitperiod},
+           given={Shogo},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d36f4786287fe76ed7336de3f6d0e5d8}{%
+           family={Matsumoto},
+           familyi={M\bibinitperiod},
+           given={Toshie},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fe7a76ddb0b90e422b3effc6a9eefbeb}{%
+           family={Awaji},
+           familyi={A\bibinitperiod},
+           given={Masahiko},
+           giveni={M\bibinitperiod}}}%
+        {{hash=756172470f283d456e021eed97f857c1}{%
+           family={Kurumizaka},
+           familyi={K\bibinitperiod},
+           given={Hitoshi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=caaeace82f974d0b3e9b27e3ff394899}{%
+           family={Yoshitake},
+           familyi={Y\bibinitperiod},
+           given={Kazutoshi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bc3310b1cdee1b025afe7adf999eec4c}{%
+           family={Kinoshita},
+           familyi={K\bibinitperiod},
+           given={Shigeharu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3718422569b5f5dff35dd4e3db7822a2}{%
+           family={Asakawa},
+           familyi={A\bibinitperiod},
+           given={Shuichi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2be5f3cf29fcdd93a1506cf045137361}
+      \strng{fullhash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{fullhashraw}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{bibnamehash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{authorbibnamehash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{authornamehash}{2be5f3cf29fcdd93a1506cf045137361}
+      \strng{authorfullhash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{authorfullhashraw}{9e80ed93377d9e4134a758b5850e4f62}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
+      \field{title}{Evolution of nacre-and prisms-related shell matrix proteins in the pen shell, \textit{Atrina pectinata}}
+      \field{volume}{44}
+      \field{year}{2022}
+      \field{pages}{101025}
+      \range{pages}{1}
     \endentry
     \entry{sun2022examination}{article}{}{}
       \name{author}{3}{}{%
@@ -29811,6 +30883,64 @@
       \field{pages}{165\bibrangedash 192}
       \range{pages}{28}
     \endentry
+    \entry{briones2018novo}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=5917468a20685fff3a5048b11f79cddd}{%
+           family={Briones},
+           familyi={B\bibinitperiod},
+           given={Carolina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2ccbf9367acb5ccbd4c639919f4d5769}{%
+           family={Nuñez},
+           familyi={N\bibinitperiod},
+           given={José\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=955ff9816fafdd1469209a780ef44fb8}{%
+           family={Pérez},
+           familyi={P\bibinitperiod},
+           given={Montse},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4763bf3d03c1cdaffc65ee6f5828f294}{%
+           family={Espinoza-Rojas},
+           familyi={E\bibinithyphendelim R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b1303ab07b9d9f03d02759e9801f9dde}{%
+           family={Molina-Quiroz},
+           familyi={M\bibinithyphendelim Q\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=32a817455feadb1a174ae288ab5d3e51}{%
+           family={Guiñez},
+           familyi={G\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ivyspring International Publisher}%
+      }
+      \strng{namehash}{f5c95cc1abc3ebb98ab5c21c1e63c831}
+      \strng{fullhash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{fullhashraw}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{bibnamehash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{authorbibnamehash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{authornamehash}{f5c95cc1abc3ebb98ab5c21c1e63c831}
+      \strng{authorfullhash}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \strng{authorfullhashraw}{0c9439e171a9fb0bf57f2a832dbbf720}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Genomics}
+      \field{title}{De novo male gonad transcriptome draft for the marine mussel \textit{Perumytilus purpuratus} with a focus on its reproductive-related proteins}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{127}
+      \range{pages}{1}
+    \endentry
     \entry{capt2018deciphering}{article}{}{}
       \name{author}{8}{}{%
         {{hash=16fe9a7d028872c6aa928adaa25022b0}{%
@@ -30227,6 +31357,122 @@
       \field{year}{2018}
       \field{pages}{e2006348}
       \range{pages}{-1}
+    \endentry
+    \entry{meng2018transcriptome}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=3ad247f9c30b728b8ea3a7663fa621a2}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a1763fca75a6f4cdb2b642548eaad89d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d5ffa18724632f01eea9ec8c2824ff66}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=830e5b3ecbea43ab680b2b2e2e0849e3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xinzheng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=502de95c3193f5c283f4ef712520a97e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{fd42cd6131517c56fe9b7dd04d0d336c}
+      \strng{fullhash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{fullhashraw}{cca4a39152be22ae62e16eaed138decd}
+      \strng{bibnamehash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{authorbibnamehash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{authornamehash}{fd42cd6131517c56fe9b7dd04d0d336c}
+      \strng{authorfullhash}{cca4a39152be22ae62e16eaed138decd}
+      \strng{authorfullhashraw}{cca4a39152be22ae62e16eaed138decd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Oceanologica Sinica}
+      \field{title}{Transcriptome assembly of Modiolus modiolus and comparative analysis with \textit{Bathymodiolus platifrons}}
+      \field{volume}{37}
+      \field{year}{2018}
+      \field{pages}{38\bibrangedash 45}
+      \range{pages}{8}
+    \endentry
+    \entry{nie2018rna}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=455b665b1b9e095f6533c5170bdc3478}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Hongtao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f647a0cc5d65561571c560d9e07ba78b}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Shasha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b3f9776d585c29ec61ed02e6fa6175c5}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Dongdong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=eddf1cb05e28419c7dba29e72648257b}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Mengge},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f2c8795ef494bac7a6e728c0c9289073}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Liwen},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2e19f117f2923574b82023ddbfe80eec}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaodong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=0cb5c11e0b31c3012cb6a4bfb086102b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Xiwu},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{fb3d3bedda98384e972a97d083aaba27}
+      \strng{fullhash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{fullhashraw}{134afe018adb8852bb4adeb2556baccb}
+      \strng{bibnamehash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{authorbibnamehash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{authornamehash}{fb3d3bedda98384e972a97d083aaba27}
+      \strng{authorfullhash}{134afe018adb8852bb4adeb2556baccb}
+      \strng{authorfullhashraw}{134afe018adb8852bb4adeb2556baccb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
+      \field{title}{RNA-Seq analysis of differentially expressed genes in the grand jackknife clam \textit{Solen grandis} under aerial exposure}
+      \field{volume}{28}
+      \field{year}{2018}
+      \field{pages}{54\bibrangedash 62}
+      \range{pages}{9}
     \endentry
     \entry{powell2018genome}{article}{}{}
       \name{author}{7}{}{%
@@ -30751,6 +31997,87 @@
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
     \endentry
+    \entry{lan2019host}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=4309ab0ee14b03f6d505520690029655}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8fd7d49bf86823d5100ee335f17c3505}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=211828baa46967c6d8039289ae2234b9}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Weipeng},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1517b5e5cf9fa1aa26b85edc31fabf3c}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Ting},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9a4f4a1ff661cd600eb26523a5ba8bb4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ea1fab8979cc9aaa8f8ac5e6b5fb3e05}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=253c051a287b32df0b84a19a8112d6bf}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bb596c2ad266541ba401586042bb0896}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Hongbin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=edf3a58fceeca49e576ca4fbd644327c}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=828f14217ef32122c46c97fb37d40eb1}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Jian-Wen},
+           giveni={J\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{00d3f0d07009f07fe00919b4e72ab815}
+      \strng{fullhash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{fullhashraw}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{bibnamehash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{authorbibnamehash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{authornamehash}{00d3f0d07009f07fe00919b4e72ab815}
+      \strng{authorfullhash}{7b11d09274dbac0c9a1531935d5de7cb}
+      \strng{authorfullhashraw}{7b11d09274dbac0c9a1531935d5de7cb}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Marine Science}
+      \field{title}{Host--symbiont interactions in deep-sea chemosymbiotic vesicomyid clams: insights from transcriptome sequencing}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{680}
+      \range{pages}{1}
+    \endentry
     \entry{liang2019sox2}{article}{}{}
       \name{author}{9}{}{%
         {{hash=059402accea505172bd24c4fd83ed19e}{%
@@ -31111,6 +32438,49 @@
       \field{year}{2019}
       \field{pages}{W5\bibrangedash W10}
       \range{pages}{-1}
+    \endentry
+    \entry{yuen2019organ}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=788cbbd41a4b1a214db76c2cff66e4d1}{%
+           family={Yuen},
+           familyi={Y\bibinitperiod},
+           given={Benedict},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5e92e1281d0de0f407604ef1009b240a}{%
+           family={Polzin},
+           familyi={P\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0920b558ee21d8e79f6eac72f3519855}{%
+           family={Petersen},
+           familyi={P\bibinitperiod},
+           given={Jillian\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{047c999644464ef0ba2d00305013230b}
+      \strng{fullhash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{fullhashraw}{82022e8af78e559a88c064b83625bd7b}
+      \strng{bibnamehash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{authorbibnamehash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{authornamehash}{047c999644464ef0ba2d00305013230b}
+      \strng{authorfullhash}{82022e8af78e559a88c064b83625bd7b}
+      \strng{authorfullhashraw}{82022e8af78e559a88c064b83625bd7b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC genomics}
+      \field{title}{Organ transcriptomes of the lucinid clam \textit{Loripes orbiculatus} (Poli, 1791) provide insights into their specialised roles in the biology of a chemosymbiotic bivalve}
+      \field{volume}{20}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
     \endentry
     \entry{zhu2019transcriptome}{article}{}{}
       \name{author}{4}{}{%
@@ -31561,7 +32931,7 @@
     \entry{li2020chromosome}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
-      \name{author}{10}{}{%
+      \name{author}{10}{ul=2}{%
         {{hash=95c70634d79714b9e82a3997d934676d}{%
            family={Li},
            familyi={L\bibinitperiod},
@@ -31616,15 +32986,14 @@
       \list{publisher}{1}{%
         {Wiley Online Library}%
       }
-      \strng{namehash}{cd13eb73ff9b0dfda00ed5509d762947}
+      \strng{namehash}{a4906322f1c79dcd07e5094bb1b4df77}
       \strng{fullhash}{2be6e04165581fadb73d6daea105fad0}
       \strng{fullhashraw}{2be6e04165581fadb73d6daea105fad0}
       \strng{bibnamehash}{2be6e04165581fadb73d6daea105fad0}
       \strng{authorbibnamehash}{2be6e04165581fadb73d6daea105fad0}
-      \strng{authornamehash}{cd13eb73ff9b0dfda00ed5509d762947}
+      \strng{authornamehash}{a4906322f1c79dcd07e5094bb1b4df77}
       \strng{authorfullhash}{2be6e04165581fadb73d6daea105fad0}
       \strng{authorfullhashraw}{2be6e04165581fadb73d6daea105fad0}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -31638,6 +33007,85 @@
       \field{year}{2020}
       \field{pages}{1572\bibrangedash 1582}
       \range{pages}{11}
+    \endentry
+    \entry{li2020comparative}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{ul=2}{%
+        {{hash=bc20e54573d2db853852f86802ab83de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bedb09c0959a98437537322ea2ebe420}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yinyin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=aa5ac5ee0a1c343dc62955079d104f11}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zihua},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=027ba1cfc5f4f70474fcc5edfe4531d9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Chuanxu},
+           giveni={C\bibinitperiod}}}%
+        {{hash=310af85f08eb2e5c7f65fe39adbbc6ba}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Jinkuan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4cb6efc04b2b6c3904694436085eebbd}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Yanpin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a7621522121d0e84c4e9cf82495b4294}{%
+           family={Xiang},
+           familyi={X\bibinitperiod},
+           given={Zhiming},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=e2f96a4ea2aa5cccd5b3976bbe203345}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Haitao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e760d38078aff4a5b24c867aa5178c26}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5291aaa36a6030881878a26055149c6c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yuehuan},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b90539d990b5e055d6678ecc910a754f}
+      \strng{fullhash}{28c8d129e36210b717858d2993840272}
+      \strng{fullhashraw}{28c8d129e36210b717858d2993840272}
+      \strng{bibnamehash}{28c8d129e36210b717858d2993840272}
+      \strng{authorbibnamehash}{28c8d129e36210b717858d2993840272}
+      \strng{authornamehash}{b90539d990b5e055d6678ecc910a754f}
+      \strng{authorfullhash}{28c8d129e36210b717858d2993840272}
+      \strng{authorfullhashraw}{28c8d129e36210b717858d2993840272}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC genomics}
+      \field{title}{Comparative transcriptome analysis of three gonadal development stages reveals potential genes involved in gametogenesis of the fluted giant clam (\textit{Tridacna squamosa})}
+      \field{volume}{21}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
     \endentry
     \entry{liu2020draft}{article}{}{}
       \true{moreauthor}
@@ -32823,6 +34271,7 @@
       \strng{authornamehash}{00d3f0d07009f07fe00919b4e72ab815}
       \strng{authorfullhash}{28f1977a99247e1273ded851a4df8d1d}
       \strng{authorfullhashraw}{28f1977a99247e1273ded851a4df8d1d}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -32943,7 +34392,7 @@
       \strng{authornamehash}{d5e025eb1b0a8022bf2c8d4446fcbfc0}
       \strng{authorfullhash}{c3189eacca98ba9686e948e7e4a679d5}
       \strng{authorfullhashraw}{c3189eacca98ba9686e948e7e4a679d5}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -34372,7 +35821,7 @@
       \strng{authornamehash}{2a234e20844882c2f8f6b93bd55c8609}
       \strng{authorfullhash}{7ace2d5609cc0c09410e353360780807}
       \strng{authorfullhashraw}{7ace2d5609cc0c09410e353360780807}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -34571,6 +36020,85 @@
       \field{pages}{681\bibrangedash 688}
       \range{pages}{8}
     \endentry
+    \entry{putnam2022dynamic}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=7fdd1245ea9171395e71944e38fda522}{%
+           family={Putnam},
+           familyi={P\bibinitperiod},
+           given={Hollie\bibnamedelima M},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a3384d076e343b93e689fbeba4788d68}{%
+           family={Trigg},
+           familyi={T\bibinitperiod},
+           given={Shelly\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=93db8fce9388b05da8507332c160aadf}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Samuel\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=feae93a90567754d8e8ee392d1194b55}{%
+           family={Spencer},
+           familyi={S\bibinitperiod},
+           given={Laura\bibnamedelima H},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c40d32a9ead2df6203a3b73a1fe76738}{%
+           family={Vadopalas},
+           familyi={V\bibinitperiod},
+           given={Brent},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9d7c4557a6b070a326564b248207ea63}{%
+           family={Natarajan},
+           familyi={N\bibinitperiod},
+           given={Aparna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f4be901ead8ef5d1453b1d49e1977b1d}{%
+           family={Hetzel},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8d10d9b13b83739acf7262d2cb4dd372}{%
+           family={Jaeger},
+           familyi={J\bibinitperiod},
+           given={Erich},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a7299f8bd42d910be84988633dad9e40}{%
+           family={Soohoo},
+           familyi={S\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cfd220d56ec12cbf7e4e64fe1e81a013}{%
+           family={Gallardo-Escárate},
+           familyi={G\bibinithyphendelim E\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{c611737ac268651670c1aa6fe98a9bde}
+      \strng{fullhash}{c661496463b493713854bb462fb07f1d}
+      \strng{fullhashraw}{c661496463b493713854bb462fb07f1d}
+      \strng{bibnamehash}{c661496463b493713854bb462fb07f1d}
+      \strng{authorbibnamehash}{c661496463b493713854bb462fb07f1d}
+      \strng{authornamehash}{c611737ac268651670c1aa6fe98a9bde}
+      \strng{authorfullhash}{c661496463b493713854bb462fb07f1d}
+      \strng{authorfullhashraw}{c661496463b493713854bb462fb07f1d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv}
+      \field{title}{Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams}
+      \field{year}{2022}
+      \field{pages}{2022\bibrangedash 06}
+      \range{pages}{5}
+    \endentry
     \entry{schomburg2022phylogenetic}{article}{}{}
       \name{author}{3}{}{%
         {{hash=5825b84c2f88d8ebbe18cc9c68add997}{%
@@ -34673,6 +36201,86 @@
       \field{year}{2022}
       \field{pages}{evac139}
       \range{pages}{-1}
+    \endentry
+    \entry{shimizu2022evolution}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=4241f99d3b383ed85db7a82cd1d211bd}{%
+           family={Shimizu},
+           familyi={S\bibinitperiod},
+           given={Keisuke},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0b65b65034e5eede7e8ae44af7397289}{%
+           family={Negishi},
+           familyi={N\bibinitperiod},
+           given={Lumi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8ecea6419be407344ebc6419116abf1e}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={Takumi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2a8d04fc9973793475dbe7de806de59a}{%
+           family={Touma},
+           familyi={T\bibinitperiod},
+           given={Shogo},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d36f4786287fe76ed7336de3f6d0e5d8}{%
+           family={Matsumoto},
+           familyi={M\bibinitperiod},
+           given={Toshie},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fe7a76ddb0b90e422b3effc6a9eefbeb}{%
+           family={Awaji},
+           familyi={A\bibinitperiod},
+           given={Masahiko},
+           giveni={M\bibinitperiod}}}%
+        {{hash=756172470f283d456e021eed97f857c1}{%
+           family={Kurumizaka},
+           familyi={K\bibinitperiod},
+           given={Hitoshi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=caaeace82f974d0b3e9b27e3ff394899}{%
+           family={Yoshitake},
+           familyi={Y\bibinitperiod},
+           given={Kazutoshi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bc3310b1cdee1b025afe7adf999eec4c}{%
+           family={Kinoshita},
+           familyi={K\bibinitperiod},
+           given={Shigeharu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3718422569b5f5dff35dd4e3db7822a2}{%
+           family={Asakawa},
+           familyi={A\bibinitperiod},
+           given={Shuichi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2be5f3cf29fcdd93a1506cf045137361}
+      \strng{fullhash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{fullhashraw}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{bibnamehash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{authorbibnamehash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{authornamehash}{2be5f3cf29fcdd93a1506cf045137361}
+      \strng{authorfullhash}{9e80ed93377d9e4134a758b5850e4f62}
+      \strng{authorfullhashraw}{9e80ed93377d9e4134a758b5850e4f62}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comparative Biochemistry and Physiology Part D: Genomics and Proteomics}
+      \field{title}{Evolution of nacre-and prisms-related shell matrix proteins in the pen shell, \textit{Atrina pectinata}}
+      \field{volume}{44}
+      \field{year}{2022}
+      \field{pages}{101025}
+      \range{pages}{1}
     \endentry
     \entry{sun2022examination}{article}{}{}
       \name{author}{3}{}{%
