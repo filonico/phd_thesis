@@ -2583,45 +2583,6 @@
       \field{pages}{100952}
       \range{pages}{1}
     \endentry
-    \entry{extavour2003mechanisms}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=d955c304ab83274e231c9c4058b7f884}{%
-           family={Extavour},
-           familyi={E\bibinitperiod},
-           given={Cassandra\bibnamedelima G},
-           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=0eb026b75d3d678e8461a9ac4dbf2eaa}{%
-           family={Akam},
-           familyi={A\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press for The Company of Biologists Limited}%
-      }
-      \strng{namehash}{2647bdd4997df52381a921a50381024d}
-      \strng{fullhash}{2647bdd4997df52381a921a50381024d}
-      \strng{fullhashraw}{2647bdd4997df52381a921a50381024d}
-      \strng{bibnamehash}{2647bdd4997df52381a921a50381024d}
-      \strng{authorbibnamehash}{2647bdd4997df52381a921a50381024d}
-      \strng{authornamehash}{2647bdd4997df52381a921a50381024d}
-      \strng{authorfullhash}{2647bdd4997df52381a921a50381024d}
-      \strng{authorfullhashraw}{2647bdd4997df52381a921a50381024d}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Development}
-      \field{number}{24}
-      \field{title}{Mechanisms of germ cell specification across the metazoans: epigenesis and preformation}
-      \field{volume}{130}
-      \field{year}{2003}
-      \field{pages}{5869\bibrangedash 5884}
-      \range{pages}{16}
-    \endentry
     \entry{fan2019chromosome}{article}{}{}
       \name{author}{6}{}{%
         {{hash=29c358ca74f827ea5d2fe8376b467b91}{%
@@ -3186,88 +3147,6 @@
       \field{pages}{1389\bibrangedash 1402}
       \range{pages}{14}
     \endentry
-    \entry{ghiselli2019natural}{article}{}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{10}{}{%
-        {{hash=bb7a63149ab0265ad0edaac17ee82107}{%
-           family={Ghiselli},
-           familyi={G\bibinitperiod},
-           given={Fabrizio},
-           giveni={F\bibinitperiod}}}%
-        {{hash=28b4e330e75eaabfaaf5b310fe1fa992}{%
-           family={Maurizii},
-           familyi={M\bibinitperiod},
-           given={Maria\bibnamedelima Gabriella},
-           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=28814ca773eefaebbbd2641d2fa4e5ce}{%
-           family={Reunov},
-           familyi={R\bibinitperiod},
-           given={Arkadiy},
-           giveni={A\bibinitperiod}}}%
-        {{hash=acc5308e3f50b311f123d1ff4ab7a39b}{%
-           family={Ariño-Bassols},
-           familyi={A\bibinithyphendelim B\bibinitperiod},
-           given={Helena},
-           giveni={H\bibinitperiod}}}%
-        {{hash=30c35702c3ab0c60aad15ac5b5cdff54}{%
-           family={Cifaldi},
-           familyi={C\bibinitperiod},
-           given={Carmine},
-           giveni={C\bibinitperiod}}}%
-        {{hash=05b85098b3553dc7f9366c8cf88e9ba5}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={Andrea},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2a8834c56861a4bc1c9d8ffa0ecef014}{%
-           family={Alexandrova},
-           familyi={A\bibinitperiod},
-           given={Yana},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=9add9fc8ac8b693cc657ed164ba1769c}{%
-           family={Bettini},
-           familyi={B\bibinitperiod},
-           given={Simone},
-           giveni={S\bibinitperiod}}}%
-        {{hash=6ee72ed892aed91b88cd486073863086}{%
-           family={Passamonti},
-           familyi={P\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod}}}%
-        {{hash=43a0ef41706d463dfd2408cea0c2dd0c}{%
-           family={Franceschini},
-           familyi={F\bibinitperiod},
-           given={Valeria},
-           giveni={V\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{75388d3235080815617f4ac49ab8c69e}
-      \strng{fullhash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{fullhashraw}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{bibnamehash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{authorbibnamehash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{authornamehash}{75388d3235080815617f4ac49ab8c69e}
-      \strng{authorfullhash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{authorfullhashraw}{16a82d704385ed941d78ada1f05db0e3}
-      \field{extraname}{3}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Integrative and comparative biology}
-      \field{number}{4}
-      \field{title}{Natural heteroplasmy and mitochondrial inheritance in bivalve molluscs}
-      \field{volume}{59}
-      \field{year}{2019}
-      \field{pages}{1016\bibrangedash 1032}
-      \range{pages}{17}
-    \endentry
     \entry{ghiselli2013structure}{article}{}{}
       \name{author}{7}{}{%
         {{hash=bb7a63149ab0265ad0edaac17ee82107}{%
@@ -3317,7 +3196,7 @@
       \strng{authornamehash}{75388d3235080815617f4ac49ab8c69e}
       \strng{authorfullhash}{89fb6c953ee3664e369e5f28ada0f999}
       \strng{authorfullhashraw}{89fb6c953ee3664e369e5f28ada0f999}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -9446,50 +9325,6 @@
       \field{pages}{1591\bibrangedash 1612}
       \range{pages}{22}
     \endentry
-    \entry{richardson2023comparativeSex}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=4d397dabaec7cb14c913b95c280b3f2c}{%
-           family={Richardson},
-           familyi={R\bibinitperiod},
-           given={Victorya},
-           giveni={V\bibinitperiod}}}%
-        {{hash=4e8250d4b5240a4cd03341f1a3f77e5b}{%
-           family={Engel},
-           familyi={E\bibinitperiod},
-           given={Nora},
-           giveni={N\bibinitperiod}}}%
-        {{hash=8b1b10824710b9b4dc96b507345fd4ac}{%
-           family={Kulathinal},
-           familyi={K\bibinitperiod},
-           given={Rob\bibnamedelima J},
-           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{d739a6993f7794396b95d72d97244188}
-      \strng{fullhash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{fullhashraw}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{bibnamehash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{authorbibnamehash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{authornamehash}{d739a6993f7794396b95d72d97244188}
-      \strng{authorfullhash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{authorfullhashraw}{5771c24f20ea051fc3a71d63cd4986a2}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Biology of sex Differences}
-      \field{number}{1}
-      \field{title}{Comparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals}
-      \field{volume}{14}
-      \field{year}{2023}
-      \field{pages}{30}
-      \range{pages}{1}
-    \endentry
     \entry{rogers2021gene}{article}{}{}
       \name{author}{8}{}{%
         {{hash=cf6aca9a04e980a7ad9e177a7e33c2ad}{%
@@ -9660,45 +9495,6 @@
       \field{volume}{169}
       \field{year}{2013}
       \field{pages}{765\bibrangedash 775}
-      \range{pages}{11}
-    \endentry
-    \entry{salz2010sex}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=edde2bce00e87a3ebcf8cced6d3100b9}{%
-           family={Salz},
-           familyi={S\bibinitperiod},
-           given={Helen},
-           giveni={H\bibinitperiod}}}%
-        {{hash=14def4cfd0819960cdc9c59bb7bf08b3}{%
-           family={Erickson},
-           familyi={E\bibinitperiod},
-           given={James\bibnamedelima W},
-           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Taylor \& Francis}%
-      }
-      \strng{namehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{fullhash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{fullhashraw}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{bibnamehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authorbibnamehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authornamehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authorfullhash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authorfullhashraw}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Fly}
-      \field{number}{1}
-      \field{title}{Sex determination in \textit{Drosophila}: The view from the top}
-      \field{volume}{4}
-      \field{year}{2010}
-      \field{pages}{60\bibrangedash 70}
       \range{pages}{11}
     \endentry
     \entry{sanchez2016genome}{article}{}{}
@@ -12884,39 +12680,6 @@
       \field{pages}{e7770}
       \range{pages}{-1}
     \endentry
-    \entry{zouros2013biparental}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=796a168593d1889f064c738a76d66d35}{%
-           family={Zouros},
-           familyi={Z\bibinitperiod},
-           given={Eleftherios},
-           giveni={E\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{796a168593d1889f064c738a76d66d35}
-      \strng{fullhash}{796a168593d1889f064c738a76d66d35}
-      \strng{fullhashraw}{796a168593d1889f064c738a76d66d35}
-      \strng{bibnamehash}{796a168593d1889f064c738a76d66d35}
-      \strng{authorbibnamehash}{796a168593d1889f064c738a76d66d35}
-      \strng{authornamehash}{796a168593d1889f064c738a76d66d35}
-      \strng{authorfullhash}{796a168593d1889f064c738a76d66d35}
-      \strng{authorfullhashraw}{796a168593d1889f064c738a76d66d35}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Evolutionary Biology}
-      \field{title}{Biparental inheritance through uniparental transmission: the doubly uniparental inheritance (DUI) of mitochondrial DNA}
-      \field{volume}{40}
-      \field{year}{2013}
-      \field{pages}{1\bibrangedash 31}
-      \range{pages}{31}
-    \endentry
   \enddatalist
   \datalist[entry]{ynt/apasortcite//global/global/global}
     \entry{foster1992evolution}{article}{}{}
@@ -13266,45 +13029,6 @@
       \field{year}{2002}
       \field{pages}{137\bibrangedash 144}
       \range{pages}{8}
-    \endentry
-    \entry{extavour2003mechanisms}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=d955c304ab83274e231c9c4058b7f884}{%
-           family={Extavour},
-           familyi={E\bibinitperiod},
-           given={Cassandra\bibnamedelima G},
-           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=0eb026b75d3d678e8461a9ac4dbf2eaa}{%
-           family={Akam},
-           familyi={A\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press for The Company of Biologists Limited}%
-      }
-      \strng{namehash}{2647bdd4997df52381a921a50381024d}
-      \strng{fullhash}{2647bdd4997df52381a921a50381024d}
-      \strng{fullhashraw}{2647bdd4997df52381a921a50381024d}
-      \strng{bibnamehash}{2647bdd4997df52381a921a50381024d}
-      \strng{authorbibnamehash}{2647bdd4997df52381a921a50381024d}
-      \strng{authornamehash}{2647bdd4997df52381a921a50381024d}
-      \strng{authorfullhash}{2647bdd4997df52381a921a50381024d}
-      \strng{authorfullhashraw}{2647bdd4997df52381a921a50381024d}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Development}
-      \field{number}{24}
-      \field{title}{Mechanisms of germ cell specification across the metazoans: epigenesis and preformation}
-      \field{volume}{130}
-      \field{year}{2003}
-      \field{pages}{5869\bibrangedash 5884}
-      \range{pages}{16}
     \endentry
     \entry{mazet2003phylogenetic}{article}{}{}
       \name{author}{5}{}{%
@@ -14738,45 +14462,6 @@
       \field{pages}{453\bibrangedash 464}
       \range{pages}{12}
     \endentry
-    \entry{salz2010sex}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=edde2bce00e87a3ebcf8cced6d3100b9}{%
-           family={Salz},
-           familyi={S\bibinitperiod},
-           given={Helen},
-           giveni={H\bibinitperiod}}}%
-        {{hash=14def4cfd0819960cdc9c59bb7bf08b3}{%
-           family={Erickson},
-           familyi={E\bibinitperiod},
-           given={James\bibnamedelima W},
-           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Taylor \& Francis}%
-      }
-      \strng{namehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{fullhash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{fullhashraw}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{bibnamehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authorbibnamehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authornamehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authorfullhash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authorfullhashraw}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Fly}
-      \field{number}{1}
-      \field{title}{Sex determination in \textit{Drosophila}: The view from the top}
-      \field{volume}{4}
-      \field{year}{2010}
-      \field{pages}{60\bibrangedash 70}
-      \range{pages}{11}
-    \endentry
     \entry{shimeld2010clustered}{article}{}{}
       \name{author}{5}{}{%
         {{hash=e2f088beb973a8102cafbe5aca52bf21}{%
@@ -16197,39 +15882,6 @@
       \field{year}{2013}
       \field{pages}{e55950}
       \range{pages}{-1}
-    \endentry
-    \entry{zouros2013biparental}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=796a168593d1889f064c738a76d66d35}{%
-           family={Zouros},
-           familyi={Z\bibinitperiod},
-           given={Eleftherios},
-           giveni={E\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{796a168593d1889f064c738a76d66d35}
-      \strng{fullhash}{796a168593d1889f064c738a76d66d35}
-      \strng{fullhashraw}{796a168593d1889f064c738a76d66d35}
-      \strng{bibnamehash}{796a168593d1889f064c738a76d66d35}
-      \strng{authorbibnamehash}{796a168593d1889f064c738a76d66d35}
-      \strng{authornamehash}{796a168593d1889f064c738a76d66d35}
-      \strng{authorfullhash}{796a168593d1889f064c738a76d66d35}
-      \strng{authorfullhashraw}{796a168593d1889f064c738a76d66d35}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Evolutionary Biology}
-      \field{title}{Biparental inheritance through uniparental transmission: the doubly uniparental inheritance (DUI) of mitochondrial DNA}
-      \field{volume}{40}
-      \field{year}{2013}
-      \field{pages}{1\bibrangedash 31}
-      \range{pages}{31}
     \endentry
     \entry{bachtrog2014sex}{article}{}{}
       \true{moreauthor}
@@ -19535,88 +19187,6 @@
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
     \endentry
-    \entry{ghiselli2019natural}{article}{}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{10}{}{%
-        {{hash=bb7a63149ab0265ad0edaac17ee82107}{%
-           family={Ghiselli},
-           familyi={G\bibinitperiod},
-           given={Fabrizio},
-           giveni={F\bibinitperiod}}}%
-        {{hash=28b4e330e75eaabfaaf5b310fe1fa992}{%
-           family={Maurizii},
-           familyi={M\bibinitperiod},
-           given={Maria\bibnamedelima Gabriella},
-           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=28814ca773eefaebbbd2641d2fa4e5ce}{%
-           family={Reunov},
-           familyi={R\bibinitperiod},
-           given={Arkadiy},
-           giveni={A\bibinitperiod}}}%
-        {{hash=acc5308e3f50b311f123d1ff4ab7a39b}{%
-           family={Ariño-Bassols},
-           familyi={A\bibinithyphendelim B\bibinitperiod},
-           given={Helena},
-           giveni={H\bibinitperiod}}}%
-        {{hash=30c35702c3ab0c60aad15ac5b5cdff54}{%
-           family={Cifaldi},
-           familyi={C\bibinitperiod},
-           given={Carmine},
-           giveni={C\bibinitperiod}}}%
-        {{hash=05b85098b3553dc7f9366c8cf88e9ba5}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={Andrea},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2a8834c56861a4bc1c9d8ffa0ecef014}{%
-           family={Alexandrova},
-           familyi={A\bibinitperiod},
-           given={Yana},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=9add9fc8ac8b693cc657ed164ba1769c}{%
-           family={Bettini},
-           familyi={B\bibinitperiod},
-           given={Simone},
-           giveni={S\bibinitperiod}}}%
-        {{hash=6ee72ed892aed91b88cd486073863086}{%
-           family={Passamonti},
-           familyi={P\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod}}}%
-        {{hash=43a0ef41706d463dfd2408cea0c2dd0c}{%
-           family={Franceschini},
-           familyi={F\bibinitperiod},
-           given={Valeria},
-           giveni={V\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{75388d3235080815617f4ac49ab8c69e}
-      \strng{fullhash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{fullhashraw}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{bibnamehash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{authorbibnamehash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{authornamehash}{75388d3235080815617f4ac49ab8c69e}
-      \strng{authorfullhash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{authorfullhashraw}{16a82d704385ed941d78ada1f05db0e3}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Integrative and comparative biology}
-      \field{number}{4}
-      \field{title}{Natural heteroplasmy and mitochondrial inheritance in bivalve molluscs}
-      \field{volume}{59}
-      \field{year}{2019}
-      \field{pages}{1016\bibrangedash 1032}
-      \range{pages}{17}
-    \endentry
     \entry{lan2019host}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -21371,7 +20941,7 @@
       \strng{authornamehash}{75388d3235080815617f4ac49ab8c69e}
       \strng{authorfullhash}{ac6bb993d243ea351093c766c16f9c79}
       \strng{authorfullhashraw}{ac6bb993d243ea351093c766c16f9c79}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -24782,50 +24352,6 @@
       \field{year}{2023}
       \field{pages}{3605\bibrangedash 3623}
       \range{pages}{19}
-    \endentry
-    \entry{richardson2023comparativeSex}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=4d397dabaec7cb14c913b95c280b3f2c}{%
-           family={Richardson},
-           familyi={R\bibinitperiod},
-           given={Victorya},
-           giveni={V\bibinitperiod}}}%
-        {{hash=4e8250d4b5240a4cd03341f1a3f77e5b}{%
-           family={Engel},
-           familyi={E\bibinitperiod},
-           given={Nora},
-           giveni={N\bibinitperiod}}}%
-        {{hash=8b1b10824710b9b4dc96b507345fd4ac}{%
-           family={Kulathinal},
-           familyi={K\bibinitperiod},
-           given={Rob\bibnamedelima J},
-           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{d739a6993f7794396b95d72d97244188}
-      \strng{fullhash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{fullhashraw}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{bibnamehash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{authorbibnamehash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{authornamehash}{d739a6993f7794396b95d72d97244188}
-      \strng{authorfullhash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{authorfullhashraw}{5771c24f20ea051fc3a71d63cd4986a2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Biology of sex Differences}
-      \field{number}{1}
-      \field{title}{Comparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals}
-      \field{volume}{14}
-      \field{year}{2023}
-      \field{pages}{30}
-      \range{pages}{1}
     \endentry
     \entry{song2023scaphopoda}{article}{}{}
       \true{moreauthor}
@@ -26167,45 +25693,6 @@
       \field{pages}{137\bibrangedash 144}
       \range{pages}{8}
     \endentry
-    \entry{extavour2003mechanisms}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=d955c304ab83274e231c9c4058b7f884}{%
-           family={Extavour},
-           familyi={E\bibinitperiod},
-           given={Cassandra\bibnamedelima G},
-           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=0eb026b75d3d678e8461a9ac4dbf2eaa}{%
-           family={Akam},
-           familyi={A\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press for The Company of Biologists Limited}%
-      }
-      \strng{namehash}{2647bdd4997df52381a921a50381024d}
-      \strng{fullhash}{2647bdd4997df52381a921a50381024d}
-      \strng{fullhashraw}{2647bdd4997df52381a921a50381024d}
-      \strng{bibnamehash}{2647bdd4997df52381a921a50381024d}
-      \strng{authorbibnamehash}{2647bdd4997df52381a921a50381024d}
-      \strng{authornamehash}{2647bdd4997df52381a921a50381024d}
-      \strng{authorfullhash}{2647bdd4997df52381a921a50381024d}
-      \strng{authorfullhashraw}{2647bdd4997df52381a921a50381024d}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Development}
-      \field{number}{24}
-      \field{title}{Mechanisms of germ cell specification across the metazoans: epigenesis and preformation}
-      \field{volume}{130}
-      \field{year}{2003}
-      \field{pages}{5869\bibrangedash 5884}
-      \range{pages}{16}
-    \endentry
     \entry{mazet2003phylogenetic}{article}{}{}
       \name{author}{5}{}{%
         {{hash=bfdad31af50178e08046ea969d2597d8}{%
@@ -27638,45 +27125,6 @@
       \field{pages}{453\bibrangedash 464}
       \range{pages}{12}
     \endentry
-    \entry{salz2010sex}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=edde2bce00e87a3ebcf8cced6d3100b9}{%
-           family={Salz},
-           familyi={S\bibinitperiod},
-           given={Helen},
-           giveni={H\bibinitperiod}}}%
-        {{hash=14def4cfd0819960cdc9c59bb7bf08b3}{%
-           family={Erickson},
-           familyi={E\bibinitperiod},
-           given={James\bibnamedelima W},
-           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Taylor \& Francis}%
-      }
-      \strng{namehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{fullhash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{fullhashraw}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{bibnamehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authorbibnamehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authornamehash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authorfullhash}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \strng{authorfullhashraw}{bcb6d1b8b27d88a30b5d8b279749c15e}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Fly}
-      \field{number}{1}
-      \field{title}{Sex determination in \textit{Drosophila}: The view from the top}
-      \field{volume}{4}
-      \field{year}{2010}
-      \field{pages}{60\bibrangedash 70}
-      \range{pages}{11}
-    \endentry
     \entry{shimeld2010clustered}{article}{}{}
       \name{author}{5}{}{%
         {{hash=e2f088beb973a8102cafbe5aca52bf21}{%
@@ -29097,39 +28545,6 @@
       \field{year}{2013}
       \field{pages}{e55950}
       \range{pages}{-1}
-    \endentry
-    \entry{zouros2013biparental}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=796a168593d1889f064c738a76d66d35}{%
-           family={Zouros},
-           familyi={Z\bibinitperiod},
-           given={Eleftherios},
-           giveni={E\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{796a168593d1889f064c738a76d66d35}
-      \strng{fullhash}{796a168593d1889f064c738a76d66d35}
-      \strng{fullhashraw}{796a168593d1889f064c738a76d66d35}
-      \strng{bibnamehash}{796a168593d1889f064c738a76d66d35}
-      \strng{authorbibnamehash}{796a168593d1889f064c738a76d66d35}
-      \strng{authornamehash}{796a168593d1889f064c738a76d66d35}
-      \strng{authorfullhash}{796a168593d1889f064c738a76d66d35}
-      \strng{authorfullhashraw}{796a168593d1889f064c738a76d66d35}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Evolutionary Biology}
-      \field{title}{Biparental inheritance through uniparental transmission: the doubly uniparental inheritance (DUI) of mitochondrial DNA}
-      \field{volume}{40}
-      \field{year}{2013}
-      \field{pages}{1\bibrangedash 31}
-      \range{pages}{31}
     \endentry
     \entry{bachtrog2014sex}{article}{}{}
       \true{moreauthor}
@@ -32435,88 +31850,6 @@
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
     \endentry
-    \entry{ghiselli2019natural}{article}{}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{10}{}{%
-        {{hash=bb7a63149ab0265ad0edaac17ee82107}{%
-           family={Ghiselli},
-           familyi={G\bibinitperiod},
-           given={Fabrizio},
-           giveni={F\bibinitperiod}}}%
-        {{hash=28b4e330e75eaabfaaf5b310fe1fa992}{%
-           family={Maurizii},
-           familyi={M\bibinitperiod},
-           given={Maria\bibnamedelima Gabriella},
-           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=28814ca773eefaebbbd2641d2fa4e5ce}{%
-           family={Reunov},
-           familyi={R\bibinitperiod},
-           given={Arkadiy},
-           giveni={A\bibinitperiod}}}%
-        {{hash=acc5308e3f50b311f123d1ff4ab7a39b}{%
-           family={Ariño-Bassols},
-           familyi={A\bibinithyphendelim B\bibinitperiod},
-           given={Helena},
-           giveni={H\bibinitperiod}}}%
-        {{hash=30c35702c3ab0c60aad15ac5b5cdff54}{%
-           family={Cifaldi},
-           familyi={C\bibinitperiod},
-           given={Carmine},
-           giveni={C\bibinitperiod}}}%
-        {{hash=05b85098b3553dc7f9366c8cf88e9ba5}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={Andrea},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2a8834c56861a4bc1c9d8ffa0ecef014}{%
-           family={Alexandrova},
-           familyi={A\bibinitperiod},
-           given={Yana},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=9add9fc8ac8b693cc657ed164ba1769c}{%
-           family={Bettini},
-           familyi={B\bibinitperiod},
-           given={Simone},
-           giveni={S\bibinitperiod}}}%
-        {{hash=6ee72ed892aed91b88cd486073863086}{%
-           family={Passamonti},
-           familyi={P\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod}}}%
-        {{hash=43a0ef41706d463dfd2408cea0c2dd0c}{%
-           family={Franceschini},
-           familyi={F\bibinitperiod},
-           given={Valeria},
-           giveni={V\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{75388d3235080815617f4ac49ab8c69e}
-      \strng{fullhash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{fullhashraw}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{bibnamehash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{authorbibnamehash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{authornamehash}{75388d3235080815617f4ac49ab8c69e}
-      \strng{authorfullhash}{16a82d704385ed941d78ada1f05db0e3}
-      \strng{authorfullhashraw}{16a82d704385ed941d78ada1f05db0e3}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Integrative and comparative biology}
-      \field{number}{4}
-      \field{title}{Natural heteroplasmy and mitochondrial inheritance in bivalve molluscs}
-      \field{volume}{59}
-      \field{year}{2019}
-      \field{pages}{1016\bibrangedash 1032}
-      \range{pages}{17}
-    \endentry
     \entry{lan2019host}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -34271,7 +33604,7 @@
       \strng{authornamehash}{75388d3235080815617f4ac49ab8c69e}
       \strng{authorfullhash}{ac6bb993d243ea351093c766c16f9c79}
       \strng{authorfullhashraw}{ac6bb993d243ea351093c766c16f9c79}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -37682,50 +37015,6 @@
       \field{year}{2023}
       \field{pages}{3605\bibrangedash 3623}
       \range{pages}{19}
-    \endentry
-    \entry{richardson2023comparativeSex}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=4d397dabaec7cb14c913b95c280b3f2c}{%
-           family={Richardson},
-           familyi={R\bibinitperiod},
-           given={Victorya},
-           giveni={V\bibinitperiod}}}%
-        {{hash=4e8250d4b5240a4cd03341f1a3f77e5b}{%
-           family={Engel},
-           familyi={E\bibinitperiod},
-           given={Nora},
-           giveni={N\bibinitperiod}}}%
-        {{hash=8b1b10824710b9b4dc96b507345fd4ac}{%
-           family={Kulathinal},
-           familyi={K\bibinitperiod},
-           given={Rob\bibnamedelima J},
-           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{d739a6993f7794396b95d72d97244188}
-      \strng{fullhash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{fullhashraw}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{bibnamehash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{authorbibnamehash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{authornamehash}{d739a6993f7794396b95d72d97244188}
-      \strng{authorfullhash}{5771c24f20ea051fc3a71d63cd4986a2}
-      \strng{authorfullhashraw}{5771c24f20ea051fc3a71d63cd4986a2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Biology of sex Differences}
-      \field{number}{1}
-      \field{title}{Comparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals}
-      \field{volume}{14}
-      \field{year}{2023}
-      \field{pages}{30}
-      \range{pages}{1}
     \endentry
     \entry{song2023scaphopoda}{article}{}{}
       \true{moreauthor}
