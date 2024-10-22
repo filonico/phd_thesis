@@ -61,7 +61,7 @@
 % packages to manage captions and cross-referencing
 \usepackage[labelfont=bf, font={small,sf,singlespacing}, labelsep=endash]{caption}
 \usepackage{subcaption}
-\DeclareCaptionFormat{hruleformat}{#1#2#3\hrulefill}                                                            % add hrule after caption
+%\DeclareCaptionFormat{hruleformat}{#1#2#3\hrulefill}                                                            % add hrule after caption
 \DeclareCaptionLabelFormat{nocaption}{}                                                                         % new empty caption label format (useful to include and reference subfigures)
 \renewcommand{\thesubfigure}{\Alph{subfigure}}                                                                  % capitalize counters for subfigures
 \usepackage[capitalise]{cleveref}                                                                               % capitalize the first letter of \cref abbreviation
@@ -110,14 +110,14 @@
 \fancyhead[RO]{\textsl{\nouppercase{\leftmark}}} % set header
 
 \pagenumbering{roman}
-\renewcommand{\contentsname}{Table of contents}
-\tableofcontents{}
+\renewcommand{\contentsname}{\vspace{-3.5cm}Table of contents}
+\tableofcontents{\markboth{Table of contents}{Table of contents}}
 \addcontentsline{toc}{chapter}{Table of contents} % include the TOC in TOC
 \clearpage
 
 \pagenumbering{arabic}
 
-\printunsrtglossary*[title={List of abbreviations}, toctitle={List of abbreviations}, style={super}]
+\printunsrtglossary*[title={\vspace{-3.5cm}List of abbreviations}, toctitle={List of abbreviations}, style={super}]
 {
 	\small
 	\renewcommand{\printunsrtglossaryentryprocesshook}[1]{%
@@ -135,7 +135,7 @@
 % \addcontentsline{toc}{chapter}{List of tables}
 
 \begingroup
-\captionsetup[figure]{format=hruleformat}
+%\captionsetup[figure]{format=hruleformat}
 \include{sections/chapter1_introduction}
 \include{sections/chapter2_perspective}
 \include{sections/chapter3_molecularEvolution}
@@ -152,5 +152,8 @@
 \include{sections/appendix}
 \include{sections/supp_materials}
 \include{sections/data_availability}
+
+% activity report
+\include{sections/activity_report}
 
 \end{document}
