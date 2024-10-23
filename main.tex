@@ -47,18 +47,34 @@
 % packages for chemical formulae and special symbols
 \usepackage{mhchem}
 \usepackage{textcomp}
+\newcommand{\NA}{--}
 \usepackage{siunitx}
-\sisetup{output-exponent-marker=\ensuremath{\mathrm{e}}} %correctly prints scientific notation
+\sisetup{
+  range-phrase= --, range-units = single,         % set range format
+  per-mode = symbol,                              % set "/" as format for fraction units
+  uncertainty-mode = separate,                    % seprate uncertainty (+-) from number
+  separate-uncertainty-units = single,            % put units only after uncertainty
+  group-separator = {,},                          % seprator between digits
+  list-units = single
+  }
+\DeclareSIUnit{\molar}{M}                         % define unit for molar cocnentration (M)
+\DeclareSIUnit{\zygotes}{zygotes}                 % define unit for number of zygotes
+\DeclareSIUnit{\cells}{cells}                     % define unit for number of cells
+\DeclareSIUnit{\hpf}{\pac{hpf}}                   % define unit for hours post fertilization
+\DeclareSIUnit{\dpf}{\pac{dpf}}                   % define unit for days post fertilization
 
 % packages and commands for acronyms (and species abbreviations)
 \usepackage[acronym, nonumberlist, toc, nomain, nopostdot, shortcuts]{glossaries-extra}
 \setabbreviationstyle[species]{long-only-short-only}
+\glssetcategoryattribute{species}{nohyper}{true} % disable hyperlinks for species
 \setabbreviationstyle[gene]{long-em-short-em}
 \loadglsentries{sections/abbreviations}	
 \renewcommand{\glsnamefont}[1]{\textbf{#1}} % make entries in glossary bold
-\newcommand*{\pac}[2][]{\ifglsused{#2}{\acs[#1]{#2}}{%
- \glsunset{#2}%
- \acl[#1]{#2} [\acs[#1]{#2}]}}
+% define command to print brackets when first usage is within parenthesis
+\newcommand*{\pac}[2][]{\ifglsused{#2}{\acs[#1]{#2}}{
+  \glsunset{#2}
+  \acl[#1]{#2} [\acs[#1]{#2}]
+  }}
 \preto\chapter\glsresetall % reset glossary for every chapter
 
 % packages to manage captions and cross-referencing
@@ -69,7 +85,9 @@
 \renewcommand{\thesubfigure}{\Alph{subfigure}}                                                                  % capitalize counters for subfigures
 \usepackage[capitalise]{cleveref}                                                                               % capitalize the first letter of \cref abbreviation
 \crefdefaultlabelformat{\textbf{#2#1#3}}                                                                        % cref default format (for single reference)
+\crefname{chapter}{\textbf{Chapter}}{\textbf{Chapters}}                                                         % cref format for chapter {type}{single}{plurale}
 \crefname{section}{\textbf{Section}}{\textbf{Sections}}                                                         % cref format for section {type}{single}{plurale}
+\crefname{subsection}{\textbf{Section}}{\textbf{Sections}}                                                         % cref format for section {type}{single}{plurale}
 \crefname{figure}{\textbf{Fig.}}{\textbf{Fig.}}                                                                 % cref format for figures
 \crefname{table}{\textbf{Tab.}}{\textbf{Tab.}}                                                                  % cref format for tables
 \crefrangeformat{figure}{\textbf{Fig.~#3#1#4--#5#2#6}}                                                          % cref format for ranged figures
@@ -142,7 +160,6 @@
 % \addcontentsline{toc}{chapter}{List of figures}
 % \listoftables
 % \addcontentsline{toc}{chapter}{List of tables}
-
 
 \begingroup
 \captionsetup[figure]{format=hruleformat}

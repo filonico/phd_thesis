@@ -1,11 +1,10 @@
 % list of true acronyms
 \newabbreviation{aasd}{AASD}{amino acid sequence divergence}
-\newabbreviation{bsa}{BSA}{bovine serum albumin}
 \newabbreviation{cms}{CMS}{cytoplasmatic male sterility}
 \newabbreviation[description={coupling of ubiquitin conjugation to endoplasmic reticulum degradation [domain]}]{cue}{CUE}{coupling of ubiquitin conjugation to endoplasmic reticulum degradation}
 \newabbreviation{dead/deah-box}{DEAD/DEAH-box}{Asp-Glu-Ala-Asp/Asp-Glu-Ala-His box}
 \newabbreviation{dge}{DGE}{differential gene expression}
-\newabbreviation{dpf}{dpf}{days post fertilization}
+\newabbreviation{dpf}{dpf}{days\ post\ fertilization\ }
 \newabbreviation[description={\textit{dsx} and \textit{mab-3} [domain]}]{dm}{DM}{\textit{dsx} and \textit{mab-3}}
 \newabbreviation[description={DM-associated [domain]}]{dma}{DMA}{DM-associated}
 \newabbreviation{dmrt}{Dmrt}{{\gls{dsx}} and \textit{mab-3} related transcription factor}
@@ -15,7 +14,6 @@
 \newabbreviation{dsfg}{DSFG}{Dmrt, Sox, and Fox gene}
 \newabbreviation[category={gene}]{dsx}{dsx}{doublesex}
 \newabbreviation{dui}{DUI}{doubly uniparental inheritance}
-\newabbreviation{edta}{EDTA}{ethylenediaminetetraacetic acid}
 \newabbreviation{esd}{ESD}{environmental sex determination}
 \newabbreviation{fasw}{FASW}{filtered artificial sea water}
 \newabbreviation[description={forkhead-associated [domain]}]{fha}{FHA}{forkhead-associated}
@@ -29,15 +27,22 @@
 \newabbreviation[description={high mobility group [box domain]}]{hmg}{HMG}{high mobility group}
 \newabbreviation{hmm}{HMM}{hidden Markov model}
 \newabbreviation{hosc}{HoSC}{homomorphic sex chromosome}
-\newabbreviation{hpf}{hpf}{hours post fertilization}
+\newabbreviation{hpf}{hpf}{hours\ post\ fertilization\ }
 \newabbreviation[category={gene}]{mab-3}{mab-3}{male abnormal-3}
 \newabbreviation{mcl}{MCL}{Markov clustering algorithm}
 \newabbreviation{ml}{ML}{maximum likelihood}
 \newabbreviation{ish}{mRNA-ISH}{mRNA \textit{in-situ} hybridization}
 \newabbreviation{mya}{Mya}{million years ago}
 \newabbreviation{orf}{ORF}{open reading frame}
-\newabbreviation{pbs}{PBS}{1× phosphate-buffered saline}
+\glsnoexpandfields % prevent commands inside gls definition to be expanded
+\newglossaryentry{pbs}{
+    name={PBS},
+    first={1× PBS with 0.1\% Tween 20 (PBS-Tw; \qty{128}{\milli\molar} \ce{NaCl}, \qty{2}{\milli\molar} \ce{KCl}, \qty{8}{\milli\molar} \ce{Na2HPO4*2H2O}, \qty{2}{\milli\molar} \ce{KH2PO4})},
+    description={1× PBS with 0.1\% Tween 20},
+    category={abbreviation}
+}
 \newabbreviation{pbstw}{PBS-Tw}{1× PBS with 0.1\% Tween 20}
+\newabbreviation{pca}{PCA}{principal component analyses}
 \newabbreviation{pfa}{PFA}{paraformaldehyde}
 \newabbreviation{pgc}{PGC}{primordial germ cell}
 \newabbreviation{qrt-pcr}{qRT-PCR}{quantitative real-time polymerase chain reaction}
@@ -48,13 +53,22 @@
 \newabbreviation{sd}{SD}{sex determination}
 \newabbreviation{sdf}{SDf}{sex differentiation}
 \newabbreviation{sdg}{SDG}{sex-determining gene}
-\newabbreviation{sds}{SDS}{sodium dodecyl sulfate}
 \newabbreviation{sox}{Sox}{\textit{Sry}-related HMG-box}
 \newabbreviation{srg}{SRG}{sex-determination related gene}
 \newabbreviation[category={gene}]{sry}{Sry}{Sex-determining region of chromosome Y}
-\newabbreviation{ssct}{SSC-Tw}{5× saline-sodium citrate with Tween 20 buffer}
+\newglossaryentry{ssct}{
+    name={SSC-Tw},
+    first={5× saline-sodium citrate with 0.1\% Tween 20 (SSC-Tw; 5× SSC, 0.1\% Tween 20)},
+    description={5× saline-sodium citrate with 0.1\% Tween 20},
+    category={abbreviation}
+}
 \newabbreviation[category={gene}]{sxl}{Sxl}{Sex-lethal}
-\newabbreviation{tbs}{TBS}{1× Tris-buffered saline}
+\newglossaryentry{tbs}{
+    name={TBS},
+    first={1× Tris-buffered saline (TBS; \qty{10}{\milli\molar} \ce{Tris-HCl}, \qty{155}{\milli\molar} \ce{NaCl})},
+    description={1× Tris-buffered saline},
+    category={abbreviation}
+}
 \newabbreviation{tbstx}{TBS-Tx}{1× TBS with Triton X-100}
 \newabbreviation[category={gene}]{tra}{tra}{transformer}
 
