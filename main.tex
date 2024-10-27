@@ -7,6 +7,7 @@
 \usepackage{setspace}
 \usepackage[indent=20pt]{parskip}                   % indent first line
 \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 
 % packages to print complete titles on table of contents
 \usepackage{titletoc}
@@ -31,6 +32,7 @@
 \usepackage{lscape}
 \usepackage{afterpage}
 \usepackage{longtable}
+\usepackage{array}
 \usepackage{multirow}
 
 % packages to manage images
@@ -53,25 +55,35 @@
 \usepackage{lipsum}
 
 % packages for chemical formulae and special symbols
-\usepackage{mhchem}
+\usepackage[version=4]{mhchem}
 \usepackage{textcomp}
-\newcommand{\NA}{--}
 \usepackage{siunitx}
 \sisetup{
-  detect-all = true,                              % detect and follow surrounding font changes
-  range-phrase= --, range-units = single,         % set range format
-  per-mode = symbol,                              % set "/" as format for fraction units
-  uncertainty-mode = separate,                    % seprate uncertainty (+-) from number
-  separate-uncertainty-units = single,            % put units only after uncertainty
-  group-separator = {,},                          % seprator between digits
-  bracket-unit-denominator = false,               % do not put brackets in denominator
-  list-units = single                             % in list mode, put units only at the end
+  detect-all = true,                                    % detect and follow surrounding font changes
+  range-phrase= --, range-units = single,               % set range format
+  per-mode = symbol,                                    % set "/" as format for fraction units
+  uncertainty-mode = separate,                          % seprate uncertainty (+-) from number
+  separate-uncertainty-units = single,                  % put units only after uncertainty
+  group-digits = integer,                               % apply digit grouping just for the integer part 
+  group-separator = {,},                                % separator between digits
+  group-minimum-digits = 4,                             % set the minimun number of digits to apply goruping to 4
+  bracket-unit-denominator = false,                     % do not put brackets in denominator
+  list-units = single,                                  % in list mode, put units only at the end
+  exponent-mode = threshold                             % automatically typeset with scientific notation (default threshold of -3:3)
+  %round-mode = places,
+  %round-precision = 3
   }
+\DeclareSIUnit{\nothing}{\relax}                  % define unit to typset just prefixes
 \DeclareSIUnit{\molar}{M}                         % define unit for molar cocnentration (M)
 \DeclareSIUnit{\zygotes}{zygotes}                 % define unit for number of zygotes
 \DeclareSIUnit{\cells}{cells}                     % define unit for number of cells
 \DeclareSIUnit{\hpf}{\pac{hpf}}                   % define unit for hours post fertilization
 \DeclareSIUnit{\dpf}{\pac{dpf}}                   % define unit for days post fertilization
+
+\newcommand{\NA}{--}
+\newcommand{\fivepercent}{\qty{5}{\percent}}
+\newcommand{\onepercent}{\qty{1}{\percent}}
+\newcommand{\zeroonepercent}{\qty{0.1}{\percent}}
 
 % packages and commands for acronyms (and species abbreviations)
 \usepackage[acronym, nonumberlist, toc, nomain, nopostdot, shortcuts]{glossaries-extra}
@@ -129,14 +141,13 @@
 
 %-------------------------------------------------------------------------
 
-%\includeonly{sections/frontpage,sections/supp_materials}
+%\includeonly{sections/supp_materials}
 
 \begin{document}
 
 \include{sections/frontpage.tex}
 
-\newgeometry{a4paper,
-  % total={17cm,24cm},
+\newgeometry{% total={17cm,24cm},
   left=2cm, right=2cm, top=2.5cm, bottom=2.5cm,
   headsep=\dimexpr2.5cm-50pt\relax,
   headheight=50pt}

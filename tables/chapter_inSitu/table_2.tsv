@@ -1,0 +1,19 @@
+Stage	Experiment	Females	Males	Undetermined	Total
+Oocytes	DAPI + MitoTracker + HCR	N/A	N/A	N/A	11
+2-cell embryos	DAPI + MitoTracker + HCR	8	9	1	18
+4-cell embryos	DAPI + MitoTracker + HCR	9	3	0	12
+8-cell embryos	DAPI + MitoTracker + HCR	11	3	0	14
+12-hpf embryos	DAPI + MitoTracker + HCR	7	6	0	13
+Total embryos	DAPI + MitoTracker + HCR	35	21	1	57
+24-hpf larvae	DAPI + MitoTracker + HCR	0	1	11	12
+48-hpf larvae	DAPI + MitoTracker + HCR	0	0	11	11
+72-hpf larvae	DAPI + MitoTracker + HCR	1	1	8	10
+Total larvae	DAPI + MitoTracker + HCR	1	2	30	33
+Oocytes	Negative control	N/A	N/A	N/A	5
+2-cell embryos	Negative control	7	2	0	9
+4-cell embryos	Negative control	7	2	0	9
+8-cell embryos	Negative control	5	1	0	6
+12-hpf embryos	Negative control	0	0	3	3
+Total embryos	Negative control	19	5	3	27
+Total larvae	Negative control	0	0	4	4
+Total imaged samples	All	55	28	38	137

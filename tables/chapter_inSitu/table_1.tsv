@@ -1,0 +1,7 @@
+Target	Dye	HCR amplifier	HCR probe pairs	Excitation (nm)	Emission (nm)
+dsDNA (nuclei)	DAPI	N/A	N/A	360	460
+Sperm mitochondria	MitoTracker Red CMXRos	N/A	N/A	575	600
+Vasa/Vasa	ALEXA-488/ALEXA-488	B1/NA	33/NA	499/499	520/520
+Dmrt-1L	ALEXA-647	B2	18	653	670
+Sox-H	ALEXA-546	B3	22	557	575
+Fox-L2	ALEXA-700	B4	28	685	700
