@@ -49,7 +49,7 @@
 \usepackage[style=apa, sorting=ynt, uniquename=false]{biblatex}
 \newcommand{\citebold}[1]{\textbf{\cite{#1}}} % declare new command to make citations bold
 \newcommand{\citeboldyearparent}[1]{\textbf{\citeauthor*{#1} (\citeyear{#1})}} % declare new command to make citations Author, et al . (year)
-\addbibresource{tot.bib}
+\addbibresource{sections/tot.bib}
 
 % package to manage random text
 \usepackage{lipsum}
@@ -202,7 +202,8 @@
 
 % appendix and supp matherials
 \include{sections/appendix}
-\include{sections/supp_materials}
+\include{sections/supp_figures}
+\include{sections/supp_tables}
 \include{sections/data_availability}
 
 % activity report

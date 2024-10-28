@@ -1,0 +1,10 @@
+*/*aux
+*aux
+*.b*
+*.f*
+*log
+*/*logs
+*xml
+*gz
+*toc
+
