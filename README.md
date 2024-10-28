@@ -14,7 +14,9 @@
 >
 > **Settore Scientifico Disciplinare**: BIO/05 – ZOOLOGIA
 
-![sex determination concept bivalves](figures/logo_sexdet.png)
+<p align="center">
+<img src="figures/logo_sexdet.png" width="90%" alt="sex determination concept bivalves">
+</p>
 
 In this repository you can find my final PhD thesis, together with the $\LaTeX$ code used to generate it, high-resolution figures and a parsable version of tables.
 
