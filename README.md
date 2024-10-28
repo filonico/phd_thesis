@@ -15,7 +15,7 @@
 <img src="figures/logo_sexdet.png" width="90%" alt="sex determination concept bivalves">
 </p>
 
-In this repository you can find my final PhD thesis, together with the $\textnormal \LaTeX$ code used to generate it, high-resolution figures and a parsable version of tables.
+In this repository you can find my final PhD thesis, together with the $\text{\LaTeX}$ code used to generate it, high-resolution figures and a parsable version of tables.
 
 I wish to thank ***all*** the past and present members of the **[EVO·COM](https://sites.google.com/view/evo-com-unibo/home)** group at the University of Bologna. This thesis wouldn't be what it is without the contribution of each of you!
 
