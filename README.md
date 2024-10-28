@@ -2,23 +2,20 @@
 
 > **Title**: A comparative and evolutionary approach to study bivalve sex determination from a broad-phylogenetic perspective.
 >
-> **PhD program**: Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources ([FishMed-PhD](https://site.unibo.it/laboratorio-biologia-marina-pesca-fano/en/international-phd-programme))
->
-> **Cycle**: XXXVII
->
+> **PhD program**: Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources ([FishMed-PhD](https://site.unibo.it/laboratorio-biologia-marina-pesca-fano/en/international-phd-programme))\
+> **Cycle**: XXXVII\
 > **Final exam**: March 2025
 >
 > **Supervisor**: prof. Andrea Luchetti
 >
-> **Settore Consorsuale**: 05/B1 – ZOOLOGIA E ANTROPOLOGIA
->
+> **Settore Consorsuale**: 05/B1 – ZOOLOGIA E ANTROPOLOGIA\
 > **Settore Scientifico Disciplinare**: BIO/05 – ZOOLOGIA
 
 <p align="center">
 <img src="figures/logo_sexdet.png" width="90%" alt="sex determination concept bivalves">
 </p>
 
-In this repository you can find my final PhD thesis, together with the $\LaTeX$ code used to generate it, high-resolution figures and a parsable version of tables.
+In this repository you can find my final PhD thesis, together with the $\textnormal \LaTeX$ code used to generate it, high-resolution figures and a parsable version of tables.
 
 I wish to thank ***all*** the past and present members of the **[EVO·COM](https://sites.google.com/view/evo-com-unibo/home)** group at the University of Bologna. This thesis wouldn't be what it is without the contribution of each of you!
 
