@@ -12,18 +12,18 @@
 > **Settore Scientifico Disciplinare**: BIO/05 – ZOOLOGIA
 
 <p align="center">
-<img src="figures/logo_sexdet.png" width="90%" alt="sex determination concept bivalves">
+<img src="figures/logo_sexdet.png" width="70%" alt="sex determination concept bivalves">
 </p>
 
-In this repository you can find my final PhD thesis, together with the <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="45" style="vertical-align:super;"> code used to generate it, high-resolution figures and a parsable version of tables.
+In this repository you can find my final PhD thesis, together with the LaTeX code used to generate it, high-resolution figures and a parsable version of tables.
 
 I wish to thank ***all*** the past and present members of the **[EVO·COM](https://sites.google.com/view/evo-com-unibo/home)** group at the University of Bologna. This thesis wouldn't be what it is without the contribution of each of you!
 
 ## What you will find here
 * <code>[main.pdf](main.pdf)</code> is the final thesis pdf file;
-* <code>[main.tex](main.tex)</code> is the main $\LaTeX$ thesis document;
+* <code>[main.tex](main.tex)</code> is the main LaTeX thesis document;
 * <code>[figures/](figures)</code> is the folder containing high-resolution figures, including [supplementary figures](figures/supp_figures);
-* <code>[sections/](sections)</code> is the folder containing the $\LaTeX$ documents for each thesis section (frontpage, chapters, etc.);
+* <code>[sections/](sections)</code> is the folder containing the LaTeX documents for each thesis section (frontpage, chapters, etc.);
 * <code>[tables/](tables)</code> is the folder contianing the parsable versions of tables, including [supplementary tables](tables/supp_tables).
 
 ## Published chapters
