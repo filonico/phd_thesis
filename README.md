@@ -48,8 +48,6 @@ I wish to thank ***all*** the past and present members of the **[EVO·COM](https
 > *Manuscript in preparation*.
 </details>
 
-<br/>
-
 <details>
 <summary><b>Chapter 5</b> – Localisation of three sex-related genes and the germline marker <i>Vasa</i>/Vasa in the early developmental stages of <i>Mytilus galloprovincialis.</i></summary>
 
