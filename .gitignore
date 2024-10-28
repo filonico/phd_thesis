@@ -1,6 +1,6 @@
 */*aux
 *aux
-*.b*
+*bbl
 *.f*
 *log
 */*logs
