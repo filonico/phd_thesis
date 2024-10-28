@@ -40,8 +40,6 @@ I wish to thank ***all*** the past and present members of the **[EVO·COM](https
 > **GitHub**: [filonico/bivalve_sex_perspective](https://github.com/filonico/bivalve_sex_perspective)
 </details>
 
-<br/>
-
 <details>
 <summary><b>Chapter 4</b> – Identification of putative sex-determination related genes in bivalves through comparative molecular evolutionary analyses.</summary>
 
