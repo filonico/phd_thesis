@@ -10,6 +10,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{tgbonum}
 \usepackage{helvet}
+\usepackage{soul}
 
 % FORMAT TABLES OF CONTENTS
 \usepackage{titletoc}
@@ -29,6 +30,14 @@
 \renewcommand*\@chapter[2][]{\std@chapter[#2]{#2}\chaptermark{#1}}
 \makeatother
 
+% ENUMERATE INLINE
+\usepackage[inline]{enumitem}
+
+% set style for item counters
+\newlist{inlinelist}{enumerate*}{1}
+\setlist[inlinelist]{label=(\roman*)}
+
+
 % TABLES
 \usepackage{booktabs}
 \usepackage{lscape}
@@ -47,8 +56,11 @@
 \usepackage{nameref}
 \usepackage[hidelinks]{hyperref}
 \usepackage[style=apa, sorting=ynt, uniquename=false]{biblatex}
-\newcommand{\citebold}[1]{\textbf{\cite{#1}}} % declare new command to make citations bold
-\newcommand{\citeboldyearparent}[1]{\textbf{\citeauthor*{#1} (\citeyear{#1})}} % declare new command to make citations Author, et al . (year)
+\setul{1pt}{.4pt}                                                               % set distance between words and underlines
+\newcommand{\ulhref}[2]{\href{#1}{\ul{#2}}}                                     % declare command to make hyperlinks underlined
+\newcommand{\citebold}[1]{\textbf{\cite{#1}}}                                   % declare new command to make citations bold
+\newcommand{\citeboldyearparent}[1]{\textbf{\citeauthor*{#1} (\citeyear{#1})}}  % declare new command to make citations Author, et al . (year)
+\renewcommand\multicitedelim{\normalfont{\addsemicolon\space}}                  % set multi-citation delimiter not-bold
 \addbibresource{sections/tot.bib}
 
 % CHEMICAL FORMULAE AND SPECIAL SYMBOLS
@@ -66,7 +78,8 @@
   group-minimum-digits = 4,                             % set the minimun number of digits to apply goruping to 4
   bracket-unit-denominator = false,                     % do not put brackets in denominator
   list-units = single,                                  % in list mode, put units only at the end
-  exponent-mode = threshold                             % automatically typeset with scientific notation (default threshold of -3:3)
+  exponent-mode = threshold,                            % automatically typeset with scientific notation (default threshold of -3:3)
+  print-unity-mantissa = false                          % do not print mantissa if it is 1
   %round-mode = places,
   %round-precision = 3
   }
@@ -76,6 +89,7 @@
 \DeclareSIUnit{\cells}{cells}                     % define unit for number of cells
 \DeclareSIUnit{\hpf}{\pac{hpf}}                   % define unit for hours post fertilization
 \DeclareSIUnit{\dpf}{\pac{dpf}}                   % define unit for days post fertilization
+\DeclareSIUnit{\mya}{\pac{mya}}                   % define unit for million years ago
 
 \newcommand{\NA}{--}
 \newcommand{\doublecurlyquotes}[1]{“#1”}
@@ -86,7 +100,25 @@
 \newcommand{\onepercent}{\qty{1}{\percent}}
 \newcommand{\zeroonepercent}{\qty{0.1}{\percent}}
 
-% GLSOSARIES, ACRONYMS, AND ABBREVIATIONS
+\newcommand{\noexponentnum}[1]{\num[exponent-mode = fixed, fixed-exponent = 0]{#1}}
+
+% DATES
+\usepackage[datesep=/, calc, en-GB]{datetime2}
+\usepackage{fmtcount}
+
+% define date style DD/MM/YYYY without day of the week
+%\newcommand*{\datewithoutweekday}[3]{\DTMDisplaydate{#3}{#2}{#1}}
+
+% define the style for CV, that is: Jan 1st, 2024
+\DTMnewdatestyle{cvdateformat}{%
+  \renewcommand{\DTMdisplaydate}[4]{%
+  \DTMshortmonthname{##2} \protect\ordinalnum{##3}, \number##1 }%
+  \renewcommand{\DTMDisplaydate}{\DTMdisplaydate}%
+}
+
+\newcommand*{\cvdateformatwithoutday}[2]{\DTMshortmonthname{#2}, #1}
+
+% GLOSSARIES, ACRONYMS, AND ABBREVIATIONS
 \usepackage[acronym, nonumberlist, toc, nomain, nopostdot, shortcuts]{glossaries-extra}
 \setabbreviationstyle[species]{long-only-short-only}
 \glssetcategoryattribute{species}{nohyper}{true} % disable hyperlinks for species
@@ -94,10 +126,10 @@
 \loadglsentries{sections/abbreviations}	
 \renewcommand{\glsnamefont}[1]{\textbf{#1}} % make entries in glossary bold
 % define command to print brackets when first usage is within parenthesis
-\newcommand*{\pac}[2][]{\ifglsused{#2}{\acs[#1]{#2}}{
-  \glsunset{#2}
-  \acl[#1]{#2} [\acs[#1]{#2}]
-  }}
+\newcommand*{\pac}[2][]{\ifglsused{#2}{\acs[#1]{#2}}{%
+ \glsunset{#2}%
+ \acl[#1]{#2} [\acs[#1]{#2}]}}
+
 \preto\chapter\glsresetall % reset glossary for every chapter
 
 % CAPTIONS AND CROSS-REFERENCES
@@ -142,10 +174,11 @@
 
 %-------------------------------------------------------------------------
 
-%\includeonly{sections/supp_materials}
+%\includeonly{sections/chapter_molecularEvolution}
 
 \begin{document}
 
+\DTMsetdatestyle{ddmmyyyy}
 \include{sections/frontpage.tex}
 
 \newgeometry{% total={17cm,24cm},
@@ -161,9 +194,9 @@
 \fancyhead[RO]{\textsl{\nouppercase{\leftmark}}} % set header
 
 \pagenumbering{roman}
+\addcontentsline{toc}{chapter}{Table of contents} % include the TOC in TOC
 \renewcommand{\contentsname}{Table of contents}
 \tableofcontents{\markboth{Table of contents}{Table of contents}}
-\addcontentsline{toc}{chapter}{Table of contents} % include the TOC in TOC
 \clearpage
 
 \pagenumbering{arabic}
@@ -172,13 +205,12 @@
 {
 	\small
 	\renewcommand{\printunsrtglossaryentryprocesshook}[1]{%
-		\glsxtriflabelinlist
+		\glsxtriflabelinlist%
 		{\glscategory{#1}} % category label for this entry
 		{species} % exclusion list
 		{\printunsrtglossaryskipentry} % skip (exclude)
 		{} % don't skip (include)
-	}
-}
+	}}
 
 % \listoffigures
 % \addcontentsline{toc}{chapter}{List of figures}
@@ -211,6 +243,7 @@
 \newpage\null\thispagestyle{empty}\newpage
 
 % activity report
+\DTMsetdatestyle{cvdateformat}
 \include{sections/activity_report}
 
 \end{document}
