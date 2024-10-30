@@ -1,8 +1,8 @@
 @article{abascal2010translatorx,
-  title     = {{T}ranslator{X}: multiple alignment of nucleotide sequences guided by amino acid translations},
+  title     = {TranslatorX: multiple alignment of nucleotide sequences guided by amino acid translations},
   author    = {Abascal, Federico and Zardoya, Rafael and Telford, Maximilian J},
   year      = 2010,
-  journal   = {Nucleic Acids Research},
+  journal   = {Nucleic acids research},
   publisher = {Oxford University Press},
   volume    = 38,
   number    = {suppl\_2},
@@ -10,7 +10,7 @@
 }
 
 @article{abbott2011intra,
-  title     = {{I}ntra-locus sexual conflict and sexually antagonistic genetic variation in hermaphroditic animals},
+  title     = {Intra-locus sexual conflict and sexually antagonistic genetic variation in hermaphroditic animals},
   author    = {Abbott, Jessica K},
   year      = 2011,
   journal   = {Proceedings of the Royal Society B: Biological Sciences},
@@ -21,10 +21,10 @@
 }
 
 @article{minamikawa1999chloromethyl,
-  title     = {{C}hloromethyl-{X}-rosamine ({M}ito{T}racker {R}ed) photosensitises mitochondria and induces apoptosis in intact human cells},
+  title     = {Chloromethyl-X-rosamine (MitoTracker Red) photosensitises mitochondria and induces apoptosis in intact human cells},
   author    = {Minamikawa, Tetsuhiro and Sriratana, Absorn and Williams, David A and Bowser, David N and Hill, John S and Nagley, Phillip},
   year      = 1999,
-  journal   = {Journal of Cell Science},
+  journal   = {Journal of cell science},
   publisher = {The Company of Biologists Ltd},
   volume    = 112,
   number    = 14,
@@ -32,7 +32,7 @@
 }
 
 @article{alexa2009gene,
-  title   = {{G}ene set enrichment analysis with top{G}{O}},
+  title   = {Gene set enrichment analysis with topGO},
   author  = {Alexa, Adrian and Rahnenf{\"u}hrer, J{\"o}rg},
   year    = 2009,
   journal = {Bioconductor Improv},
@@ -41,7 +41,7 @@
 }
 
 @article{altenhoff2024oma,
-  title     = {{O}{M}{A} orthology in 2024: improved prokaryote coverage, ancestral and extant {G}{O} enrichment, a revamped synteny viewer and more in the {O}{M}{A} {E}cosystem},
+  title     = {OMA orthology in 2024: improved prokaryote coverage, ancestral and extant GO enrichment, a revamped synteny viewer and more in the OMA Ecosystem},
   author    = {Altenhoff, Adrian M and Warwick Vesztrocy, Alex and Bernard, Charles and Train, Clement-Marie and Nicheperovich, Alina and Prieto Ba{\~n}os, Silvia and Julca, Irene and Moi, David and Nevers, Yannis and Majidian, Sina and others},
   year      = 2024,
   journal   = {Nucleic Acids Research},
@@ -52,17 +52,17 @@
 }
 
 @misc{andrews2010fastqc,
-  title     = {{F}ast{Q}{C}: a quality control tool for high throughput sequence data},
+  title     = {FastQC: a quality control tool for high throughput sequence data},
   author    = {Andrews, Simon and others},
   year      = 2010,
   publisher = {Babraham Bioinformatics, Babraham Institute, Cambridge, United Kingdom}
 }
 
 @article{korpelainen1990sex,
-  title     = {{S}ex ratios and conditions required for environmental sex determination in animals},
+  title     = {Sex ratios and conditions required for environmental sex determination in animals},
   author    = {Korpelainen, Helena},
   year      = 1990,
-  journal   = {Biological Reviews},
+  journal   = {Biological reviews},
   publisher = {Wiley Online Library},
   volume    = 65,
   number    = 2,
@@ -70,10 +70,10 @@
 }
 
 @article{bachtrog2014sex,
-  title     = {{S}ex determination: why so many ways of doing it?},
+  title     = {Sex determination: why so many ways of doing it?},
   author    = {Bachtrog, Doris and Mank, Judith E and Peichel, Catherine L and Kirkpatrick, Mark and Otto, Sarah P and Ashman, Tia-Lynn and Hahn, Matthew W and Kitano, Jun and Mayrose, Itay and Ming, Ray and others},
   year      = 2014,
-  journal   = {PLoS Biology},
+  journal   = {PLoS biology},
   publisher = {Public Library of Science},
   volume    = 12,
   number    = 7,
@@ -81,7 +81,7 @@
 }
 
 @article{bai2019chromosomal,
-  title     = {{C}hromosomal-level assembly of the blood clam, \textit{{S}capharca} (\textit{{A}nadara}) \textit{broughtonii}, using long sequence reads and {H}i-{C}},
+  title     = {Chromosomal-level assembly of the blood clam, \textit{Scapharca} (\textit{Anadara}) \textit{broughtonii}, using long sequence reads and Hi-C},
   author    = {Bai, Chang-Ming and Xin, Lu-Sheng and Rosani, Umberto and Wu, Biao and Wang, Qing-Chen and Duan, Xiao-Ke and Liu, Zhi-Hong and Wang, Chong-Ming},
   year      = 2019,
   journal   = {GigaScience},
@@ -92,7 +92,7 @@
 }
 
 @article{mawaribuchi2012molecular,
-  title     = {{M}olecular evolution of vertebrate sex-determining genes},
+  title     = {Molecular evolution of vertebrate sex-determining genes},
   author    = {Mawaribuchi, Shuuji and Yoshimoto, Shin and Ohashi, Shuntaro and Takamatsu, Nobuhiko and Ito, Michihiko},
   year      = 2012,
   journal   = {Chromosome Research},
@@ -102,10 +102,10 @@
 }
 
 @article{sarkar2013sox,
-  title     = {{T}he sox family of transcription factors: versatile regulators of stem and progenitor cell fate},
+  title     = {The sox family of transcription factors: versatile regulators of stem and progenitor cell fate},
   author    = {Sarkar, Abby and Hochedlinger, Konrad},
   year      = 2013,
-  journal   = {Cell Stem Cell},
+  journal   = {Cell stem cell},
   publisher = {Elsevier},
   volume    = 12,
   number    = 1,
@@ -113,7 +113,7 @@
 }
 
 @article{bopp2014sex,
-  title     = {{S}ex determination in insects: variations on a common theme},
+  title     = {Sex determination in insects: variations on a common theme},
   author    = {Bopp, D and Saccone, Giuseppe and Beye, M},
   year      = 2014,
   journal   = {Sexual Development},
@@ -124,7 +124,7 @@
 }
 
 @article{matson2012sex,
-  title     = {{S}ex and the singular {D}{M} domain: insights into sexual regulation, evolution and plasticity},
+  title     = {Sex and the singular DM domain: insights into sexual regulation, evolution and plasticity},
   author    = {Matson, Clinton K and Zarkower, David},
   year      = 2012,
   journal   = {Nature Reviews Genetics},
@@ -135,10 +135,10 @@
 }
 
 @article{baldwin2018new,
-  title     = {{A} new standard for crustacean genomes: the highly contiguous, annotated genome assembly of the clam shrimp \textit{{E}ulimnadia texana} reveals {H}{O}{X} gene order and identifies the sex chromosome},
+  title     = {A new standard for crustacean genomes: the highly contiguous, annotated genome assembly of the clam shrimp \textit{Eulimnadia texana} reveals HOX gene order and identifies the sex chromosome},
   author    = {Baldwin-Brown, James G and Weeks, Stephen C and Long, Anthony D},
   year      = 2018,
-  journal   = {Genome Biology and Evolution},
+  journal   = {Genome biology and evolution},
   publisher = {Oxford University Press},
   volume    = 10,
   number    = 1,
@@ -146,10 +146,10 @@
 }
 
 @article{baral2019genetic,
-  title     = {{G}enetic architecture and sex-specific selection govern modular, male-biased evolution of \textit{doublesex}},
+  title     = {Genetic architecture and sex-specific selection govern modular, male-biased evolution of \textit{doublesex}},
   author    = {Baral, Saurav and Arumugam, Gandhimathi and Deshmukh, Riddhi and Kunte, Krushnamegh},
   year      = 2019,
-  journal   = {Science Advances},
+  journal   = {Science advances},
   publisher = {American Association for the Advancement of Science},
   volume    = 5,
   number    = 5,
@@ -157,7 +157,7 @@
 }
 
 @article{bertocchini2016germline,
-  title     = {{G}ermline development in amniotes: {A} paradigm shift in primordial germ cell specification},
+  title     = {Germline development in amniotes: A paradigm shift in primordial germ cell specification},
   author    = {Bertocchini, Federica and Chuva de Sousa Lopes, Susana M},
   year      = 2016,
   journal   = {BioEssays},
@@ -168,14 +168,14 @@
 }
 
 @book{beukeboom2014evolution,
-  title     = {{T}he evolution of sex determination},
+  title     = {The evolution of sex determination},
   author    = {Beukeboom, Leo W and Perrin, Nicolas},
   year      = 2014,
   publisher = {Oxford University Press}
 }
 
 @article{bewick2011evolution,
-  title     = {{E}volution of the closely related, sex-related genes \textit{{D}{M}-{W}} and \textit{{D}{M}{R}{T}1} in {A}frican clawed frogs (\textit{{X}enopus})},
+  title     = {Evolution of the closely related, sex-related genes \textit{DM-W} and \textit{DMRT1} in African clawed frogs (\textit{Xenopus})},
   author    = {Bewick, Adam J and Anderson, Dave W and Evans, Ben J},
   year      = 2011,
   journal   = {Evolution},
@@ -186,7 +186,7 @@
 }
 
 @article{bolger2014trimmomatic,
-  title     = {{T}rimmomatic: a flexible trimmer for {I}llumina sequence data},
+  title     = {Trimmomatic: a flexible trimmer for Illumina sequence data},
   author    = {Bolger, Anthony M and Lohse, Marc and Usadel, Bjoern},
   year      = 2014,
   journal   = {Bioinformatics},
@@ -197,10 +197,11 @@
 }
 
 @inbook{breton2018sex,
-  title     = {{S}ex-{D}etermining mechanisms in bivalves},
+  title     = {Sex-Determining mechanisms in bivalves},
   author    = {Breton, Sophie and Capt, Charlotte and Guerra, Davide and Stewart, Donald},
   year      = 2018,
-  booktitle = {{T}ransitions {B}etween {S}exual {S}ystems: {U}nderstanding the {M}echanisms of, and {P}athways {B}etween, {D}ioecy, {H}ermaphroditism and {O}ther {S}exual {S}ystems},
+  journal   = {Transitions between sexual systems: understanding the mechanisms of, and pathways between, dioecy, hermaphroditism and other sexual systems},
+  booktitle = {Transitions Between Sexual Systems: Understanding the Mechanisms of, and Pathways Between, Dioecy, Hermaphroditism and Other Sexual Systems},
   publisher = {Springer International Publishing},
   address   = {Cham},
   pages     = {165--192},
@@ -208,7 +209,7 @@
 }
 
 @article{breton2022did,
-  title     = {{D}id doubly uniparental inheritance ({D}{U}{I}) of mt{D}{N}{A} originate as a cytoplasmic male sterility ({C}{M}{S}) system?},
+  title     = {Did doubly uniparental inheritance (DUI) of mtDNA originate as a cytoplasmic male sterility (CMS) system?},
   author    = {Breton, Sophie and Stewart, Donald T and Br{\'e}maud, Julie and Havird, Justin C and Smith, Chase H and Hoeh, Walter R},
   year      = 2022,
   journal   = {BioEssays},
@@ -219,10 +220,10 @@
 }
 
 @article{buchfink2015fast,
-  title     = {{F}ast and sensitive protein alignment using {D}{I}{A}{M}{O}{N}{D}},
+  title     = {Fast and sensitive protein alignment using DIAMOND},
   author    = {Buchfink, Benjamin and Xie, Chao and Huson, Daniel H},
   year      = 2015,
-  journal   = {Nature Methods},
+  journal   = {Nature methods},
   publisher = {Nature Publishing Group US New York},
   volume    = 12,
   number    = 1,
@@ -230,7 +231,7 @@
 }
 
 @article{calcino2019quagga,
-  title     = {{T}he quagga mussel genome and the evolution of freshwater tolerance},
+  title     = {The quagga mussel genome and the evolution of freshwater tolerance},
   author    = {Calcino, Andrew D and de Oliveira, Andr{\'e} Luiz and Simakov, Oleg and Schwaha, Thomas and Zieger, Elisabeth and Wollesen, Tim and Wanninger, Andreas},
   year      = 2019,
   journal   = {DNA Research},
@@ -241,7 +242,7 @@
 }
 
 @article{cao2004differential,
-  title     = {{D}ifferential segregation patterns of sperm mitochondria in embryos of the blue mussel (\textit{{M}ytilus edulis})},
+  title     = {Differential segregation patterns of sperm mitochondria in embryos of the blue mussel (\textit{Mytilus edulis})},
   author    = {Cao, Liqin and Kenchington, Ellen and Zouros, Eleftherios},
   year      = 2004,
   journal   = {Genetics},
@@ -252,7 +253,7 @@
 }
 
 @article{capel2017vertebrate,
-  title     = {{V}ertebrate sex determination: evolutionary plasticity of a fundamental switch},
+  title     = {Vertebrate sex determination: evolutionary plasticity of a fundamental switch},
   author    = {Capel, Blanche},
   year      = 2017,
   journal   = {Nature Reviews Genetics},
@@ -263,7 +264,7 @@
 }
 
 @article{capella2009trimal,
-  title     = {trim{A}l: a tool for automated alignment trimming in large-scale phylogenetic analyses},
+  title     = {trimAl: a tool for automated alignment trimming in large-scale phylogenetic analyses},
   author    = {Capella-Guti{\'e}rrez, Salvador and Silla-Mart{\'\i}nez, Jos{\'e} M and Gabald{\'o}n, Toni},
   year      = 2009,
   journal   = {Bioinformatics},
@@ -274,10 +275,10 @@
 }
 
 @article{capt2020unorthodox,
-  title     = {{U}northodox features in two venerid bivalves with doubly uniparental inheritance of mitochondria},
+  title     = {Unorthodox features in two venerid bivalves with doubly uniparental inheritance of mitochondria},
   author    = {Capt, Charlotte and Bouvet, Karim and Guerra, Davide and Robicheau, Brent M and Stewart, Donald T and Pante, Eric and Breton, Sophie},
   year      = 2020,
-  journal   = {Scientific Reports},
+  journal   = {Scientific reports},
   publisher = {Nature Publishing Group UK London},
   volume    = 10,
   number    = 1,
@@ -285,10 +286,10 @@
 }
 
 @article{capt2018deciphering,
-  title     = {{D}eciphering the link between doubly uniparental inheritance of mt{D}{N}{A} and sex determination in bivalves: clues from comparative transcriptomics},
+  title     = {Deciphering the link between doubly uniparental inheritance of mtDNA and sex determination in bivalves: clues from comparative transcriptomics},
   author    = {Capt, Charlotte and Renaut, S{\'e}bastien and Ghiselli, Fabrizio and Milani, Liliana and Johnson, Nathan A and Sietman, Bernard E and Stewart, Donald T and Breton, Sophie},
   year      = 2018,
-  journal   = {Genome Biology and Evolution},
+  journal   = {Genome biology and evolution},
   publisher = {Oxford University Press},
   volume    = 10,
   number    = 2,
@@ -296,7 +297,7 @@
 }
 
 @article{chen2017transcriptome,
-  title     = {{T}ranscriptome analysis of sex-related genes in the blood clam \textit{{T}egillarca granosa}},
+  title     = {Transcriptome analysis of sex-related genes in the blood clam \textit{Tegillarca granosa}},
   author    = {Chen, Heng and Xiao, Guoqiang and Chai, Xueliang and Lin, Xingguan and Fang, Jun and Teng, Shuangshuang},
   year      = 2017,
   journal   = {PLoS One},
@@ -307,10 +308,10 @@
 }
 
 @article{gomez2015developing,
-  title     = {{D}eveloping tools for the study of molluscan immunity: the sequencing of the genome of the eastern oyster, \textit{{C}rassostrea virginica}},
+  title     = {Developing tools for the study of molluscan immunity: the sequencing of the genome of the eastern oyster, \textit{Crassostrea virginica}},
   author    = {G{\'o}mez-Chiarri, Marta and Warren, Wesley C and Guo, Ximing and Proestou, Dina},
   year      = 2015,
-  journal   = {Fish \& Shellfish Immunology},
+  journal   = {Fish \& shellfish immunology},
   publisher = {Elsevier},
   volume    = 46,
   number    = 1,
@@ -318,7 +319,7 @@
 }
 
 @article{li2018draft,
-  title     = {{D}raft genome of the {P}eruvian scallop \textit{{A}rgopecten purpuratus}},
+  title     = {Draft genome of the Peruvian scallop \textit{Argopecten purpuratus}},
   author    = {Li, Chao and Liu, Xiao and Liu, Bo and Ma, Bin and Liu, Fengqiao and Liu, Guilong and Shi, Qiong and Wang, Chunde},
   year      = 2018,
   journal   = {GigaScience},
@@ -329,7 +330,7 @@
 }
 
 @article{penaloza2021chromosome,
-  title     = {{A} chromosome-level genome assembly for the {P}acific oyster \textit{{C}rassostrea gigas}},
+  title     = {A chromosome-level genome assembly for the Pacific oyster \textit{Crassostrea gigas}},
   author    = {Penaloza, Carolina and Gutierrez, Alejandro P and E{\"o}ry, L{\'e}l and Wang, Shan and Guo, Ximing and Archibald, Alan L and Bean, Tim P and Houston, Ross D},
   year      = 2021,
   journal   = {GigaScience},
@@ -340,7 +341,7 @@
 }
 
 @article{teng2023parallel,
-  title     = {{P}arallel evolution in \textit{{C}rassostrea} oysters along the latitudinal gradient is associated with variation in multiple genes involved in adipogenesis},
+  title     = {Parallel evolution in \textit{Crassostrea} oysters along the latitudinal gradient is associated with variation in multiple genes involved in adipogenesis},
   author    = {Teng, Wen and Fu, Huiru and Li, Zhuanzhuan and Zhang, Qian and Xu, Chengxun and Yu, Hong and Kong, Lingfeng and Liu, Shikai and Li, Qi},
   year      = 2023,
   journal   = {Molecular Ecology},
@@ -351,7 +352,7 @@
 }
 
 @article{choi2018hcr3,
-  title     = {{T}hird-generation \textit{in situ} hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust},
+  title     = {Third-generation \textit{in situ} hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust},
   author    = {Choi, Harry MT and Schwarzkopf, Maayan and Fornace, Mark E and Acharya, Aneesh and Artavanis, Georgios and Stegmaier, Johannes and Cunha, Alexandre and Pierce, Niles A},
   year      = 2018,
   journal   = {Development},
@@ -362,7 +363,7 @@
 }
 
 @article{li2022sex,
-  title     = {{S}ex determination mechanisms and sex control approaches in aquaculture animals},
+  title     = {Sex determination mechanisms and sex control approaches in aquaculture animals},
   author    = {Li, Xi-Yin and Mei, Jie and Ge, Chu-Tian and Liu, Xiao-Li and Gui, Jian-Fang},
   year      = 2022,
   journal   = {Science China Life Sciences},
@@ -373,7 +374,7 @@
 }
 
 @article{gomes2020molluscan,
-  title     = {{M}olluscan genomics: the road so far and the way forward},
+  title     = {Molluscan genomics: the road so far and the way forward},
   author    = {Gomes-dos-Santos, Andre and Lopes-Lima, Manuel and Castro, L Filipe C and Froufe, Elsa},
   year      = 2020,
   journal   = {Hydrobiologia},
@@ -384,7 +385,7 @@
 }
 
 @article{haszprunar2012molluscs,
-  title     = {{M}olluscs},
+  title     = {Molluscs},
   author    = {Haszprunar, Gerhard and Wanninger, Andreas},
   year      = 2012,
   journal   = {Current Biology},
@@ -395,7 +396,7 @@
 }
 
 @article{haerty2007evolution,
-  title     = {{E}volution in the fast lane: rapidly evolving sex-related genes in \textit{{D}rosophila}},
+  title     = {Evolution in the fast lane: rapidly evolving sex-related genes in \textit{Drosophila}},
   author    = {Haerty, Wilfried and Jagadeeshan, Santosh and Kulathinal, Rob J and Wong, Alex and Ravi Ram, Kristipati and Sirot, Laura K and Levesque, Lisa and Artieri, Carlo G and Wolfner, Mariana F and Civetta, Alberto and others},
   year      = 2007,
   journal   = {Genetics},
@@ -406,17 +407,17 @@
 }
 
 @article{mullon2012drosophila_sxl,
-  title     = {{M}olecular evolution of \textit{{D}rosophila} \textit{{S}ex-lethal} and related sex determining genes},
+  title     = {Molecular evolution of \textit{Drosophila} \textit{Sex-lethal} and related sex determining genes},
   author    = {Mullon, Charles and Pomiankowski, Andrew and Reuter, Max},
   year      = 2012,
-  journal   = {BMC Evolutionary Biology},
+  journal   = {BMC evolutionary biology},
   publisher = {Springer},
   volume    = 12,
   pages     = {1--11}
 }
 
 @article{oNeil1992drosophila_tra,
-  title     = {{I}nterspecific comparison of the \textit{transforme}r gene of \textit{{D}rosophila} reveals an unusually high degree of evolutionary divergence},
+  title     = {Interspecific comparison of the \textit{transforme}r gene of \textit{Drosophila} reveals an unusually high degree of evolutionary divergence},
   author    = {O'Neil, Michael T and Belote, John M},
   year      = 1992,
   journal   = {Genetics},
@@ -427,7 +428,7 @@
 }
 
 @article{han2022ancient,
-  title     = {{A}ncient homomorphy of molluscan sex chromosomes sustained by reversible sex-biased genes and sex determiner translocation},
+  title     = {Ancient homomorphy of molluscan sex chromosomes sustained by reversible sex-biased genes and sex determiner translocation},
   author    = {Han, Wentao and Liu, Liangjie and Wang, Jing and Wei, Huilan and Li, Yuli and Zhang, Lijing and Guo, Zhenyi and Li, Yajuan and Liu, Tian and Zeng, Qifan and others},
   year      = 2022,
   journal   = {Nature Ecology \& Evolution},
@@ -436,7 +437,7 @@
 }
 
 @article{gusman2016pursuing,
-  title     = {{P}ursuing the quest for better understanding the taxonomic distribution of the system of doubly uniparental inheritance of mt{D}{N}{A}},
+  title     = {Pursuing the quest for better understanding the taxonomic distribution of the system of doubly uniparental inheritance of mtDNA},
   author    = {Gusman, Arthur and Lecomte, Sophia and Stewart, Donald T and Passamonti, Marco and Breton, Sophie},
   year      = 2016,
   journal   = {PeerJ},
@@ -446,10 +447,10 @@
 }
 
 @article{ghiselli2013structure,
-  title     = {{S}tructure, transcription, and variability of metazoan mitochondrial genome: perspectives from an unusual mitochondrial inheritance system},
+  title     = {Structure, transcription, and variability of metazoan mitochondrial genome: perspectives from an unusual mitochondrial inheritance system},
   author    = {Ghiselli, Fabrizio and Milani, Liliana and Guerra, Davide and Chang, Peter L and Breton, Sophie and Nuzhdin, Sergey V and Passamonti, Marco},
   year      = 2013,
-  journal   = {Genome Biology and Evolution},
+  journal   = {Genome biology and evolution},
   publisher = {Oxford University Press},
   volume    = 5,
   number    = 8,
@@ -457,16 +458,16 @@
 }
 
 @article{afonso2019gonad,
-  title     = {{G}onad transcriptome of golden mussel \textit{{L}imnoperna fortunei} reveals potential sex differentiation genes},
+  title     = {Gonad transcriptome of golden mussel \textit{Limnoperna fortunei} reveals potential sex differentiation genes},
   author    = {Afonso, Luana Ferreira and Americo, Juliana Alves and Soares-Souza, Giordano Bruno and Torres, Andr{\'e} Luiz Quintanilha and Wajsenzon, In{\^e}s Julia Ribas and Rebelo, Mauro de Freitas},
   year      = 2019,
-  journal   = {bioRxiv},
+  journal   = {biorxiv},
   publisher = {Cold Spring Harbor Laboratory},
   pages     = 818757
 }
 
 @article{santerre2013oyster,
-  title     = {{O}yster sex determination is influenced by temperature—first clues in spat during first gonadic differentiation and gametogenesis},
+  title     = {Oyster sex determination is influenced by temperature—first clues in spat during first gonadic differentiation and gametogenesis},
   author    = {Santerre, Christelle and Sourdaine, Pascal and Marc, Nicolas and Mingant, Christian and Robert, Ren{\'e} and Martinez, Anne-Sophie},
   year      = 2013,
   journal   = {Comparative Biochemistry and Physiology Part A: Molecular \& Integrative Physiology},
@@ -477,7 +478,7 @@
 }
 
 @article{teaniniuraitemoana2016effect,
-  title     = {{E}ffect of temperature, food availability, and estradiol injection on gametogenesis and gender in the pearl oyster \textit{{P}inctada margaritifera}},
+  title     = {Effect of temperature, food availability, and estradiol injection on gametogenesis and gender in the pearl oyster \textit{Pinctada margaritifera}},
   author    = {Teaniniuraitemoana, Vaihiti and Lepr{\^e}tre, Maxime and Levy, Peva and Vanaa, Vincent and Parrad, Sophie and Gaertner-Mazouni, Nabila and Gueguen, Yannick and Huvet, Arnaud and Le Moullac, Gilles},
   year      = 2016,
   journal   = {Journal of Experimental Zoology Part A: Ecological Genetics and Physiology},
@@ -488,7 +489,7 @@
 }
 
 @article{chavez2008prospective,
-  title     = {{P}rospective culture of the {C}ortez oyster \textit{{C}rassostrea corteziensis} from northwestern {M}exico: growth, gametogenic activity, and condition index},
+  title     = {Prospective culture of the Cortez oyster \textit{Crassostrea corteziensis} from northwestern Mexico: growth, gametogenic activity, and condition index},
   author    = {Ch{\'a}vez-Villalba, Jorge and Hern{\'a}ndez-Ibarra, Andr{\'e}s and L{\'o}pez-Tapia, Mar{\'\i}a R and Maz{\'o}n-Su{\'a}stegui, Jos{\'e} M},
   year      = 2008,
   journal   = {Journal of Shellfish Research},
@@ -499,17 +500,17 @@
 }
 
 @article{teaniniuraitemoana2014gonad,
-  title     = {{G}onad transcriptome analysis of pearl oyster \textit{{P}inctada margaritifera}: identification of potential sex differentiation and sex determining genes},
+  title     = {Gonad transcriptome analysis of pearl oyster \textit{Pinctada margaritifera}: identification of potential sex differentiation and sex determining genes},
   author    = {Teaniniuraitemoana, Vaihiti and Huvet, Arnaud and Levy, Peva and Klopp, Christophe and Lhuillier, Emeline and Gaertner-Mazouni, Nabila and Gueguen, Yannick and Le Moullac, Gilles},
   year      = 2014,
-  journal   = {BMC Genomics},
+  journal   = {BMC genomics},
   publisher = {Springer},
   volume    = 15,
   pages     = {1--20}
 }
 
 @article{renfree1996sexual,
-  title     = {{S}exual differentiation of the urogenital system of the fetal and neonatal tammar wallaby, \textit{{M}acropus eugenii}},
+  title     = {Sexual differentiation of the urogenital system of the fetal and neonatal tammar wallaby, \textit{Macropus eugenii}},
   author    = {Renfree, Marilyn B and O, Wai-Sum and Short, RV and Shaw, G},
   year      = 1996,
   journal   = {Anatomy and Embryology},
@@ -519,7 +520,7 @@
 }
 
 @article{holleley2015sex,
-  title     = {{S}ex reversal triggers the rapid transition from genetic to temperature-dependent sex},
+  title     = {Sex reversal triggers the rapid transition from genetic to temperature-dependent sex},
   author    = {Holleley, Clare E and O'Meally, Denis and Sarre, Stephen D and Marshall Graves, Jennifer A and Ezaz, Tariq and Matsubara, Kazumi and Azad, Bhumika and Zhang, Xiuwen and Georges, Arthur},
   year      = 2015,
   journal   = {Nature},
@@ -530,7 +531,7 @@
 }
 
 @article{zhao2010somatic,
-  title     = {{S}omatic sex identity is cell autonomous in the chicken},
+  title     = {Somatic sex identity is cell autonomous in the chicken},
   author    = {Zhao, Debiao and McBride, Derek and Nandi, Sunil and McQueen, HA and McGrew, MJ and Hocking, PM and Lewis, PD and Sang, HM and Clinton, M},
   year      = 2010,
   journal   = {Nature},
@@ -541,10 +542,10 @@
 }
 
 @article{bear2013both,
-  title     = {{B}oth cell-autonomous mechanisms and hormones contribute to sexual development in vertebrates and insects},
+  title     = {Both cell-autonomous mechanisms and hormones contribute to sexual development in vertebrates and insects},
   author    = {Bear, Ashley and Monteiro, Antonia},
   year      = 2013,
-  journal   = {BioEssays},
+  journal   = {Bioessays},
   publisher = {Wiley Online Library},
   volume    = 35,
   number    = 8,
@@ -552,10 +553,10 @@
 }
 
 @article{mork2014predetermination,
-  title     = {{P}redetermination of sexual fate in a turtle with temperature-dependent sex determination},
+  title     = {Predetermination of sexual fate in a turtle with temperature-dependent sex determination},
   author    = {Mork, Lindsey and Czerwinski, Michael and Capel, Blanche},
   year      = 2014,
-  journal   = {Developmental Biology},
+  journal   = {Developmental biology},
   publisher = {Elsevier},
   volume    = 386,
   number    = 1,
@@ -563,7 +564,7 @@
 }
 
 @article{milani2013nuclear,
-  title     = {{N}uclear genes with sex bias in \textit{{R}uditapes philippinarum} ({B}ivalvia, {V}eneridae): mitochondrial inheritance and sex determination in {D}{U}{I} species},
+  title     = {Nuclear genes with sex bias in \textit{Ruditapes philippinarum} (Bivalvia, Veneridae): mitochondrial inheritance and sex determination in DUI species},
   author    = {Milani, Liliana and Ghiselli, Fabrizio and Nuzhdin, Sergey V and Passamonti, Marco},
   year      = 2013,
   journal   = {Journal of Experimental Zoology Part B: Molecular and Developmental Evolution},
@@ -574,7 +575,7 @@
 }
 
 @article{parsch2013evolutionary,
-  title     = {{T}he evolutionary causes and consequences of sex-biased gene expression},
+  title     = {The evolutionary causes and consequences of sex-biased gene expression},
   author    = {Parsch, John and Ellegren, Hans},
   year      = 2013,
   journal   = {Nature Reviews Genetics},
@@ -585,20 +586,20 @@
 }
 
 @article{grath2016sex,
-  title     = {{S}ex-biased gene expression},
+  title     = {Sex-biased gene expression},
   author    = {Grath, Sonja and Parsch, John},
   year      = 2016,
-  journal   = {Annual Review of Genetics},
+  journal   = {Annual review of genetics},
   publisher = {Annual Reviews},
   volume    = 50,
   pages     = {29--44}
 }
 
 @article{kalyaanamoorthy2017modelfinder,
-  title     = {{M}odel{F}inder: fast model selection for accurate phylogenetic estimates},
+  title     = {ModelFinder: fast model selection for accurate phylogenetic estimates},
   author    = {Kalyaanamoorthy, Subha and Minh, Bui Quang and Wong, Thomas KF and Von Haeseler, Arndt and Jermiin, Lars S},
   year      = 2017,
-  journal   = {Nature Methods},
+  journal   = {Nature methods},
   publisher = {Nature Publishing Group US New York},
   volume    = 14,
   number    = 6,
@@ -606,7 +607,7 @@
 }
 
 @article{naimi2009identification,
-  title     = {{I}dentification and expression of a factor of the {D}{M} family in the oyster \textit{{C}rassostrea gigas}},
+  title     = {Identification and expression of a factor of the DM family in the oyster \textit{Crassostrea gigas}},
   author    = {Naimi, Amine and Martinez, Anne-Sophie and Specq, Marie-Laure and Mrac, Abdellah and Diss, Blandine and Mathieu, Michel and Sourdaine, Pascal},
   year      = 2009,
   journal   = {Comparative Biochemistry and Physiology Part A: Molecular \& Integrative Physiology},
@@ -617,7 +618,7 @@
 }
 
 @article{naimi2009molecular,
-  title     = {{M}olecular cloning and gene expression of \textit{{C}g-{F}oxl2} during the development and the adult gametogenetic cycle in the oyster \textit{{C}rassostrea gigas}},
+  title     = {Molecular cloning and gene expression of \textit{Cg-Foxl2} during the development and the adult gametogenetic cycle in the oyster \textit{Crassostrea gigas}},
   author    = {Naimi, Amine and Martinez, Anne-Sophie and Specq, Marie-Laure and Diss, Blandine and Mathieu, Michel and Sourdaine, Pascal},
   year      = 2009,
   journal   = {Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology},
@@ -628,7 +629,7 @@
 }
 
 @article{wang2022transcriptome,
-  title     = {{T}ranscriptome sequencing analysis of sex-related genes and mi{R}{N}{A}s in the gonads of \textit{{M}ytilus coruscus}},
+  title     = {Transcriptome sequencing analysis of sex-related genes and miRNAs in the gonads of \textit{Mytilus coruscus}},
   author    = {Wang, Min and Xia, Jiao and Jawad, Muhammad and Wei, Wenbo and Gui, Lang and Liang, Xiao and Yang, Jin-Long and Li, Mingyou},
   year      = 2022,
   journal   = {Frontiers in Marine Science},
@@ -638,7 +639,7 @@
 }
 
 @article{yue2021variance,
-  title     = {{V}ariance in expression and localization of sex-related genes \textit{{C}g{D}sx}, \textit{{C}g{B}{H}{M}{G}1} and \textit{{C}g{F}oxl2} during diploid and triploid {P}acific oyster \textit{{C}rassostrea gigas} gonad differentiation},
+  title     = {Variance in expression and localization of sex-related genes \textit{CgDsx}, \textit{CgBHMG1} and \textit{CgFoxl2} during diploid and triploid Pacific oyster \textit{Crassostrea gigas} gonad differentiation},
   author    = {Yue, Chenyang and Li, Qi and Yu, Hong},
   year      = 2021,
   journal   = {Gene},
@@ -648,10 +649,10 @@
 }
 
 @article{willson2022disco,
-  title     = {{D}{I}{S}{C}{O}: species tree inference using multicopy gene family tree decomposition},
+  title     = {DISCO: species tree inference using multicopy gene family tree decomposition},
   author    = {Willson, James and Roddur, Mrinmoy Saha and Liu, Baqiao and Zaharias, Paul and Warnow, Tandy},
   year      = 2022,
-  journal   = {Systematic Biology},
+  journal   = {Systematic biology},
   publisher = {Oxford University Press},
   volume    = 71,
   number    = 3,
@@ -659,40 +660,40 @@
 }
 
 @article{emms2019orthofinder,
-  title     = {{O}rtho{F}inder: phylogenetic orthology inference for comparative genomics},
+  title     = {OrthoFinder: phylogenetic orthology inference for comparative genomics},
   author    = {Emms, David M and Kelly, Steven},
   year      = 2019,
-  journal   = {Genome Biology},
+  journal   = {Genome biology},
   publisher = {Springer},
   volume    = 20,
   pages     = {1--14}
 }
 
 @article{yuen2019organ,
-  title     = {{O}rgan transcriptomes of the lucinid clam \textit{{L}oripes orbiculatus} ({P}oli, 1791) provide insights into their specialised roles in the biology of a chemosymbiotic bivalve},
+  title     = {Organ transcriptomes of the lucinid clam \textit{Loripes orbiculatus} (Poli, 1791) provide insights into their specialised roles in the biology of a chemosymbiotic bivalve},
   author    = {Yuen, Benedict and Polzin, Julia and Petersen, Jillian M},
   year      = 2019,
-  journal   = {BMC Genomics},
+  journal   = {BMC genomics},
   publisher = {Springer},
   volume    = 20,
   pages     = {1--14}
 }
 
 @article{li2020comparative,
-  title     = {{C}omparative transcriptome analysis of three gonadal development stages reveals potential genes involved in gametogenesis of the fluted giant clam (\textit{{T}ridacna squamosa})},
+  title     = {Comparative transcriptome analysis of three gonadal development stages reveals potential genes involved in gametogenesis of the fluted giant clam (\textit{Tridacna squamosa})},
   author    = {Li, Jun and Zhou, Yinyin and Zhou, Zihua and Lin, Chuanxu and Wei, Jinkuan and Qin, Yanpin and Xiang, Zhiming and Ma, Haitao and Zhang, Yang and Zhang, Yuehuan and others},
   year      = 2020,
-  journal   = {BMC Genomics},
+  journal   = {BMC genomics},
   publisher = {Springer},
   volume    = 21,
   pages     = {1--16}
 }
 
 @article{li2020chromosome,
-  title     = {{C}hromosome-level genome assembly of the {E}ast {A}sian common octopus (\textit{{O}ctopus sinensis}) using {P}ac{B}io sequencing and {H}i-{C} technology},
+  title     = {Chromosome-level genome assembly of the East Asian common octopus (\textit{Octopus sinensis}) using PacBio sequencing and Hi-C technology},
   author    = {Li, Fenghui and Bian, Li and Ge, Jianlong and Han, Fengming and Liu, Zhihong and Li, Xuming and Liu, Yongsheng and Lin, Zhishu and Shi, Huilai and Liu, Changlin and others},
   year      = 2020,
-  journal   = {Molecular Ecology Resources},
+  journal   = {Molecular ecology resources},
   publisher = {Wiley Online Library},
   volume    = 20,
   number    = 6,
@@ -700,10 +701,10 @@
 }
 
 @article{yokobori2004long,
-  title     = {{L}ong-term conservation of six duplicated structural genes in cephalopod mitochondrial genomes},
+  title     = {Long-term conservation of six duplicated structural genes in cephalopod mitochondrial genomes},
   author    = {Yokobori, Shin-ichi and Fukuda, Naoya and Nakamura, Mitsue and Aoyama, Tomoko and Oshima, Tairo},
   year      = 2004,
-  journal   = {Molecular Biology and Evolution},
+  journal   = {Molecular biology and evolution},
   publisher = {Oxford University Press},
   volume    = 21,
   number    = 11,
@@ -711,7 +712,7 @@
 }
 
 @article{albertin2015octopus,
-  title     = {{T}he octopus genome and the evolution of cephalopod neural and morphological novelties},
+  title     = {The octopus genome and the evolution of cephalopod neural and morphological novelties},
   author    = {Albertin, Caroline B and Simakov, Oleg and Mitros, Therese and Wang, Z Yan and Pungor, Judit R and Edsinger-Gonzales, Eric and Brenner, Sydney and Ragsdale, Clifton W and Rokhsar, Daniel S},
   year      = 2015,
   journal   = {Nature},
@@ -722,10 +723,10 @@
 }
 
 @article{lan2021hologenome,
-  title     = {{H}ologenome analysis reveals dual symbiosis in the deep-sea hydrothermal vent snail \textit{{G}igantopelta aegis}},
+  title     = {Hologenome analysis reveals dual symbiosis in the deep-sea hydrothermal vent snail \textit{Gigantopelta aegis}},
   author    = {Lan, Yi and Sun, Jin and Chen, Chong and Sun, Yanan and Zhou, Yadong and Yang, Yi and Zhang, Weipeng and Li, Runsheng and Zhou, Kun and Wong, Wai Chuen and others},
   year      = 2021,
-  journal   = {Nature Communications},
+  journal   = {Nature communications},
   publisher = {Nature Publishing Group UK London},
   volume    = 12,
   number    = 1,
@@ -733,10 +734,10 @@
 }
 
 @article{liu2018genome,
-  title     = {{T}he genome of the golden apple snail \textit{{P}omacea canaliculata} provides insight into stress tolerance and invasive adaptation},
+  title     = {The genome of the golden apple snail \textit{Pomacea canaliculata} provides insight into stress tolerance and invasive adaptation},
   author    = {Liu, Conghui and Zhang, Yan and Ren, Yuwei and Wang, Hengchao and Li, Shuqu and Jiang, Fan and Yin, Lijuan and Qiao, Xi and Zhang, Guojie and Qian, Wanqiang and others},
   year      = 2018,
-  journal   = {GigaScience},
+  journal   = {Gigascience},
   publisher = {Oxford University Press},
   volume    = 7,
   number    = 9,
@@ -744,7 +745,7 @@
 }
 
 @article{knudsen2006complete,
-  title     = {{C}omplete {D}{N}{A} sequence of the mitochondrial genome of the sea-slug, \textit{{A}plysia californica}: conservation of the gene order in {E}uthyneura},
+  title     = {Complete DNA sequence of the mitochondrial genome of the sea-slug, \textit{Aplysia californica}: conservation of the gene order in Euthyneura},
   author    = {Knudsen, Bjarne and Kohn, Andrea B and Nahir, Ben and McFadden, Catherine S and Moroz, Leonid L},
   year      = 2006,
   journal   = {Molecular Phylogenetics and Evolution},
@@ -755,7 +756,7 @@
 }
 
 @article{rogers2021gene,
-  title     = {{G}ene family amplification facilitates adaptation in freshwater unionid bivalve \textit{{M}egalonaias nervosa}},
+  title     = {Gene family amplification facilitates adaptation in freshwater unionid bivalve \textit{Megalonaias nervosa}},
   author    = {Rogers, Rebekah L and Grizzard, Stephanie L and Titus-McQuillan, James E and Bockrath, Katherine and Patel, Sagar and Wares, John P and Garner, Jeffrey T and Moore, Cathy C},
   year      = 2021,
   journal   = {Molecular Ecology},
@@ -766,17 +767,17 @@
 }
 
 @article{wang2017transcriptome,
-  title     = {{T}ranscriptome analysis of the freshwater pearl mussel (\textit{{C}ristaria plicata}) mantle unravels genes involved in the formation of shell and pearl},
+  title     = {Transcriptome analysis of the freshwater pearl mussel (\textit{Cristaria plicata}) mantle unravels genes involved in the formation of shell and pearl},
   author    = {Wang, Xuefeng and Liu, Zhiming and Wu, Wenjian},
   year      = 2017,
-  journal   = {Molecular Genetics and Genomics},
+  journal   = {Molecular genetics and genomics},
   publisher = {Springer},
   volume    = 292,
   pages     = {343--352}
 }
 
 @article{patnaik2016sequencing,
-  title     = {{S}equencing, de novo assembly, and annotation of the transcriptome of the endangered freshwater pearl bivalve, \textit{{C}ristaria plicata}, provides novel insights into functional genes and marker discovery},
+  title     = {Sequencing, de novo assembly, and annotation of the transcriptome of the endangered freshwater pearl bivalve, \textit{Cristaria plicata}, provides novel insights into functional genes and marker discovery},
   author    = {Patnaik, Bharat Bhusan and Wang, Tae Hun and Kang, Se Won and Hwang, Hee-Ju and Park, So Young and Park, Eun Bi and Chung, Jong Min and Song, Dae Kwon and Kim, Changmu and Kim, Soonok and others},
   year      = 2016,
   journal   = {PLoS One},
@@ -787,7 +788,7 @@
 }
 
 @article{gomes2023pacbio,
-  title     = {{P}ac{B}io {H}i-{F}i genome assembly of the {I}berian dolphin freshwater mussel \textit{{U}nio delphinus} {S}pengler, 1793},
+  title     = {PacBio Hi-Fi genome assembly of the Iberian dolphin freshwater mussel \textit{Unio delphinus} Spengler, 1793},
   author    = {Gomes-dos-Santos, Andr{\'e} and Lopes-Lima, Manuel and Machado, M Andr{\'e} and Teixeira, Am{\'\i}lcar and C. Castro, L Filipe and Froufe, Elsa},
   year      = 2023,
   journal   = {Scientific Data},
@@ -798,7 +799,7 @@
 }
 
 @article{hart2023centuries,
-  title     = {{C}enturies of genome instability and evolution in soft-shell clam, \textit{{M}ya arenaria}, bivalve transmissible neoplasia},
+  title     = {Centuries of genome instability and evolution in soft-shell clam, \textit{Mya arenaria}, bivalve transmissible neoplasia},
   author    = {Hart, Samuel FM and Yonemitsu, Marisa A and Giersch, Rachael M and Garrett, Fiona ES and Beal, Brian F and Arriagada, Gloria and Davis, Brian W and Ostrander, Elaine A and Goff, Stephen P and Metzger, Michael J},
   year      = 2023,
   journal   = {Nature Cancer},
@@ -809,7 +810,7 @@
 }
 
 @article{zhu2019transcriptome,
-  title     = {{T}ranscriptome-wide identification and characterization of the \textit{{S}ox} gene family and microsatellites for \textit{{C}orbicula fluminea}},
+  title     = {Transcriptome-wide identification and characterization of the \textit{Sox} gene family and microsatellites for \textit{Corbicula fluminea}},
   author    = {Zhu, Chuankun and Zhang, Lei and Ding, Huaiyu and Pan, Zhengjun},
   year      = 2019,
   journal   = {PeerJ},
@@ -819,7 +820,7 @@
 }
 
 @article{gonzalez2015phylogenetic,
-  title     = {{A} phylogenetic backbone for {B}ivalvia: an {R}{N}{A}-seq approach},
+  title     = {A phylogenetic backbone for Bivalvia: an RNA-seq approach},
   author    = {Gonz{\'a}lez, Vanessa L and Andrade, S{\'o}nia CS and Bieler, R{\"u}diger and Collins, Timothy M and Dunn, Casey W and Mikkelsen, Paula M and Taylor, John D and Giribet, Gonzalo},
   year      = 2015,
   journal   = {Proceedings of the Royal Society B: Biological Sciences},
@@ -830,10 +831,10 @@
 }
 
 @article{farhat2022comparative,
-  title     = {{C}omparative analysis of the \textit{{M}ercenaria mercenaria} genome provides insights into the diversity of transposable elements and immune molecules in bivalve mollusks},
+  title     = {Comparative analysis of the \textit{Mercenaria mercenaria} genome provides insights into the diversity of transposable elements and immune molecules in bivalve mollusks},
   author    = {Farhat, Sarah and Bonnivard, Eric and Pales Espinosa, Emmanuelle and Tanguy, Arnaud and Boutet, Isabelle and Guiglielmoni, Nad{\`e}ge and Flot, Jean-Fran{\c{c}}ois and Allam, Bassem},
   year      = 2022,
-  journal   = {BMC Genomics},
+  journal   = {BMC genomics},
   publisher = {Springer},
   volume    = 23,
   number    = 1,
@@ -841,10 +842,10 @@
 }
 
 @article{papa2017anopheles,
-  title     = {{R}apid evolution of female-biased genes among four species of \textit{{A}nopheles} malaria mosquitoes},
+  title     = {Rapid evolution of female-biased genes among four species of \textit{Anopheles} malaria mosquitoes},
   author    = {Papa, Francesco and Windbichler, Nikolai and Waterhouse, Robert M and Cagnetti, Alessia and D'Amato, Rocco and Persampieri, Tania and Lawniczak, Mara KN and Nolan, Tony and Papathanos, Philippos Aris},
   year      = 2017,
-  journal   = {Genome Research},
+  journal   = {Genome research},
   publisher = {Cold Spring Harbor Lab},
   volume    = 27,
   number    = 9,
@@ -852,7 +853,7 @@
 }
 
 @article{filanti2021early,
-  title     = {{E}arly germline differentiation in bivalves: {T}{D}{R}{D}7 as a candidate investigational unit for \textit{{R}uditapes philippinarum} germ granule assembly},
+  title     = {Early germline differentiation in bivalves: TDRD7 as a candidate investigational unit for \textit{Ruditapes philippinarum} germ granule assembly},
   author    = {Filanti, Beatrice and Piccinini, Giovanni and Bettini, Simone and Lazzari, Maurizio and Franceschini, Valeria and Maurizii, Maria Gabriella and Milani, Liliana},
   journal   = {Histochemistry and Cell Biology},
   volume    = {156},
@@ -862,9 +863,9 @@
 }
 
 @article{voronina2008vasa,
-  title     = {{V}asa protein expression is restricted to the small micromeres of the sea urchin, but is inducible in other lineages early in development},
+  title     = {Vasa protein expression is restricted to the small micromeres of the sea urchin, but is inducible in other lineages early in development},
   author    = {Voronina, Ekaterina and Lopez, Manuel and Juliano, Celina E and Gustafson, Eric and Song, Jia L and Extavour, Cassandra and George, Sophie and Oliveri, Paola and McClay, David and Wessel, Gary},
-  journal   = {Developmental Biology},
+  journal   = {Developmental biology},
   volume    = {314},
   number    = {2},
   pages     = {276--286},
@@ -873,7 +874,7 @@
 }
 
 @article{rebscher2014establishing,
-  title   = {{E}stablishing the germline in spiralian embyos.},
+  title   = {Establishing the germline in spiralian embyos.},
   author  = {Rebscher, Nicole},
   journal = {International Journal of Developmental Biology},
   volume  = {58},
@@ -881,9 +882,9 @@
 }
 
 @article{rebscher2007vasa,
-  title     = {{V}asa unveils a common origin of germ cells and of somatic stem cells from the posterior growth zone in the polychaete \textit{{P}latynereis dumerilii}},
+  title     = {Vasa unveils a common origin of germ cells and of somatic stem cells from the posterior growth zone in the polychaete \textit{Platynereis dumerilii}},
   author    = {Rebscher, Nicole and Zelada-Gonz{\'a}lez, Fabiola and Banisch, Torsten U and Raible, Florian and Arendt, Detlev},
-  journal   = {Developmental Biology},
+  journal   = {Developmental biology},
   volume    = {306},
   number    = {2},
   pages     = {599--611},
@@ -892,7 +893,7 @@
 }
 
 @article{xu2018oocyte,
-  title     = {{O}ocyte maturation and origin of the germline as revealed by the expression of \textit{{N}anos}-like in the {P}acific oyster \textit{{C}rassostrea gigas}},
+  title     = {Oocyte maturation and origin of the germline as revealed by the expression of \textit{Nanos}-like in the Pacific oyster \textit{Crassostrea gigas}},
   author    = {Xu, Rui and Li, Qi and Yu, Hong and Kong, Lingfeng},
   journal   = {Gene},
   volume    = {663},
@@ -902,7 +903,7 @@
 }
 
 @article{lyons2012cleavage,
-  title     = {{C}leavage pattern and fate map of the mesentoblast, 4d, in the gastropod \textit{{C}repidula}: a hallmark of spiralian development},
+  title     = {Cleavage pattern and fate map of the mesentoblast, 4d, in the gastropod \textit{Crepidula}: a hallmark of spiralian development},
   author    = {Lyons, Deirdre C and Perry, Kimberly J and Lesoway, Maryna P and Henry, Jonathan Q},
   journal   = {EvoDevo},
   volume    = {3},
@@ -912,7 +913,7 @@
 }
 
 @article{santerre2013oyster,
-  title     = {{O}yster sex determination is influenced by temperature—first clues in spat during first gonadic differentiation and gametogenesis},
+  title     = {Oyster sex determination is influenced by temperature—first clues in spat during first gonadic differentiation and gametogenesis},
   author    = {Santerre, Christelle and Sourdaine, Pascal and Marc, Nicolas and Mingant, Christian and Robert, Ren{\'e} and Martinez, Anne-Sophie},
   journal   = {Comparative Biochemistry and Physiology Part A: Molecular \& Integrative Physiology},
   volume    = {165},
@@ -923,7 +924,7 @@
 }
 
 @article{li2018foxl2,
-  title     = {\textit{{F}{O}{X}{L}2} and \textit{{D}{M}{R}{T}1{L}} are yin and yang genes for determining timing of sex differentiation in the bivalve mollusk \textit{{P}atinopecten yessoensis}},
+  title     = {\textit{FOXL2} and \textit{DMRT1L} are yin and yang genes for determining timing of sex differentiation in the bivalve mollusk \textit{Patinopecten yessoensis}},
   author    = {Li, Ruojiao and Zhang, Lingling and Li, Wanru and Zhang, Yang and Li, Yangping and Zhang, Meiwei and Zhao, Liang and Hu, Xiaoli and Wang, Shi and Bao, Zhenmin},
   year      = 2018,
   journal   = {Frontiers in Physiology},
@@ -933,7 +934,7 @@
 }
 
 @article{evensen2022comparative,
-  title     = {{C}omparative phylotranscriptomics reveals putative sex differentiating genes across eight diverse bivalve species},
+  title     = {Comparative phylotranscriptomics reveals putative sex differentiating genes across eight diverse bivalve species},
   author    = {Evensen, K Garrett and Robinson, William E and Krick, Keegan and Murray, Harry M and Poynton, Helen C},
   year      = 2022,
   journal   = {Comparative Biochemistry and Physiology Part D: Genomics and Proteomics},
@@ -943,7 +944,7 @@
 }
 
 @article{wang2020identification,
-  title     = {{I}dentification of \textit{{F}oxl2} in freshwater mussel \textit{{H}yriopsis cumingii} and its involvement in sex differentiation},
+  title     = {Identification of \textit{Foxl2} in freshwater mussel \textit{Hyriopsis cumingii} and its involvement in sex differentiation},
   author    = {Wang, Guiling and Dong, Saisai and Guo, Pengfei and Cui, Xiaoyu and Duan, Shenghua and Li, Jiale},
   year      = 2020,
   journal   = {Gene},
@@ -953,7 +954,7 @@
 }
 
 @article{dobin2013star,
-  title     = {{S}{T}{A}{R}: ultrafast universal {R}{N}{A}-seq aligner},
+  title     = {STAR: ultrafast universal RNA-seq aligner},
   author    = {Dobin, Alexander and Davis, Carrie A and Schlesinger, Felix and Drenkow, Jorg and Zaleski, Chris and Jha, Sonali and Batut, Philippe and Chaisson, Mark and Gingeras, Thomas R},
   year      = 2013,
   journal   = {Bioinformatics},
@@ -964,7 +965,7 @@
 }
 
 @article{woods1932sphaerium,
-  title     = {{K}eimbahn determinants and continuity of the germ cells in \textit{{S}phaerium striatinum} ({L}am.)},
+  title     = {Keimbahn determinants and continuity of the germ cells in \textit{Sphaerium striatinum} (Lam.)},
   author    = {Woods, Farris H},
   year      = 1932,
   journal   = {Journal of Morphology},
@@ -975,7 +976,7 @@
 }
 
 @article{zhou2022ggmsa,
-  title     = {ggmsa: {A} visual exploration tool for multiple sequence alignment and associated data},
+  title     = {ggmsa: A visual exploration tool for multiple sequence alignment and associated data},
   author    = {Zhou, Lang and Feng, Tingze and Xu, Shuangbin and Gao, Fangluan and Lam, Tommy T and Wang, Qianwen and Wu, Tianzhi and Huang, Huina and Zhan, Li and Li, Lin and others},
   journal   = {Briefings in Bioinformatics},
   volume    = {23},
@@ -986,7 +987,7 @@
 }
 
 @article{piccinini2023germline,
-  title     = {{G}ermline-related molecular phenotype in {M}etazoa: conservation and innovation highlighted by comparative transcriptomics},
+  title     = {Germline-related molecular phenotype in Metazoa: conservation and innovation highlighted by comparative transcriptomics},
   author    = {Piccinini, Giovanni and Milani, Liliana},
   journal   = {EvoDevo},
   volume    = {14},
@@ -997,20 +998,20 @@
 }
 
 @article{obata2010PCGproliferation,
-  title     = {{T}he proliferation and migration of immature germ cells in the mussel, \textit{{M}ytilus galloprovincialis}: observation of the expression pattern in the \textit{{M}. galloprovincialis} \textit{vasa}-like gene (\textit{{M}yvlg}) by in situ hybridization},
+  title     = {The proliferation and migration of immature germ cells in the mussel, \textit{Mytilus galloprovincialis}: observation of the expression pattern in the \textit{M. galloprovincialis} \textit{vasa}-like gene (\textit{Myvlg}) by in situ hybridization},
   author    = {Obata, Mayu and Sano, Natsumi and Kimata, Shunsuke and Nagasawa, Kazue and Yoshizaki, Goro and Komaru, Akira},
   year      = 2010,
-  journal   = {Development Genes and Evolution},
+  journal   = {Development genes and evolution},
   publisher = {Springer},
   volume    = 220,
   pages     = {139--149}
 }
 
 @article{fabioux2004oysterAdult,
-  title     = {{T}he oyster \textit{vasa}-like gene: a specific marker of the germline in \textit{{C}rassostrea gigas}},
+  title     = {The oyster \textit{vasa}-like gene: a specific marker of the germline in \textit{Crassostrea gigas}},
   author    = {Fabioux, Caroline and Pouvreau, St{\'e}phane and Le Roux, Fr{\'e}d{\'e}rique and Huvet, Arnaud},
   year      = 2004,
-  journal   = {Biochemical and Biophysical Research Communications},
+  journal   = {Biochemical and biophysical research communications},
   publisher = {Elsevier},
   volume    = 315,
   number    = 4,
@@ -1018,7 +1019,7 @@
 }
 
 @article{milani2017vasa,
-  title     = {{V}{A}{S}{A} expression suggests shared germ line dynamics in bivalve molluscs},
+  title     = {VASA expression suggests shared germ line dynamics in bivalve molluscs},
   author    = {Milani, Liliana and Pecci, Andrea and Ghiselli, Fabrizio and Passamonti, Marco and Bettini, Simone and Franceschini, Valeria and Maurizii, Maria Gabriella},
   year      = 2017,
   journal   = {Histochemistry and Cell Biology},
@@ -1028,10 +1029,10 @@
 }
 
 @article{kakoi2008vasaSaccostrea,
-  title     = {{E}arly development of the {J}apanese spiny oyster (\textit{{S}accostrea kegaki}): characterization of some genetic markers},
+  title     = {Early development of the Japanese spiny oyster (\textit{Saccostrea kegaki}): characterization of some genetic markers},
   author    = {Kakoi, Shota and Kin, Koryu and Miyazaki, Katsumi and Wada, Hiroshi},
   year      = 2008,
-  journal   = {Zoological Science},
+  journal   = {Zoological science},
   publisher = {BioOne},
   volume    = 25,
   number    = 5,
@@ -1039,17 +1040,17 @@
 }
 
 @article{swartz2008vasaIlyanessa,
-  title     = {{L}ocalization of \textit{{V}asa} m{R}{N}{A} during early cleavage of the snail \textit{{I}lyanassa}},
+  title     = {Localization of \textit{Vasa} mRNA during early cleavage of the snail \textit{Ilyanassa}},
   author    = {Swartz, S Zachary and Chan, Xin Yi and Lambert, J David},
   year      = 2008,
-  journal   = {Development Genes and Evolution},
+  journal   = {Development genes and evolution},
   publisher = {Springer},
   volume    = 218,
   pages     = {107--113}
 }
 
 @article{kranz2010vasaHaliotis,
-  title     = {{I}dentifying the germline in an equally cleaving mollusc: \textit{{V}asa} and \textit{{N}anos} expression during embryonic and larval development of the vetigastropod \textit{{H}aliotis asinina}},
+  title     = {Identifying the germline in an equally cleaving mollusc: \textit{Vasa} and \textit{Nanos} expression during embryonic and larval development of the vetigastropod \textit{Haliotis asinina}},
   author    = {Kranz, Alexandrea M and Tollenaere, Alina and Norris, Belinda J and Degnan, Bernard M and Degnan, Sandie M},
   year      = 2010,
   journal   = {Journal of Experimental Zoology Part B: Molecular and Developmental Evolution},
@@ -1060,10 +1061,10 @@
 }
 
 @article{fabioux2004oysterEmbryo,
-  title     = {{O}yster \textit{vasa}-like gene as a marker of the germline cell development in \textit{{C}rassostrea gigas}},
+  title     = {Oyster \textit{vasa}-like gene as a marker of the germline cell development in \textit{Crassostrea gigas}},
   author    = {Fabioux, Caroline and Huvet, Arnaud and Lelong, C and Robert, Rene and Pouvreau, Stephane and Daniel, Jean-Yves and Minguant, C and Le Pennec, M},
   year      = 2004,
-  journal   = {Biochemical and Biophysical Research Communications},
+  journal   = {Biochemical and biophysical research communications},
   publisher = {Elsevier},
   volume    = 320,
   number    = 2,
@@ -1071,7 +1072,7 @@
 }
 
 @article{saavedra1997mytilus,
-  title     = {{M}ale-dependent doubly uniparental inheritance of mitochondrial {D}{N}{A} and female-dependent sex-ratio in the mussel \textit{{M}ytilus galloprovincialis}},
+  title     = {Male-dependent doubly uniparental inheritance of mitochondrial DNA and female-dependent sex-ratio in the mussel \textit{Mytilus galloprovincialis}},
   author    = {Saavedra, Carlos and Reyero, Mar{\'\i}a-Isabel and Zouros, Eleftherios},
   year      = 1997,
   journal   = {Genetics},
@@ -1082,10 +1083,10 @@
 }
 
 @article{richardson2023comparativeSex,
-  title     = {{C}omparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals},
+  title     = {Comparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals},
   author    = {Richardson, Victorya and Engel, Nora and Kulathinal, Rob J},
   year      = 2023,
-  journal   = {Biology of Sex Differences},
+  journal   = {Biology of sex Differences},
   publisher = {Springer},
   volume    = 14,
   number    = 1,
@@ -1093,7 +1094,7 @@
 }
 
 @article{kuehn2022probegenerator,
-  title     = {{S}egment number threshold determines juvenile onset of germline cluster expansion in \textit{{P}latynereis dumerilii}},
+  title     = {Segment number threshold determines juvenile onset of germline cluster expansion in \textit{Platynereis dumerilii}},
   author    = {Kuehn, Emily and Clausen, David S and Null, Ryan W and Metzger, Bria M and Willis, Amy D and {\"O}zpolat, B Duygu},
   year      = 2022,
   journal   = {Journal of Experimental Zoology Part B: Molecular and Developmental Evolution},
@@ -1104,7 +1105,7 @@
 }
 
 @article{extavour2003mechanisms,
-  title     = {{M}echanisms of germ cell specification across the metazoans: epigenesis and preformation},
+  title     = {Mechanisms of germ cell specification across the metazoans: epigenesis and preformation},
   author    = {Extavour, Cassandra G and Akam, Michael},
   year      = {2003},
   journal   = {Development},
@@ -1115,7 +1116,7 @@
 }
 
 @article{zouros2013biparental,
-  title     = {{B}iparental inheritance through uniparental transmission: the doubly uniparental inheritance ({D}{U}{I}) of mitochondrial {D}{N}{A}},
+  title     = {Biparental inheritance through uniparental transmission: the doubly uniparental inheritance (DUI) of mitochondrial DNA},
   author    = {Zouros, Eleftherios},
   journal   = {Evolutionary Biology},
   volume    = {40},
@@ -1125,7 +1126,7 @@
 }
 
 @article{salz2010sex,
-  title     = {{S}ex determination in \textit{{D}rosophila}: {T}he view from the top},
+  title     = {Sex determination in \textit{Drosophila}: The view from the top},
   author    = {Salz, Helen and Erickson, James W},
   journal   = {Fly},
   volume    = {4},
@@ -1136,10 +1137,10 @@
 }
 
 @article{pertea2015stringtie,
-  title     = {{S}tring{T}ie enables improved reconstruction of a transcriptome from {R}{N}{A}-seq reads},
+  title     = {StringTie enables improved reconstruction of a transcriptome from RNA-seq reads},
   author    = {Pertea, Mihaela and Pertea, Geo M and Antonescu, Corina M and Chang, Tsung-Cheng and Mendell, Joshua T and Salzberg, Steven L},
   year      = 2015,
-  journal   = {Nature Biotechnology},
+  journal   = {Nature biotechnology},
   publisher = {Nature Publishing Group US New York},
   volume    = 33,
   number    = 3,
@@ -1147,10 +1148,10 @@
 }
 
 @article{extavour2007evolutionGermline,
-  title     = {{E}volution of the bilaterian germ line: lineage origin and modulation of specification mechanisms},
+  title     = {Evolution of the bilaterian germ line: lineage origin and modulation of specification mechanisms},
   author    = {Extavour, Cassandra GM},
   year      = 2007,
-  journal   = {Integrative and Comparative Biology},
+  journal   = {Integrative and comparative biology},
   publisher = {Oxford University Press},
   volume    = 47,
   number    = 5,
@@ -1158,7 +1159,7 @@
 }
 
 @article{obata2012PCGspecification_molluscs,
-  title   = {{T}he mechanisms of primordial germ cell determination during embryogenesis in molluscan species},
+  title   = {The mechanisms of primordial germ cell determination during embryogenesis in molluscan species},
   author  = {Obata, M and Komaru, A},
   year    = 2012,
   journal = {Invertebrate Survival Journal},
@@ -1168,10 +1169,10 @@
 }
 
 @article{obata2005specific,
-  title     = {{S}pecific location of sperm mitochondria in mussel \textit{{M}ytilus galloprovincialis} zygotes stained by {M}ito{T}racker},
+  title     = {Specific location of sperm mitochondria in mussel \textit{Mytilus galloprovincialis} zygotes stained by MitoTracker},
   author    = {Obata, Mayu and Komaru, Akira},
   year      = 2005,
-  journal   = {Development, Growth \& Differentiation},
+  journal   = {Development, growth \& differentiation},
   publisher = {Wiley Online Library},
   volume    = 47,
   number    = 4,
@@ -1179,13 +1180,13 @@
 }
 
 @book{helm2004hatchery,
-  title  = {{H}atchery culture of bivalves: a practical manual},
+  title  = {Hatchery culture of bivalves: a practical manual},
   author = {Helm, Michael M and Bourne, Neil and Lovatelli, Alessandro},
   year   = 2004
 }
 
 @article{kenchington2009dui,
-  title     = {{P}aternal mt{D}{N}{A} and maleness are co-inherited but not causally linked in mytilid mussels},
+  title     = {Paternal mtDNA and maleness are co-inherited but not causally linked in mytilid mussels},
   author    = {Kenchington, Ellen L and Hamilton, Lorraine and Cogswell, Andrew and Zouros, Eleftherios},
   year      = 2009,
   journal   = {PLoS One},
@@ -1196,7 +1197,7 @@
 }
 
 @article{conesa2006masigpro,
-  title     = {ma{S}ig{P}ro: a method to identify significantly differential expression profiles in time-course microarray experiments},
+  title     = {maSigPro: a method to identify significantly differential expression profiles in time-course microarray experiments},
   author    = {Conesa, Ana and Nueda, Mar{\'\i}a Jos{\'e} and Ferrer, Alberto and Tal{\'o}n, Manuel},
   year      = 2006,
   journal   = {Bioinformatics},
@@ -1207,10 +1208,10 @@
 }
 
 @article{love2014deseq2,
-  title     = {{M}oderated estimation of fold change and dispersion for {R}{N}{A}-seq data with {D}{E}{S}eq2},
+  title     = {Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2},
   author    = {Love, Michael I and Huber, Wolfgang and Anders, Simon},
   year      = 2014,
-  journal   = {Genome Biology},
+  journal   = {Genome biology},
   publisher = {BioMed Central},
   volume    = 15,
   number    = 12,
@@ -1218,10 +1219,10 @@
 }
 
 @article{pertea2016stringtie,
-  title     = {{T}ranscript-level expression analysis of {R}{N}{A}-seq experiments with {H}{I}{S}{A}{T}, {S}tring{T}ie and {B}allgown},
+  title     = {Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown},
   author    = {Pertea, Mihaela and Kim, Daehwan and Pertea, Geo M and Leek, Jeffrey T and Salzberg, Steven L},
   year      = 2016,
-  journal   = {Nature Protocols},
+  journal   = {Nature protocols},
   publisher = {Nature Publishing Group},
   volume    = 11,
   number    = 9,
@@ -1229,7 +1230,7 @@
 }
 
 @article{miglioli2024hcrMytilus,
-  title     = {{T}he {M}editerranean mussel \textit{{M}ytilus galloprovincialis}: a novel model for developmental studies in mollusks},
+  title     = {The Mediterranean mussel \textit{Mytilus galloprovincialis}: a novel model for developmental studies in mollusks},
   author    = {Miglioli, Angelica and Tredez, Marion and Boosten, Manon and Sant, Camille and Carvalho, Jo{\~a}o E and Dru, Philippe and Canesi, Laura and Schubert, Michael and Dumollard, R{\'e}mi},
   year      = 2024,
   journal   = {Development},
@@ -1240,10 +1241,10 @@
 }
 
 @article{klein2013conserved,
-  title     = {{C}onserved structural domains in {F}ox{D}4{L}1, a neural forkhead box transcription factor, are required to repress or activate target genes},
+  title     = {Conserved structural domains in FoxD4L1, a neural forkhead box transcription factor, are required to repress or activate target genes},
   author    = {Klein, Steven L and Neilson, Karen M and Orban, John and Yaklichkin, Sergey and Hoffbauer, Jennifer and Mood, Kathy and Daar, Ira O and Moody, Sally A},
   year      = 2013,
-  journal   = {PLoS One},
+  journal   = {PloS one},
   publisher = {Public Library of Science San Francisco, USA},
   volume    = 8,
   number    = 4,
@@ -1251,7 +1252,7 @@
 }
 
 @article{qi2023construction,
-  title     = {{C}onstruction and analysis of the chromosome-level haplotype-resolved genomes of two \textit{{C}rassostrea} oyster congeners: \textit{{C}rassostrea angulata} and \textit{{C}rassostrea gigas}},
+  title     = {Construction and analysis of the chromosome-level haplotype-resolved genomes of two \textit{Crassostrea} oyster congeners: \textit{Crassostrea angulata} and \textit{Crassostrea gigas}},
   author    = {Qi, Haigang and Cong, Rihao and Wang, Yanjun and Li, Li and Zhang, Guofan},
   year      = 2023,
   journal   = {GigaScience},
@@ -1261,7 +1262,7 @@
 }
 
 @article{russo2013phylogenetic,
-  title     = {{P}hylogenetic analysis and a time tree for a large drosophilid data set ({D}iptera: {D}rosophilidae)},
+  title     = {Phylogenetic analysis and a time tree for a large drosophilid data set (Diptera: Drosophilidae)},
   author    = {Russo, Claudia AM and Mello, Beatriz and Fraz{\~a}o, Annelise and Voloch, Carolina M},
   year      = 2013,
   journal   = {Zoological Journal of the Linnean Society},
@@ -1272,7 +1273,7 @@
 }
 
 @article{foster1992evolution,
-  title     = {{E}volution of sex determination and the {Y} chromosome: \textit{{S}{R}{Y}}-related sequences in marsupials},
+  title     = {Evolution of sex determination and the Y chromosome: \textit{SRY}-related sequences in marsupials},
   author    = {Foster, Jamie W and Brennan, Francine E and Hampikian, Gregory K and Goodfellow, Peter N and Sinclair, Andrew H and Lovell-Badge, Robin and Selwood, Lynne and Renfree, Marilyn B and Cooper, Desmond W and Marshall Graves, Jennifer A},
   year      = 1992,
   journal   = {Nature},
@@ -1283,7 +1284,7 @@
 }
 
 @article{alvarez2022species,
-  title     = {{A} species-level timeline of mammal evolution integrating phylogenomic data},
+  title     = {A species-level timeline of mammal evolution integrating phylogenomic data},
   author    = {{\'A}lvarez-Carretero, Sandra and Tamuri, Asif U and Battini, Matteo and Nascimento, Fabr{\'\i}cia F and Carlisle, Emily and Asher, Robert J and Yang, Ziheng and Donoghue, Philip CJ and Dos Reis, Mario},
   year      = 2022,
   journal   = {Nature},
@@ -1294,7 +1295,7 @@
 }
 
 @article{song2023scaphopoda,
-  title     = {{S}caphopoda is the sister taxon to {B}ivalvia: {E}vidence of ancient incomplete lineage sorting},
+  title     = {Scaphopoda is the sister taxon to Bivalvia: Evidence of ancient incomplete lineage sorting},
   author    = {Song, Hao and Wang, Yunan and Shao, Haojing and Li, Zhuoqing and Hu, Pinli and Yap-Chiongco, Meghan K and Shi, Pu and Zhang, Tao and Li, Cui and Wang, Yiguan and others},
   year      = 2023,
   journal   = {Proceedings of the National Academy of Sciences},
@@ -1305,20 +1306,20 @@
 }
 
 @article{hemmer2016holding,
-  title     = {{H}olding it together: rapid evolution and positive selection in the synaptonemal complex of \textit{{D}rosophila}},
+  title     = {Holding it together: rapid evolution and positive selection in the synaptonemal complex of \textit{Drosophila}},
   author    = {Hemmer, Lucas W and Blumenstiel, Justin P},
   year      = 2016,
-  journal   = {BMC Evolutionary Biology},
+  journal   = {BMC evolutionary biology},
   publisher = {Springer},
   volume    = 16,
   pages     = {1--17}
 }
 
 @article{vinkler2023understanding,
-  title     = {{U}nderstanding the evolution of immune genes in jawed vertebrates},
+  title     = {Understanding the evolution of immune genes in jawed vertebrates},
   author    = {Vinkler, Michal and Fiddaman, Steven R and T{\v{e}}{\v{s}}ick{\`y}, Martin and O'Connor, Emily A and Savage, Anna E and Lenz, Tobias L and Smith, Adrian L and Kaufman, Jim and Bolnick, Daniel I and Davies, Charli S and others},
   year      = 2023,
-  journal   = {Journal of Evolutionary Biology},
+  journal   = {Journal of evolutionary biology},
   publisher = {Blackwell Publishing Ltd Oxford, UK},
   volume    = 36,
   number    = 6,
@@ -1326,7 +1327,7 @@
 }
 
 @article{murat2023molecular,
-  title     = {{T}he molecular evolution of spermatogenesis across mammals},
+  title     = {The molecular evolution of spermatogenesis across mammals},
   author    = {Murat, Florent and Mbengue, Noe and Winge, Sofia Boeg and Trefzer, Timo and Leushkin, Evgeny and Sepp, Mari and Cardoso-Moreira, Margarida and Schmidt, Julia and Schneider, Celine and M{\"o}{\ss}inger, Katharina and others},
   year      = 2023,
   journal   = {Nature},
@@ -1337,10 +1338,10 @@
 }
 
 @article{renschler2019hi,
-  title     = {{H}i-{C} guided assemblies reveal conserved regulatory topologies on {X} and autosomes despite extensive genome shuffling},
+  title     = {Hi-C guided assemblies reveal conserved regulatory topologies on X and autosomes despite extensive genome shuffling},
   author    = {Renschler, Gina and Richard, Gautier and Valsecchi, Claudia Isabelle Keller and Toscano, Sarah and Arrigoni, Laura and Ram{\'\i}rez, Fidel and Akhtar, Asifa},
   year      = 2019,
-  journal   = {Genes \& Development},
+  journal   = {Genes \& development},
   publisher = {Cold Spring Harbor Lab},
   volume    = 33,
   number    = {21-22},
@@ -1348,10 +1349,10 @@
 }
 
 @article{mai2020patterns,
-  title     = {{P}atterns of genomic differentiation in the \textit{{D}rosophila nasuta} species complex},
+  title     = {Patterns of genomic differentiation in the \textit{Drosophila nasuta} species complex},
   author    = {Mai, Dat and Nalley, Matthew J and Bachtrog, Doris},
   year      = 2020,
-  journal   = {Molecular Biology and Evolution},
+  journal   = {Molecular biology and evolution},
   publisher = {Oxford University Press},
   volume    = 37,
   number    = 1,
@@ -1359,7 +1360,7 @@
 }
 
 @article{dong2022new,
-  title     = {{N}ew gene evolution with subcellular expression patterns detected in {P}ac{B}io-sequenced genomes of \textit{{D}rosophila} genus},
+  title     = {New gene evolution with subcellular expression patterns detected in PacBio-sequenced genomes of \textit{Drosophila} genus},
   author    = {Dong, Chuan and Zhang, Li and Xia, Shengqian and Sosa, Dylan and Arsala, Deanna and Long, Manyuan},
   year      = 2022,
   journal   = {bioRxiv},
@@ -1368,7 +1369,7 @@
 }
 
 @article{sanchez2016genome,
-  title     = {{G}enome evolution in three species of cactophilic \textit{{D}rosophila}},
+  title     = {Genome evolution in three species of cactophilic \textit{Drosophila}},
   author    = {Sanchez-Flores, Alejandro and Pe{\~n}aloza, Fernando and Carpinteyro-Ponce, Javier and Nazario-Yepiz, Nestor and Abreu-Goodger, Cei and Machado, Carlos A and Markow, Therese Ann},
   year      = 2016,
   journal   = {G3: Genes, Genomes, Genetics},
@@ -1379,7 +1380,7 @@
 }
 
 @article{ranz2023gene,
-  title     = {{G}ene expression differentiation in the reproductive tissues of \textit{{D}rosophila willistoni} subspecies and their hybrids},
+  title     = {Gene expression differentiation in the reproductive tissues of \textit{Drosophila willistoni} subspecies and their hybrids},
   author    = {Ranz, Jos{\'e} M and Go, Alwyn C and Gonz{\'a}lez, Pablo M and Clifton, Bryan D and Gomes, Suzanne and Jaberyzadeh, Amirali and Woodbury, Amanda and Chan, Carolus and Gandasetiawan, Kania A and Jayasekera, Suvini and others},
   year      = 2023,
   journal   = {Molecular Ecology},
@@ -1390,10 +1391,10 @@
 }
 
 @article{mahajan2018novo,
-  title     = {{D}e novo assembly of a young \textit{{D}rosophila} {Y} chromosome using single-molecule sequencing and chromatin conformation capture},
+  title     = {De novo assembly of a young \textit{Drosophila} Y chromosome using single-molecule sequencing and chromatin conformation capture},
   author    = {Mahajan, Shivani and Wei, Kevin H-C and Nalley, Matthew J and Gibilisco, Lauren and Bachtrog, Doris},
   year      = 2018,
-  journal   = {PLoS Biology},
+  journal   = {PLoS biology},
   publisher = {Public Library of Science San Francisco, CA USA},
   volume    = 16,
   number    = 7,
@@ -1401,10 +1402,10 @@
 }
 
 @article{liao2021topologically,
-  title     = {{T}opologically associating domains and their role in the evolution of genome structure and function in \textit{{D}rosophila}},
+  title     = {Topologically associating domains and their role in the evolution of genome structure and function in \textit{Drosophila}},
   author    = {Liao, Yi and Zhang, Xinwen and Chakraborty, Mahul and Emerson, JJ},
   year      = 2021,
-  journal   = {Genome Research},
+  journal   = {Genome research},
   publisher = {Cold Spring Harbor Lab},
   volume    = 31,
   number    = 3,
@@ -1412,10 +1413,10 @@
 }
 
 @article{tvedte2021comparison,
-  title     = {{C}omparison of long-read sequencing technologies in interrogating bacteria and fly genomes},
+  title     = {Comparison of long-read sequencing technologies in interrogating bacteria and fly genomes},
   author    = {Tvedte, Eric S and Gasser, Mark and Sparklin, Benjamin C and Michalski, Jane and Hjelmen, Carl E and Johnston, J Spencer and Zhao, Xuechu and Bromley, Robin and Tallon, Luke J and Sadzewicz, Lisa and others},
   year      = 2021,
-  journal   = {G3: Genes, Genomes, Genetics},
+  journal   = {G3},
   publisher = {Oxford University Press},
   volume    = 11,
   number    = 6,
@@ -1423,7 +1424,7 @@
 }
 
 @article{allen2017single,
-  title     = {{S}ingle-molecule sequencing of the \textit{{D}rosophila serrata} genome},
+  title     = {Single-molecule sequencing of the \textit{Drosophila serrata} genome},
   author    = {Allen, Scott L and Delaney, Emily K and Kopp, Artyom and Chenoweth, Stephen F},
   year      = 2017,
   journal   = {G3: Genes, Genomes, Genetics},
@@ -1434,20 +1435,20 @@
 }
 
 @article{kim2021highly,
-  title     = {{H}ighly contiguous assemblies of 101 drosophilid genomes},
+  title     = {Highly contiguous assemblies of 101 drosophilid genomes},
   author    = {Kim, Bernard Y and Wang, Jeremy R and Miller, Danny E and Barmina, Olga and Delaney, Emily and Thompson, Ammon and Comeault, Aaron A and Peede, David and D'Agostino, Emmanuel RR and Pelaez, Julianne and others},
   year      = 2021,
-  journal   = {eLife},
+  journal   = {Elife},
   publisher = {eLife Sciences Publications Limited},
   volume    = 10,
   pages     = {e66405}
 }
 
 @article{paris2020near,
-  title     = {{N}ear-chromosome level genome assembly of the fruit pest \textit{{D}rosophila suzukii} using long-read sequencing},
+  title     = {Near-chromosome level genome assembly of the fruit pest \textit{Drosophila suzukii} using long-read sequencing},
   author    = {Paris, Mathilde and Boyer, Roxane and Jaenichen, Rita and Wolf, Jochen and Karageorgi, Marianthi and Green, Jack and Cagnon, Mathilde and Parinello, Hugues and Estoup, Arnaud and Gautier, Mathieu and others},
   year      = 2020,
-  journal   = {Scientific Reports},
+  journal   = {Scientific reports},
   publisher = {Nature Publishing Group UK London},
   volume    = 10,
   number    = 1,
@@ -1455,10 +1456,10 @@
 }
 
 @article{hoskins2015release,
-  title     = {{T}he {R}elease 6 reference sequence of the \textit{{D}rosophila melanogaster} genome},
+  title     = {The Release 6 reference sequence of the \textit{Drosophila melanogaster} genome},
   author    = {Hoskins, Roger A and Carlson, Joseph W and Wan, Kenneth H and Park, Soo and Mendez, Ivonne and Galle, Samuel E and Booth, Benjamin W and Pfeiffer, Barret D and George, Reed A and Svirskas, Robert and others},
   year      = 2015,
-  journal   = {Genome Research},
+  journal   = {Genome research},
   publisher = {Cold Spring Harbor Lab},
   volume    = 25,
   number    = 3,
@@ -1466,10 +1467,10 @@
 }
 
 @article{chakraborty2021evolution,
-  title     = {{E}volution of genome structure in the \textit{{D}rosophila simulans} species complex},
+  title     = {Evolution of genome structure in the \textit{Drosophila simulans} species complex},
   author    = {Chakraborty, Mahul and Chang, Ching-Ho and Khost, Danielle E and Vedanayagam, Jeffrey and Adrion, Jeffrey R and Liao, Yi and Montooth, Kristi L and Meiklejohn, Colin D and Larracuente, Amanda M and Emerson, JJ},
   year      = 2021,
-  journal   = {Genome Research},
+  journal   = {Genome research},
   publisher = {Cold Spring Harbor Lab},
   volume    = 31,
   number    = 3,
@@ -1477,7 +1478,7 @@
 }
 
 @article{habtewold2023chromosomal,
-  title     = {{A} chromosomal reference genome sequence for the malaria mosquito, \textit{{A}nopheles gambiae}, {G}iles, 1902, {I}fakara strain},
+  title     = {A chromosomal reference genome sequence for the malaria mosquito, \textit{Anopheles gambiae}, Giles, 1902, Ifakara strain},
   author    = {Habtewold, Tibebu and Wagah, Martin and Tambwe, Mgeni Mohamed and Moore, Sarah and Windbichler, Nikolai and Christophides, George and Johnson, Harriet and Heaton, Haynes and Collins, Joanna and Krasheninnikova, Ksenia and others},
   year      = 2023,
   journal   = {Wellcome Open Research},
@@ -1486,10 +1487,10 @@
 }
 
 @article{swanson2002rapid,
-  title     = {{T}he rapid evolution of reproductive proteins},
+  title     = {The rapid evolution of reproductive proteins},
   author    = {Swanson, Willie J and Vacquier, Victor D},
   year      = 2002,
-  journal   = {Nature Reviews Genetics},
+  journal   = {Nature reviews genetics},
   publisher = {Nature Publishing Group UK London},
   volume    = 3,
   number    = 2,
@@ -1497,7 +1498,7 @@
 }
 
 @article{echave2016causes,
-  title     = {{C}auses of evolutionary rate variation among protein sites},
+  title     = {Causes of evolutionary rate variation among protein sites},
   author    = {Echave, Julian and Spielman, Stephanie J and Wilke, Claus O},
   year      = 2016,
   journal   = {Nature Reviews Genetics},
@@ -1508,7 +1509,7 @@
 }
 
 @article{sun2022examination,
-  title     = {{E}xamination of the roles of \textit{{F}oxl2} and \textit{{D}mrt1} in sex differentiation and gonadal development of oysters by using {R}{N}{A} interference},
+  title     = {Examination of the roles of \textit{Foxl2} and \textit{Dmrt1} in sex differentiation and gonadal development of oysters by using RNA interference},
   author    = {Sun, Dongfang and Yu, Hong and Li, Qi},
   year      = 2022,
   journal   = {Aquaculture},
@@ -1518,7 +1519,7 @@
 }
 
 @article{liang2019sox2,
-  title     = {\textit{{S}{O}{X}2} participates in spermatogenesis of {Z}hikong scallop \textit{{C}hlamys farreri}},
+  title     = {\textit{SOX2} participates in spermatogenesis of Zhikong scallop \textit{Chlamys farreri}},
   author    = {Liang, Shaoshuai and Liu, Danwen and Li, Xixi and Wei, Maokai and Yu, Xiaohan and Li, Qi and Ma, Huixin and Zhang, Zhifeng and Qin, Zhenkui},
   year      = 2019,
   journal   = {Scientific Reports},
@@ -1529,7 +1530,7 @@
 }
 
 @article{shi2018proteome,
-  title     = {{P}roteome and transcriptome analysis of ovary, intersex gonads, and testis reveals potential key sex reversal/differentiation genes and mechanism in scallop \textit{{C}hlamys nobilis}},
+  title     = {Proteome and transcriptome analysis of ovary, intersex gonads, and testis reveals potential key sex reversal/differentiation genes and mechanism in scallop \textit{Chlamys nobilis}},
   author    = {Shi, Yu and Liu, Wenguang and He, Maoxian},
   year      = 2018,
   journal   = {Marine Biotechnology},
@@ -1539,20 +1540,20 @@
 }
 
 @article{marshall2010homologies,
-  title     = {{A}re homologies in vertebrate sex determination due to shared ancestry or to limited options?},
+  title     = {Are homologies in vertebrate sex determination due to shared ancestry or to limited options?},
   author    = {Marshall Graves, Jennifer A and Peichel, Catherine L},
   year      = 2010,
-  journal   = {Genome Biology},
+  journal   = {Genome biology},
   publisher = {Springer},
   volume    = 11,
   pages     = {1--12}
 }
 
 @article{milani2014paternally,
-  title     = {{P}aternally transmitted mitochondria express a new gene of potential viral origin},
+  title     = {Paternally transmitted mitochondria express a new gene of potential viral origin},
   author    = {Milani, Liliana and Ghiselli, Fabrizio and Maurizii, Maria Gabriella and Nuzhdin, Sergey V and Passamonti, Marco},
   year      = 2014,
-  journal   = {Genome Biology and Evolution},
+  journal   = {Genome biology and evolution},
   publisher = {Oxford University Press},
   volume    = 6,
   number    = 2,
@@ -1560,7 +1561,7 @@
 }
 
 @article{zhang2014genomic,
-  title     = {{G}enomic analysis of the {P}acific oyster (\textit{{C}rassostrea gigas}) reveals possible conservation of vertebrate sex determination in a mollusc},
+  title     = {Genomic analysis of the Pacific oyster (\textit{Crassostrea gigas}) reveals possible conservation of vertebrate sex determination in a mollusc},
   author    = {Zhang, Na and Xu, Fei and Guo, Ximing},
   year      = 2014,
   journal   = {G3: Genes, Genomes, Genetics},
@@ -1571,7 +1572,7 @@
 }
 
 @article{whitfield1993mammal_sry,
-  title     = {{R}apid sequence evolution of the mammalian sex-determining gene \textit{{S}{R}{Y}}},
+  title     = {Rapid sequence evolution of the mammalian sex-determining gene \textit{SRY}},
   author    = {Whitfield, L Simon and Lovell-Badge, Robin and Goodfellow, Peter N},
   year      = 1993,
   journal   = {Nature},
@@ -1582,7 +1583,7 @@
 }
 
 @article{nie2018rna,
-  title     = {{R}{N}{A}-{S}eq analysis of differentially expressed genes in the grand jackknife clam \textit{{S}olen grandis} under aerial exposure},
+  title     = {RNA-Seq analysis of differentially expressed genes in the grand jackknife clam \textit{Solen grandis} under aerial exposure},
   author    = {Nie, Hongtao and Dong, Shasha and Li, Dongdong and Zheng, Mengge and Jiang, Liwen and Li, Xiaodong and Yan, Xiwu},
   year      = 2018,
   journal   = {Comparative Biochemistry and Physiology Part D: Genomics and Proteomics},
@@ -1592,7 +1593,7 @@
 }
 
 @article{putnam2022dynamic,
-  title     = {{D}ynamic {D}{N}{A} methylation contributes to carryover effects and beneficial acclimatization in geoduck clams},
+  title     = {Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams},
   author    = {Putnam, Hollie M and Trigg, Shelly A and White, Samuel J and Spencer, Laura H and Vadopalas, Brent and Natarajan, Aparna and Hetzel, Jonathan and Jaeger, Erich and Soohoo, Jonathan and Gallardo-Esc{\'a}rate, Cristian and others},
   year      = 2022,
   journal   = {bioRxiv},
@@ -1601,7 +1602,7 @@
 }
 
 @article{lan2019host,
-  title     = {{H}ost--symbiont interactions in deep-sea chemosymbiotic vesicomyid clams: insights from transcriptome sequencing},
+  title     = {Host--symbiont interactions in deep-sea chemosymbiotic vesicomyid clams: insights from transcriptome sequencing},
   author    = {Lan, Yi and Sun, Jin and Zhang, Weipeng and Xu, Ting and Zhang, Yu and Chen, Chong and Feng, Dong and Wang, Hongbin and Tao, Jun and Qiu, Jian-Wen and others},
   year      = 2019,
   journal   = {Frontiers in Marine Science},
@@ -1611,7 +1612,7 @@
 }
 
 @article{briones2018novo,
-  title     = {{D}e novo male gonad transcriptome draft for the marine mussel \textit{{P}erumytilus purpuratus} with a focus on its reproductive-related proteins},
+  title     = {De novo male gonad transcriptome draft for the marine mussel \textit{Perumytilus purpuratus} with a focus on its reproductive-related proteins},
   author    = {Briones, Carolina and Nu{\~n}ez, Jos{\'e} J and P{\'e}rez, Montse and Espinoza-Rojas, Daniela and Molina-Quiroz, Cristian and Gui{\~n}ez, Ricardo},
   year      = 2018,
   journal   = {Journal of Genomics},
@@ -1621,7 +1622,7 @@
 }
 
 @article{meng2018transcriptome,
-  title     = {{T}ranscriptome assembly of {M}odiolus modiolus and comparative analysis with \textit{{B}athymodiolus platifrons}},
+  title     = {Transcriptome assembly of Modiolus modiolus and comparative analysis with \textit{Bathymodiolus platifrons}},
   author    = {Meng, Jie and Yang, Mei and Xu, Fei and Li, Xinzheng and Li, Li},
   year      = 2018,
   journal   = {Acta Oceanologica Sinica},
@@ -1631,7 +1632,7 @@
 }
 
 @article{shimizu2022evolution,
-  title     = {{E}volution of nacre-and prisms-related shell matrix proteins in the pen shell, \textit{{A}trina pectinata}},
+  title     = {Evolution of nacre-and prisms-related shell matrix proteins in the pen shell, \textit{Atrina pectinata}},
   author    = {Shimizu, Keisuke and Negishi, Lumi and Ito, Takumi and Touma, Shogo and Matsumoto, Toshie and Awaji, Masahiko and Kurumizaka, Hitoshi and Yoshitake, Kazutoshi and Kinoshita, Shigeharu and Asakawa, Shuichi and others},
   year      = 2022,
   journal   = {Comparative Biochemistry and Physiology Part D: Genomics and Proteomics},
@@ -1641,9 +1642,9 @@
 }
 
 @article{kumano2015evolution,
-  title     = {{E}volution of germline segregation processes in animal development},
+  title     = {Evolution of germline segregation processes in animal development},
   author    = {Kumano, Gaku},
-  journal   = {Development, Growth \& Differentiation},
+  journal   = {Development, growth \& differentiation},
   volume    = {57},
   number    = {4},
   pages     = {324--332},
@@ -1652,7 +1653,7 @@
 }
 
 @article{deBono1996caenorhabditis_tra,
-  title     = {{E}volution of sex determination in \textit{{C}aenorhabditis}: unusually high divergence of \textit{tra-1} and its functional consequences},
+  title     = {Evolution of sex determination in \textit{Caenorhabditis}: unusually high divergence of \textit{tra-1} and its functional consequences},
   author    = {de Bono, Mario and Hodgkin, Jonathan},
   year      = 1996,
   journal   = {Genetics},
@@ -1663,7 +1664,7 @@
 }
 
 @article{collin2013phylogenetic,
-  title     = {{P}hylogenetic patterns and phenotypic plasticity of molluscan sexual systems},
+  title     = {Phylogenetic patterns and phenotypic plasticity of molluscan sexual systems},
   author    = {Collin, Rachel},
   year      = 2013,
   journal   = {Integrative and Comparative Biology},
@@ -1674,10 +1675,10 @@
 }
 
 @article{corrochano2022evidence,
-  title     = {{E}vidence of multiple genome duplication events in \textit{{M}ytilus} evolution},
+  title     = {Evidence of multiple genome duplication events in \textit{Mytilus} evolution},
   author    = {Corrochano-Fraile, Ana and Davie, Andrew and Carboni, Stefano and Bekaert, Micha{\"e}l},
   year      = 2022,
-  journal   = {BMC Genomics},
+  journal   = {BMC genomics},
   publisher = {Springer},
   volume    = 23,
   number    = 1,
@@ -1685,7 +1686,7 @@
 }
 
 @article{cutter2005sexual,
-  title     = {{S}exual and temporal dynamics of molecular evolution in \textit{{C}. elegans} development},
+  title     = {Sexual and temporal dynamics of molecular evolution in \textit{C. elegans} development},
   author    = {Cutter, Asher D and Ward, Samuel},
   year      = 2005,
   journal   = {Molecular Biology and Evolution},
@@ -1696,30 +1697,30 @@
 }
 
 @article{dermauw2020diversity,
-  title     = {{D}iversity and evolution of the {P}450 family in arthropods},
+  title     = {Diversity and evolution of the P450 family in arthropods},
   author    = {Dermauw, Wannes and Van Leeuwen, Thomas and Feyereisen, Ren{\'e}},
   year      = 2020,
-  journal   = {Insect Biochemistry and Molecular Biology},
+  journal   = {Insect biochemistry and molecular biology},
   publisher = {Elsevier},
   volume    = 127,
   pages     = 103490
 }
 
 @article{eads2007profiling,
-  title     = {{P}rofiling sex-biased gene expression during parthenogenetic reproduction in \textit{{D}aphnia pulex}},
+  title     = {Profiling sex-biased gene expression during parthenogenetic reproduction in \textit{Daphnia pulex}},
   author    = {Eads, Brian D and Colbourne, John K and Bohuski, Elizabeth and Andrews, Justen},
   year      = 2007,
-  journal   = {BMC Genomics},
+  journal   = {BMC genomics},
   publisher = {Springer},
   volume    = 8,
   pages     = {1--14}
 }
 
 @article{eddy2011accelerated,
-  title     = {{A}ccelerated profile {H}{M}{M} searches},
+  title     = {Accelerated profile HMM searches},
   author    = {Eddy, Sean R},
   year      = 2011,
-  journal   = {PLoS Computational Biology},
+  journal   = {PLoS computational biology},
   publisher = {Public Library of Science San Francisco, USA},
   volume    = 7,
   number    = 10,
@@ -1727,17 +1728,17 @@
 }
 
 @article{gerdol2020massive,
-  title     = {{M}assive gene presence-absence variation shapes an open pan-genome in the {M}editerranean mussel},
+  title     = {Massive gene presence-absence variation shapes an open pan-genome in the Mediterranean mussel},
   author    = {Gerdol, Marco and Moreira, Rebeca and Cruz, Fernando and G{\'o}mez-Garrido, Jessica and Vlasova, Anna and Rosani, Umberto and Venier, Paola and Naranjo-Ortiz, Miguel A and Murgarella, Maria and Greco, Samuele and others},
   year      = 2020,
-  journal   = {Genome Biology},
+  journal   = {Genome biology},
   publisher = {Springer},
   volume    = 21,
   pages     = {1--21}
 }
 
 @article{ghiselli2021bivalve,
-  title     = {{B}ivalve molluscs as model systems for studying mitochondrial biology},
+  title     = {Bivalve molluscs as model systems for studying mitochondrial biology},
   author    = {Ghiselli, Fabrizio and Iannello, Mariangela and Piccinini, Giovanni and Milani, Liliana},
   year      = 2021,
   journal   = {Integrative and Comparative Biology},
@@ -1748,10 +1749,10 @@
 }
 
 @article{gomes2021crown,
-  title     = {{T}he {C}rown {P}earl: a draft genome assembly of the {E}uropean freshwater pearl mussel \textit{{M}argaritifera margaritifera} ({L}innaeus, 1758)},
+  title     = {The Crown Pearl: a draft genome assembly of the European freshwater pearl mussel \textit{Margaritifera margaritifera} (Linnaeus, 1758)},
   author    = {Gomes-dos-Santos, Andr{\'e} and Lopes-Lima, Manuel and Machado, Andr{\'e} M and Marcos Ramos, Ant{\'o}nio and Usi{\'e}, Ana and Bolotov, Ivan N and Vikhrev, Ilya V and Breton, Sophie and Castro, L Filipe C and da Fonseca, Rute R and others},
   year      = 2021,
-  journal   = {DNA Research},
+  journal   = {DNA research},
   publisher = {Oxford University Press},
   volume    = 28,
   number    = 2,
@@ -1759,10 +1760,10 @@
 }
 
 @article{grabherr2011trinity,
-  title     = {{T}rinity: reconstructing a full-length transcriptome without a genome from {R}{N}{A}-{S}eq data},
+  title     = {Trinity: reconstructing a full-length transcriptome without a genome from RNA-Seq data},
   author    = {Grabherr, Manfred G and Haas, Brian J and Yassour, Moran and Levin, Joshua Z and Thompson, Dawn A and Amit, Ido and Adiconis, Xian and Fan, Lin and Raychowdhury, Raktima and Zeng, Qiandong and others},
   year      = 2011,
-  journal   = {Nature Biotechnology},
+  journal   = {Nature biotechnology},
   publisher = {NIH Public Access},
   volume    = 29,
   number    = 7,
@@ -1770,7 +1771,7 @@
 }
 
 @article{grau2021orthology,
-  title     = {{O}rthology clusters from gene trees with {P}ossvm},
+  title     = {Orthology clusters from gene trees with Possvm},
   author    = {Grau-Bov{\'e}, Xavier and Seb{\'e}-Pedr{\'o}s, Arnau},
   year      = 2021,
   journal   = {Molecular Biology and Evolution},
@@ -1781,7 +1782,7 @@
 }
 
 @article{han2010characterization,
-  title     = {{C}haracterization, phylogeny, alternative splicing and expression of \textit{{S}ox30} gene},
+  title     = {Characterization, phylogeny, alternative splicing and expression of \textit{Sox30} gene},
   author    = {Han, Fei and Wang, Zhijian and Wu, Fengrui and Liu, Zhihao and Huang, Baofeng and Wang, Deshou},
   year      = 2010,
   journal   = {BMC Molecular Biology},
@@ -1791,7 +1792,7 @@
 }
 
 @article{heenan2016evolution,
-  title     = {{E}volution of the {S}ox gene family within the chordate phylum},
+  title     = {Evolution of the Sox gene family within the chordate phylum},
   author    = {Heenan, Phoebe and Zondag, Lisa and Wilson, Megan J},
   year      = 2016,
   journal   = {Gene},
@@ -1802,7 +1803,7 @@
 }
 
 @article{iannello2023signatures,
-  title     = {{S}ignatures of extreme longevity: a perspective from bivalve molecular evolution},
+  title     = {Signatures of extreme longevity: a perspective from bivalve molecular evolution},
   author    = {Iannello, Mariangela and Forni, Giobbe and Piccinini, Giovanni and Xu, Ran and Martelossi, Jacopo and Ghiselli, Fabrizio and Milani, Liliana},
   year      = 2023,
   journal   = {Genome Biology and Evolution},
@@ -1813,7 +1814,7 @@
 }
 
 @article{inoue2021genomics,
-  title     = {{G}enomics and transcriptomics of the green mussel explain the durability of its byssus},
+  title     = {Genomics and transcriptomics of the green mussel explain the durability of its byssus},
   author    = {Inoue, Koji and Yoshioka, Yuki and Tanaka, Hiroyuki and Kinjo, Azusa and Sassa, Mieko and Ueda, Ikuo and Shinzato, Chuya and Toyoda, Atsushi and Itoh, Takehiko},
   year      = 2021,
   journal   = {Scientific Reports},
@@ -1824,7 +1825,7 @@
 }
 
 @article{ip2021host,
-  title     = {{H}ost--endosymbiont genome integration in a deep-sea chemosymbiotic clam},
+  title     = {Host--endosymbiont genome integration in a deep-sea chemosymbiotic clam},
   author    = {Ip, Jack Chi-Ho and Xu, Ting and Sun, Jin and Li, Runsheng and Chen, Chong and Lan, Yi and Han, Zhuang and Zhang, Haibin and Wei, Jiangong and Wang, Hongbin and others},
   year      = 2021,
   journal   = {Molecular Biology and Evolution},
@@ -1835,17 +1836,17 @@
 }
 
 @article{jackson2010update,
-  title     = {{U}pdate of human and mouse forkhead box ({F}{O}{X}) gene families},
+  title     = {Update of human and mouse forkhead box (FOX) gene families},
   author    = {Jackson, Brian C and Carpenter, Christopher and Nebert, Daniel W and Vasiliou, Vasilis},
   year      = 2010,
-  journal   = {Human Genomics},
+  journal   = {Human genomics},
   publisher = {Springer},
   volume    = 4,
   pages     = {1--8}
 }
 
 @article{jombart2010adephylo,
-  title   = {{A}dephylo: exploratory analyses for the phylogenetic comparative method},
+  title   = {Adephylo: exploratory analyses for the phylogenetic comparative method},
   author  = {Jombart, Thibaut and Dray, St{\'e}phane},
   year    = 2010,
   journal = {Bioinformatics},
@@ -1855,10 +1856,10 @@
 }
 
 @article{kenny2020gene,
-  title     = {{T}he gene-rich genome of the scallop \textit{{P}ecten maximus}},
+  title     = {The gene-rich genome of the scallop \textit{Pecten maximus}},
   author    = {Kenny, Nathan J and McCarthy, Shane A and Dudchenko, Olga and James, Katherine and Betteridge, Emma and Corton, Craig and Dolucan, Jale and Mead, Dan and Oliver, Karen and Omer, Arina D and others},
   year      = 2020,
-  journal   = {GigaScience},
+  journal   = {Gigascience},
   publisher = {Oxford University Press},
   volume    = 9,
   number    = 5,
@@ -1866,7 +1867,7 @@
 }
 
 @article{khaitovich2005parallel,
-  title     = {{P}arallel patterns of evolution in the genomes and transcriptomes of humans and chimpanzees},
+  title     = {Parallel patterns of evolution in the genomes and transcriptomes of humans and chimpanzees},
   author    = {Khaitovich, Philipp and Hellmann, Ines and Enard, Wolfgang and Nowick, Katja and Leinweber, Marcus and Franz, Henriette and Weiss, Gunter and Lachmann, Michael and Paabo, Svante},
   year      = 2005,
   journal   = {Science},
@@ -1877,7 +1878,7 @@
 }
 
 @article{kopp2012dmrt,
-  title     = {{D}mrt genes in the development and evolution of sexual dimorphism},
+  title     = {Dmrt genes in the development and evolution of sexual dimorphism},
   author    = {Kopp, Artyom},
   year      = 2012,
   journal   = {Trends in Genetics},
@@ -1888,7 +1889,7 @@
 }
 
 @article{kousathanas2014faster,
-  title     = {{F}aster-{X} adaptive protein evolution in house mice},
+  title     = {Faster-X adaptive protein evolution in house mice},
   author    = {Kousathanas, Athanasios and Halligan, Daniel L and Keightley, Peter D},
   year      = 2014,
   journal   = {Genetics},
@@ -1899,10 +1900,10 @@
 }
 
 @article{larroux2008genesis,
-  title     = {{G}enesis and expansion of metazoan transcription factor gene classes},
+  title     = {Genesis and expansion of metazoan transcription factor gene classes},
   author    = {Larroux, Claire and Luke, Graham N and Koopman, Peter and Rokhsar, Daniel S and Shimeld, Sebastian M and Degnan, Bernard M},
   year      = 2008,
-  journal   = {Molecular Biology and Evolution},
+  journal   = {Molecular biology and evolution},
   publisher = {Oxford University Press},
   volume    = 25,
   number    = 5,
@@ -1910,7 +1911,7 @@
 }
 
 @article{lemoine2021gotree,
-  title     = {{G}otree/{G}oalign: toolkit and {G}o {A}{P}{I} to facilitate the development of phylogenetic workflows},
+  title     = {Gotree/Goalign: toolkit and Go API to facilitate the development of phylogenetic workflows},
   author    = {Lemoine, Fr{\'e}d{\'e}ric and Gascuel, Olivier},
   year      = 2021,
   journal   = {NAR Genomics and Bioinformatics},
@@ -1921,7 +1922,7 @@
 }
 
 @article{li2021genome,
-  title     = {{G}enome of the estuarine oyster provides insights into climate impact and adaptive plasticity},
+  title     = {Genome of the estuarine oyster provides insights into climate impact and adaptive plasticity},
   author    = {Li, Ao and Dai, He and Guo, Ximing and Zhang, Ziyan and Zhang, Kexin and Wang, Chaogang and Wang, Xinxing and Wang, Wei and Chen, Hongju and Li, Xumin and others},
   year      = 2021,
   journal   = {Communications Biology},
@@ -1932,7 +1933,7 @@
 }
 
 @article{li2023miniprot,
-  title     = {{P}rotein-to-genome alignment with miniprot},
+  title     = {Protein-to-genome alignment with miniprot},
   author    = {Li, Heng},
   year      = 2023,
   journal   = {Bioinformatics},
@@ -1943,7 +1944,7 @@
 }
 
 @article{liu2024characterization,
-  title     = {{C}haracterization and expression patterns of the {F}ox gene family under heat and cold stress in {M}anila clam \textit{{R}uditapes philippinarum} based on genome-wide identification},
+  title     = {Characterization and expression patterns of the Fox gene family under heat and cold stress in Manila clam \textit{Ruditapes philippinarum} based on genome-wide identification},
   author    = {Liu, Tao and Zhang, Yue and Nie, Hongtao and Sun, Jingxian and Yan, Xiwu},
   year      = 2024,
   journal   = {Comparative Biochemistry and Physiology Part D: Genomics and Proteomics},
@@ -1953,7 +1954,7 @@
 }
 
 @article{liu2020draft,
-  title     = {{D}raft genomes of two {A}tlantic bay scallop subspecies \textit{{A}rgopecten irradians irradians} and \textit{{A}. i. concentricus}},
+  title     = {Draft genomes of two Atlantic bay scallop subspecies \textit{Argopecten irradians irradians} and \textit{A. i. concentricus}},
   author    = {Liu, Xiao and Li, Chao and Chen, Min and Liu, Bo and Yan, Xiaojun and Ning, Junhao and Ma, Bin and Liu, Guilong and Zhong, Zhaoshan and Jia, Yanglei and others},
   year      = 2020,
   journal   = {Scientific Data},
@@ -1964,7 +1965,7 @@
 }
 
 @article{nicolini2023bivalves,
-  title     = {{B}ivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view},
+  title     = {Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view},
   author    = {Nicolini, Filippo and Ghiselli, Fabrizio and Luchetti, Andrea and Milani, Liliana},
   year      = 2023,
   journal   = {Genome Biology and Evolution},
@@ -1975,7 +1976,7 @@
 }
 
 @article{seudre2022fox,
-  title     = {{T}he \textit{{F}ox} gene repertoire in the annelid \textit{{O}wenia fusiformis} reveals multiple expansions of the \textit{fox{Q}2} class in {S}piralia},
+  title     = {The \textit{Fox} gene repertoire in the annelid \textit{Owenia fusiformis} reveals multiple expansions of the \textit{foxQ2} class in Spiralia},
   author    = {Seudre, Oc{\'e}ane and Mart{\'\i}n-Zamora, Francisco M and Rapisarda, Valentina and Luqman, Imran and Carrillo-Baltodano, Allan M and Mart{\'\i}n-Dur{\'a}n, Jos{\'e} M},
   year      = 2022,
   journal   = {Genome Biology and Evolution},
@@ -1986,10 +1987,10 @@
 }
 
 @article{schomburg2022phylogenetic,
-  title     = {{P}hylogenetic analysis of forkhead transcription factors in the {P}anarthropoda},
+  title     = {Phylogenetic analysis of forkhead transcription factors in the Panarthropoda},
   author    = {Schomburg, Christoph and Janssen, Ralf and Prpic, Nikola-Michael},
   year      = 2022,
-  journal   = {Development Genes and Evolution},
+  journal   = {Development genes and evolution},
   publisher = {Springer},
   volume    = 232,
   number    = 1,
@@ -1997,7 +1998,7 @@
 }
 
 @article{wang2024genome,
-  title     = {{G}enome-wide identification and expression analysis of {S}ox gene family in the {M}anila clam (\textit{{R}uditapes philippinarum})},
+  title     = {Genome-wide identification and expression analysis of Sox gene family in the Manila clam (\textit{Ruditapes philippinarum})},
   author    = {Wang, Jiadi and Nie, Hongtao},
   year      = 2024,
   journal   = {Comparative Biochemistry and Physiology Part D: Genomics and Proteomics},
@@ -2007,7 +2008,7 @@
 }
 
 @article{nicolini2023comparative,
-  title     = {{C}omparative genomics of {H}ox and {P}ara{H}ox genes among major lineages of {B}ranchiopoda with emphasis on tadpole shrimps},
+  title     = {Comparative genomics of Hox and ParaHox genes among major lineages of Branchiopoda with emphasis on tadpole shrimps},
   author    = {Nicolini, Filippo and Martelossi, Jacopo and Forni, Giobbe and Savojardo, Castrense and Mantovani, Barbara and Luchetti, Andrea},
   year      = 2023,
   journal   = {Frontiers in Ecology and Evolution},
@@ -2017,13 +2018,13 @@
 }
 
 @online{haasTransdecoder,
-  title  = {{T}rans{D}ecoder},
+  title  = {TransDecoder},
   author = {Haas, Brian John},
   url    = {https://github.com/TransDecoder}
 }
 
 @article{dainat2022another,
-  title   = {{A}nother {G}ff analysis toolkit to handle annotations in any {G}{T}{F}/{G}{F}{F} format ({V}ersion v1. 0)},
+  title   = {Another Gff analysis toolkit to handle annotations in any GTF/GFF format (Version v1. 0)},
   author  = {Dainat, J and Here{\~n}{\'u}, D and Davis, E and Crouch, K and Sol, L and Agostinho, N},
   year    = 2022,
   journal = {Zenodo. doi},
@@ -2031,7 +2032,7 @@
 }
 
 @article{benayoun2011forkhead,
-  title     = {{F}orkhead transcription factors: key players in health and disease},
+  title     = {Forkhead transcription factors: key players in health and disease},
   author    = {Benayoun, B{\'e}r{\'e}nice A and Caburet, Sandrine and Veitia, Reiner A},
   year      = 2011,
   journal   = {Trends in Genetics},
@@ -2042,7 +2043,7 @@
 }
 
 @article{ellegren2007evolution,
-  title     = {{T}he evolution of sex-biased genes and sex-biased gene expression},
+  title     = {The evolution of sex-biased genes and sex-biased gene expression},
   author    = {Ellegren, Hans and Parsch, John},
   year      = 2007,
   journal   = {Nature Reviews Genetics},
@@ -2053,10 +2054,10 @@
 }
 
 @article{haag2005sex,
-  title     = {{S}ex determination across evolution: connecting the dots},
+  title     = {Sex determination across evolution: connecting the dots},
   author    = {Haag, Eric S and Doty, Alana V},
   year      = 2005,
-  journal   = {PLoS Biology},
+  journal   = {PLoS biology},
   publisher = {Public Library of Science San Francisco, USA},
   volume    = 3,
   number    = 1,
@@ -2064,7 +2065,7 @@
 }
 
 @article{zhou2021platypus,
-  title     = {{P}latypus and echidna genomes reveal mammalian biology and evolution},
+  title     = {Platypus and echidna genomes reveal mammalian biology and evolution},
   author    = {Zhou, Yang and Shearwin-Whyatt, Linda and Li, Jing and Song, Zhenzhen and Hayakawa, Takashi and Stevens, David and Fenelon, Jane C and Peel, Emma and Cheng, Yuanyuan and Pajpach, Filip and others},
   year      = 2021,
   journal   = {Nature},
@@ -2075,7 +2076,7 @@
 }
 
 @article{stammnitz2023evolution,
-  title     = {{T}he evolution of two transmissible cancers in {T}asmanian devils},
+  title     = {The evolution of two transmissible cancers in Tasmanian devils},
   author    = {Stammnitz, Maximilian R and Gori, Kevin and Kwon, Young Mi and Harry, Edward and Martin, Fergal J and Billis, Konstantinos and Cheng, Yuanyuan and Baez-Ortega, Adrian and Chow, William and Comte, Sebastien and others},
   year      = 2023,
   journal   = {Science},
@@ -2086,10 +2087,10 @@
 }
 
 @article{vilstrup2013mitochondrial,
-  title     = {{M}itochondrial phylogenomics of modern and ancient equids},
+  title     = {Mitochondrial phylogenomics of modern and ancient equids},
   author    = {Vilstrup, Julia T and Seguin-Orlando, Andaine and Stiller, Mathias and Ginolhac, Aurelien and Raghavan, Maanasa and Nielsen, Sandra CA and Weinstock, Jacobo and Froese, Duane and Vasiliev, Sergei K and Ovodov, Nikolai D and others},
   year      = 2013,
-  journal   = {PLoS One},
+  journal   = {PloS one},
   publisher = {Public Library of Science San Francisco, USA},
   volume    = 8,
   number    = 2,
@@ -2097,9 +2098,9 @@
 }
 
 @article{ghiselli2019natural,
-  title     = {{N}atural heteroplasmy and mitochondrial inheritance in bivalve molluscs},
+  title     = {Natural heteroplasmy and mitochondrial inheritance in bivalve molluscs},
   author    = {Ghiselli, Fabrizio and Maurizii, Maria Gabriella and Reunov, Arkadiy and Ari{\~n}o-Bassols, Helena and Cifaldi, Carmine and Pecci, Andrea and Alexandrova, Yana and Bettini, Simone and Passamonti, Marco and Franceschini, Valeria and others},
-  journal   = {Integrative and Comparative Biology},
+  journal   = {Integrative and comparative biology},
   volume    = {59},
   number    = {4},
   pages     = {1016--1032},
@@ -2108,7 +2109,7 @@
 }
 
 @article{fouret2020sequencing,
-  title     = {{S}equencing the genome of {I}ndian flying fox, natural reservoir of nipah virus, using hybrid assembly and conservative secondary scaffolding},
+  title     = {Sequencing the genome of Indian flying fox, natural reservoir of nipah virus, using hybrid assembly and conservative secondary scaffolding},
   author    = {Fouret, Julien and Brunet, Fr{\'e}d{\'e}ric G and Binet, Martin and Aurine, No{\'e}mie and Ench{\'e}ry, Francois and Croze, S{\'e}verine and Guinier, Marie and Goumaidi, Abdelghafar and Preininger, Doris and Volff, Jean-Nicolas and others},
   year      = 2020,
   journal   = {Frontiers in Microbiology},
@@ -2118,10 +2119,10 @@
 }
 
 @article{bredemeyer2023single,
-  title     = {{S}ingle-haplotype comparative genomics provides insights into lineage-specific structural variation during cat evolution},
+  title     = {Single-haplotype comparative genomics provides insights into lineage-specific structural variation during cat evolution},
   author    = {Bredemeyer, Kevin R and Hillier, LaDeana and Harris, Andrew J and Hughes, Graham M and Foley, Nicole M and Lawless, Colleen and Carroll, Rachel A and Storer, Jessica M and Batzer, Mark A and Rice, Edward S and others},
   year      = 2023,
-  journal   = {Nature Genetics},
+  journal   = {Nature genetics},
   publisher = {Nature Publishing Group US New York},
   volume    = 55,
   number    = 11,
@@ -2129,7 +2130,7 @@
 }
 
 @article{moreno2024emx2,
-  title     = {\textit{{E}mx2} underlies the development and evolution of marsupial gliding membranes},
+  title     = {\textit{Emx2} underlies the development and evolution of marsupial gliding membranes},
   author    = {Moreno, Jorge A and Dudchenko, Olga and Feigin, Charles Y and Mereby, Sarah A and Chen, Zhuoxin and Ramos, Raul and Almet, Axel A and Sen, Harsha and Brack, Benjamin J and Johnson, Matthew R and others},
   year      = 2024,
   journal   = {Nature},
@@ -2138,10 +2139,10 @@
 }
 
 @article{wang2021novel,
-  title     = {{A} novel canine reference genome resolves genomic architecture and uncovers transcript complexity},
+  title     = {A novel canine reference genome resolves genomic architecture and uncovers transcript complexity},
   author    = {Wang, Chao and Wallerman, Ola and Arendt, Maja-Louise and Sundstr{\"o}m, Elisabeth and Karlsson, {\AA}sa and Nordin, Jessika and M{\"a}kel{\"a}inen, Suvi and Pielberg, Gerli Rosengren and Hanson, Jeanette and Ohlsson, {\AA}sa and others},
   year      = 2021,
-  journal   = {Communications Biology},
+  journal   = {Communications biology},
   publisher = {Nature Publishing Group UK London},
   volume    = 4,
   number    = 1,
@@ -2149,17 +2150,17 @@
 }
 
 @article{fan2019chromosome,
-  title     = {{C}hromosome-level genome assembly for giant panda provides novel insights into {C}arnivora chromosome evolution},
+  title     = {Chromosome-level genome assembly for giant panda provides novel insights into Carnivora chromosome evolution},
   author    = {Fan, Huizhong and Wu, Qi and Wei, Fuwen and Yang, Fengtang and Ng, Bee Ling and Hu, Yibo},
   year      = 2019,
-  journal   = {Genome Biology},
+  journal   = {Genome biology},
   publisher = {Springer},
   volume    = 20,
   pages     = {1--12}
 }
 
 @article{xiong2009seven,
-  title     = {{S}even new dolphin mitochondrial genomes and a time-calibrated phylogeny of whales},
+  title     = {Seven new dolphin mitochondrial genomes and a time-calibrated phylogeny of whales},
   author    = {Xiong, YE and Brandley, Matthew C and Xu, Shixia and Zhou, Kaiya and Yang, Guang},
   year      = 2009,
   journal   = {BMC Evolutionary Biology},
@@ -2169,7 +2170,7 @@
 }
 
 @article{elbers2019improving,
-  title     = {{I}mproving {I}llumina assemblies with {H}i-{C} and long reads: {A}n example with the {N}orth {A}frican dromedary},
+  title     = {Improving Illumina assemblies with Hi-C and long reads: An example with the North African dromedary},
   author    = {Elbers, Jean P and Rogers, Mark F and Perelman, Polina L and Proskuryakova, Anastasia A and Serdyukova, Natalia A and Johnson, Warren E and Horin, Petr and Corander, Jukka and Murphy, David and Burger, Pamela A},
   year      = 2019,
   journal   = {Molecular Ecology Resources},
@@ -2180,7 +2181,7 @@
 }
 
 @article{deng2016novo,
-  title     = {\textit{{D}e novo} transcriptome assembly of the {C}hinese swamp buffalo by {R}{N}{A} sequencing and {S}{S}{R} marker discovery},
+  title     = {\textit{De novo} transcriptome assembly of the Chinese swamp buffalo by RNA sequencing and SSR marker discovery},
   author    = {Deng, Tingxian and Pang, Chunying and Lu, Xingrong and Zhu, Peng and Duan, Anqin and Tan, Zhengzhun and Huang, Jian and Li, Hui and Chen, Mingtan and Liang, Xianwei},
   year      = 2016,
   journal   = {PLoS One},
@@ -2191,7 +2192,7 @@
 }
 
 @article{mead2020genome,
-  title     = {{T}he genome sequence of the eastern grey squirrel, \textit{{S}ciurus carolinensis} {G}melin, 1788},
+  title     = {The genome sequence of the eastern grey squirrel, \textit{Sciurus carolinensis} Gmelin, 1788},
   author    = {Mead, Dan and Fingland, Kathryn and Cripps, Rachel and Miguez, Roberto Portela and Smith, Michelle and Corton, Craig and Oliver, Karen and Skelton, Jason and Betteridge, Emma and Doulcan, Jale and others},
   year      = 2020,
   journal   = {Wellcome Open Research},
@@ -2200,7 +2201,7 @@
 }
 
 @article{orkin2021genomics,
-  title     = {{T}he genomics of ecological flexibility, large brains, and long lives in capuchin monkeys revealed with fecal{F}{A}{C}{S}},
+  title     = {The genomics of ecological flexibility, large brains, and long lives in capuchin monkeys revealed with fecalFACS},
   author    = {Orkin, Joseph D and Montague, Michael J and Tejada-Martinez, Daniela and De Manuel, Marc and Del Campo, Javier and Cheves Hernandez, Saul and Di Fiore, Anthony and Fontsere, Claudia and Hodgson, Jason A and Janiak, Mareike C and others},
   year      = 2021,
   journal   = {Proceedings of the National Academy of Sciences},
@@ -2211,10 +2212,10 @@
 }
 
 @article{foote2015convergent,
-  title     = {{C}onvergent evolution of the genomes of marine mammals},
+  title     = {Convergent evolution of the genomes of marine mammals},
   author    = {Foote, Andrew D and Liu, Yue and Thomas, Gregg WC and Vina{\v{r}}, Tom{\'a}{\v{s}} and Alf{\"o}ldi, Jessica and Deng, Jixin and Dugan, Shannon and van Elk, Cornelis E and Hunter, Margaret E and Joshi, Vandita and others},
   year      = 2015,
-  journal   = {Nature Genetics},
+  journal   = {Nature genetics},
   publisher = {Nature Publishing Group US New York},
   volume    = 47,
   number    = 3,
@@ -2222,10 +2223,10 @@
 }
 
 @article{murata2003afrotherian,
-  title     = {{A}frotherian phylogeny as inferred from complete mitochondrial genomes},
+  title     = {Afrotherian phylogeny as inferred from complete mitochondrial genomes},
   author    = {Murata, Yumie and Nikaido, Masato and Sasaki, Takeshi and Cao, Ying and Fukumoto, Yukio and Hasegawa, Masami and Okada, Norihiro},
   year      = 2003,
-  journal   = {Molecular Phylogenetics and Evolution},
+  journal   = {Molecular phylogenetics and evolution},
   publisher = {Elsevier},
   volume    = 28,
   number    = 2,
@@ -2233,7 +2234,7 @@
 }
 
 @article{lozano2022practical,
-  title     = {{A} practical guide to design and assess a phylogenomic study},
+  title     = {A practical guide to design and assess a phylogenomic study},
   author    = {Lozano-Fernandez, Jesus},
   year      = 2022,
   journal   = {Genome Biology and Evolution},
@@ -2244,17 +2245,17 @@
 }
 
 @article{pamilo1997evolution,
-  title   = {{E}volution of the \textit{{S}ry} genes},
+  title   = {Evolution of the \textit{Sry} genes},
   author  = {Pamilo, Pekka and O'Neill, RJ},
   year    = 1997,
-  journal = {Molecular Biology and Evolution},
+  journal = {Molecular biology and evolution},
   volume  = 14,
   number  = 1,
   pages   = {49--55}
 }
 
 @article{meisel2011towards,
-  title     = {{T}owards a more nuanced understanding of the relationship between sex-biased gene expression and rates of protein-coding sequence evolution},
+  title     = {Towards a more nuanced understanding of the relationship between sex-biased gene expression and rates of protein-coding sequence evolution},
   author    = {Meisel, Richard P},
   year      = 2011,
   journal   = {Molecular Biology and Evolution},
@@ -2265,17 +2266,17 @@
 }
 
 @article{civetta1998sex,
-  title   = {{S}ex-related genes, directional sexual selection, and speciation},
+  title   = {Sex-related genes, directional sexual selection, and speciation},
   author  = {Civetta, Alberto and Singh, Rama S},
   year    = 1998,
-  journal = {Molecular Biology and Evolution},
+  journal = {Molecular biology and evolution},
   volume  = 15,
   number  = 7,
   pages   = {901--909}
 }
 
 @article{mank2007fastZ,
-  title     = {{F}ast-{X} on the {Z}: rapid evolution of sex-linked genes in birds},
+  title     = {Fast-X on the Z: rapid evolution of sex-linked genes in birds},
   author    = {Mank, Judith E and Axelsson, Erik and Ellegren, Hans},
   year      = 2007,
   journal   = {Genome Research},
@@ -2286,10 +2287,10 @@
 }
 
 @article{manni2021busco,
-  title     = {{B}{U}{S}{C}{O} update: novel and streamlined workflows along with broader and deeper phylogenetic coverage for scoring of eukaryotic, prokaryotic, and viral genomes},
+  title     = {BUSCO update: novel and streamlined workflows along with broader and deeper phylogenetic coverage for scoring of eukaryotic, prokaryotic, and viral genomes},
   author    = {Manni, Mos{\`e} and Berkeley, Matthew R and Seppey, Mathieu and Sim{\~a}o, Felipe A and Zdobnov, Evgeny M},
   year      = 2021,
-  journal   = {Molecular Biology and Evolution},
+  journal   = {Molecular biology and evolution},
   publisher = {Oxford University Press},
   volume    = 38,
   number    = 10,
@@ -2297,7 +2298,7 @@
 }
 
 @article{mawaribuchi2019independent,
-  title     = {{I}ndependent evolution for sex determination and differentiation in the \textit{{D}{M}{R}{T}} family in animals},
+  title     = {Independent evolution for sex determination and differentiation in the \textit{DMRT} family in animals},
   author    = {Mawaribuchi, Shuuji and Ito, Yuzuru and Ito, Michihiko},
   year      = 2019,
   journal   = {Biology Open},
@@ -2308,7 +2309,7 @@
 }
 
 @article{mazet2003phylogenetic,
-  title     = {{P}hylogenetic relationships of the {F}ox ({F}orkhead) gene family in the {B}ilateria},
+  title     = {Phylogenetic relationships of the Fox (Forkhead) gene family in the Bilateria},
   author    = {Mazet, Fran{\c{c}}oise and Yu, Jr-Kai and Liberles, David A and Holland, Linda Z and Shimeld, Sebastian M},
   year      = 2003,
   journal   = {Gene},
@@ -2318,10 +2319,10 @@
 }
 
 @article{mccartney2022genome,
-  title     = {{T}he genome of the zebra mussel, \textit{{D}reissena polymorpha}: a resource for comparative genomics, invasion genetics, and biocontrol},
+  title     = {The genome of the zebra mussel, \textit{Dreissena polymorpha}: a resource for comparative genomics, invasion genetics, and biocontrol},
   author    = {McCartney, Michael A and Auch, Benjamin and Kono, Thomas and Mallez, Sophie and Zhang, Ying and Obille, Angelico and Becker, Aaron and Abrahante, Juan E and Garbe, John and Badalamenti, Jonathan P and others},
   year      = 2022,
-  journal   = {G3: Genes, Genomes, Genetics},
+  journal   = {G3},
   publisher = {Oxford University Press},
   volume    = 12,
   number    = 2,
@@ -2329,10 +2330,10 @@
 }
 
 @article{meisel2013faster,
-  title     = {{T}he faster-{X} effect: integrating theory and data},
+  title     = {The faster-X effect: integrating theory and data},
   author    = {Meisel, Richard P and Connallon, Tim},
   year      = 2013,
-  journal   = {Trends in Genetics},
+  journal   = {Trends in genetics},
   publisher = {Elsevier},
   volume    = 29,
   number    = 9,
@@ -2340,7 +2341,7 @@
 }
 
 @article{milani2011doubly,
-  title     = {{D}oubly uniparental inheritance of mitochondria as a model system for studying germ line formation},
+  title     = {Doubly uniparental inheritance of mitochondria as a model system for studying germ line formation},
   author    = {Milani, Liliana and Ghiselli, Fabrizio and Maurizii, Maria Gabriella and Passamonti, Marco},
   year      = 2011,
   journal   = {PLoS One},
@@ -2351,7 +2352,7 @@
 }
 
 @article{milani2020faraway,
-  title     = {{F}araway, so close. {T}he comparative method and the potential of non-model animals in mitochondrial research},
+  title     = {Faraway, so close. The comparative method and the potential of non-model animals in mitochondrial research},
   author    = {Milani, Liliana and Ghiselli, Fabrizio},
   year      = 2020,
   journal   = {Philosophical Transactions of the Royal Society B},
@@ -2362,10 +2363,10 @@
 }
 
 @article{minh2020iq,
-  title     = {{I}{Q}-{T}{R}{E}{E} 2: new models and efficient methods for phylogenetic inference in the genomic era},
+  title     = {IQ-TREE 2: new models and efficient methods for phylogenetic inference in the genomic era},
   author    = {Minh, Bui Quang and Schmidt, Heiko A and Chernomor, Olga and Schrempf, Dominik and Woodhams, Michael D and Von Haeseler, Arndt and Lanfear, Robert},
   year      = 2020,
-  journal   = {Molecular Biology and Evolution},
+  journal   = {Molecular biology and evolution},
   publisher = {Oxford University Press},
   volume    = 37,
   number    = 5,
@@ -2373,7 +2374,7 @@
 }
 
 @article{nakagawa2013dna,
-  title     = {{D}{N}{A}-binding specificity changes in the evolution of forkhead transcription factors},
+  title     = {DNA-binding specificity changes in the evolution of forkhead transcription factors},
   author    = {Nakagawa, So and Gisselbrecht, Stephen S and Rogers, Julia M and Hartl, Daniel L and Bulyk, Martha L},
   year      = 2013,
   journal   = {Proceedings of the National Academy of Sciences},
@@ -2384,27 +2385,27 @@
 }
 
 @article{natsidis2021systematic,
-  title     = {{S}ystematic errors in orthology inference and their effects on evolutionary analyses},
+  title     = {Systematic errors in orthology inference and their effects on evolutionary analyses},
   author    = {Natsidis, Paschalis and Kapli, Paschalia and Schiffer, Philipp H and Telford, Maximilian J},
   year      = 2021,
-  journal   = {iScience},
+  journal   = {Iscience},
   publisher = {Elsevier},
   volume    = 24,
   number    = 2
 }
 
 @article{panara2019phylogenetic,
-  title     = {{P}hylogenetic analysis and embryonic expression of panarthropod {D}mrt genes},
+  title     = {Phylogenetic analysis and embryonic expression of panarthropod Dmrt genes},
   author    = {Panara, Virginia and Budd, Graham E and Janssen, Ralf},
   year      = 2019,
-  journal   = {Frontiers in Zoology},
+  journal   = {Frontiers in zoology},
   publisher = {Springer},
   volume    = 16,
   pages     = {1--18}
 }
 
 @article{perez2011cytogenetic,
-  title     = {{C}ytogenetic characterization of the invasive mussel species \textit{{X}enostrobus securis} {L}mk. ({B}ivalvia: {M}ytilidae)},
+  title     = {Cytogenetic characterization of the invasive mussel species \textit{Xenostrobus securis} Lmk. (Bivalvia: Mytilidae)},
   author    = {Perez-Garcia, Concepcion and Moran, Paloma and Pasantes, Juan J},
   year      = 2011,
   journal   = {Genome},
@@ -2415,10 +2416,10 @@
 }
 
 @article{phochanukul2010no,
-  title     = {{N}o backbone but lots of {S}ox: {I}nvertebrate {S}ox genes},
+  title     = {No backbone but lots of Sox: Invertebrate Sox genes},
   author    = {Phochanukul, Nichanun and Russell, Steven},
   year      = 2010,
-  journal   = {The International Journal of Biochemistry \& Cell Biology},
+  journal   = {The international journal of biochemistry \& cell biology},
   publisher = {Elsevier},
   volume    = 42,
   number    = 3,
@@ -2426,7 +2427,7 @@
 }
 
 @article{piccinini2021mitonuclear,
-  title     = {{M}itonuclear coevolution, but not nuclear compensation, drives evolution of {O}{X}{P}{H}{O}{S} complexes in bivalves},
+  title     = {Mitonuclear coevolution, but not nuclear compensation, drives evolution of OXPHOS complexes in bivalves},
   author    = {Piccinini, Giovanni and Iannello, Mariangela and Puccio, Guglielmo and Plazzi, Federico and Havird, Justin C and Ghiselli, Fabrizio},
   year      = 2021,
   journal   = {Molecular Biology and Evolution},
@@ -2437,10 +2438,10 @@
 }
 
 @article{sun2017adaptation,
-  title     = {{A}daptation to deep-sea chemosynthetic environments as revealed by mussel genomes},
+  title     = {Adaptation to deep-sea chemosynthetic environments as revealed by mussel genomes},
   author    = {Sun, Jin and Zhang, YU and Xu, Ting and Zhang, Yang and Mu, Huawei and Zhang, Yanjie and Lan, Yi and Fields, Christopher J and Hui, Jerome Ho Lam and Zhang, Weipeng and others},
   year      = 2017,
-  journal   = {Nature Ecology \& Evolution},
+  journal   = {Nature ecology \& evolution},
   publisher = {Nature Publishing Group UK London},
   volume    = 1,
   number    = 5,
@@ -2448,7 +2449,7 @@
 }
 
 @article{paggeot2022reference,
-  title     = {{R}eference genome for the {C}alifornia ribbed mussel, \textit{{M}ytilus californianus}, an ecosystem engineer},
+  title     = {Reference genome for the California ribbed mussel, \textit{Mytilus californianus}, an ecosystem engineer},
   author    = {Paggeot, Lisa X and DeBiasse, Melissa B and Escalona, Merly and Fairbairn, Colin and Marimuthu, Mohan PA and Nguyen, Oanh and Sahasrabudhe, Ruta and Dawson, Michael N},
   year      = 2022,
   journal   = {Journal of Heredity},
@@ -2459,7 +2460,7 @@
 }
 
 @article{powell2018genome,
-  title     = {{T}he genome of the oyster \textit{{S}accostrea} offers insight into the environmental resilience of bivalves},
+  title     = {The genome of the oyster \textit{Saccostrea} offers insight into the environmental resilience of bivalves},
   author    = {Powell, Daniel and Subramanian, Sankar and Suwansa-Ard, Saowaros and Zhao, Min and O’Connor, Wayne and Raftos, David and Elizur, Abigail},
   year      = 2018,
   journal   = {DNA Research},
@@ -2470,10 +2471,10 @@
 }
 
 @article{purandare2014accelerated,
-  title     = {{A}ccelerated evolution of morph-biased genes in pea aphids},
+  title     = {Accelerated evolution of morph-biased genes in pea aphids},
   author    = {Purandare, Swapna R and Bickel, Ryan D and Jaquiery, Julie and Rispe, Claude and Brisson, Jennifer A},
   year      = 2014,
-  journal   = {Molecular Biology and Evolution},
+  journal   = {Molecular biology and evolution},
   publisher = {Oxford University Press},
   volume    = 31,
   number    = 8,
@@ -2481,10 +2482,10 @@
 }
 
 @article{ran2019chromosome,
-  title     = {{C}hromosome-level genome assembly of the razor clam \textit{{S}inonovacula constricta} ({L}amarck, 1818)},
+  title     = {Chromosome-level genome assembly of the razor clam \textit{Sinonovacula constricta} (Lamarck, 1818)},
   author    = {Ran, Zhaoshou and Li, Zhenzhen and Yan, Xiaojun and Liao, Kai and Kong, Fei and Zhang, Lin and Cao, Jiayi and Zhou, Chengxu and Zhu, Peng and He, Shan and others},
   year      = 2019,
-  journal   = {Molecular Ecology Resources},
+  journal   = {Molecular ecology resources},
   publisher = {Wiley Online Library},
   volume    = 19,
   number    = 6,
@@ -2492,10 +2493,10 @@
 }
 
 @article{rozewicki2019mafft,
-  title     = {{M}{A}{F}{F}{T}-{D}{A}{S}{H}: integrated protein sequence and structural alignment},
+  title     = {MAFFT-DASH: integrated protein sequence and structural alignment},
   author    = {Rozewicki, John and Li, Songling and Amada, Karlou Mar and Standley, Daron M and Katoh, Kazutaka},
   year      = 2019,
-  journal   = {Nucleic Acids Research},
+  journal   = {Nucleic acids research},
   publisher = {Oxford University Press},
   volume    = 47,
   number    = {W1},
@@ -2503,7 +2504,7 @@
 }
 
 @article{schliep2011phangorn,
-  title     = {phangorn: phylogenetic analysis in {R}},
+  title     = {phangorn: phylogenetic analysis in R},
   author    = {Schliep, Klaus Peter},
   year      = 2011,
   journal   = {Bioinformatics},
@@ -2514,7 +2515,7 @@
 }
 
 @article{shi2015novo,
-  title     = {{D}e novo transcriptome sequencing to identify the sex-determination genes in \textit{{H}yriopsis schlegelii}},
+  title     = {De novo transcriptome sequencing to identify the sex-determination genes in \textit{Hyriopsis schlegelii}},
   author    = {Shi, Jianwu and Hong, Yijiang and Sheng, Junqing and Peng, Kou and Wang, Junhua},
   year      = 2015,
   journal   = {Bioscience, Biotechnology, and Biochemistry},
@@ -2525,10 +2526,10 @@
 }
 
 @article{shimeld2010clustered,
-  title     = {{C}lustered {F}ox genes in lophotrochozoans and the evolution of the bilaterian {F}ox gene cluster},
+  title     = {Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian Fox gene cluster},
   author    = {Shimeld, Sebastian M and Boyle, Michael J and Brunet, Thibaut and Luke, Graham N and Seaver, Elaine C},
   year      = 2010,
-  journal   = {Developmental Biology},
+  journal   = {Developmental biology},
   publisher = {Elsevier},
   volume    = 340,
   number    = 2,
@@ -2536,10 +2537,10 @@
 }
 
 @article{sievers2011fast,
-  title     = {{F}ast, scalable generation of high-quality protein multiple sequence alignments using {C}lustal {O}mega},
+  title     = {Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega},
   author    = {Sievers, Fabian and Wilm, Andreas and Dineen, David and Gibson, Toby J and Karplus, Kevin and Li, Weizhong and Lopez, Rodrigo and McWilliam, Hamish and Remmert, Michael and S{\"o}ding, Johannes and others},
   year      = 2011,
-  journal   = {Molecular Systems Biology},
+  journal   = {Molecular systems biology},
   publisher = {John Wiley \& Sons, Ltd Chichester, UK},
   volume    = 7,
   number    = 1,
@@ -2547,7 +2548,7 @@
 }
 
 @article{smith2021high,
-  title     = {{A} high-quality reference genome for a parasitic bivalve with doubly uniparental inheritance ({B}ivalvia: {U}nionida)},
+  title     = {A high-quality reference genome for a parasitic bivalve with doubly uniparental inheritance (Bivalvia: Unionida)},
   author    = {Smith, Chase H},
   year      = 2021,
   journal   = {Genome Biology and Evolution},
@@ -2558,20 +2559,20 @@
 }
 
 @article{song2021hard,
-  title     = {{T}he hard clam genome reveals massive expansion and diversification of inhibitors of apoptosis in {B}ivalvia},
+  title     = {The hard clam genome reveals massive expansion and diversification of inhibitors of apoptosis in Bivalvia},
   author    = {Song, Hao and Guo, Ximing and Sun, Lina and Wang, Qianghui and Han, Fengming and Wang, Haiyan and Wray, Gregory A and Davidson, Phillip and Wang, Qing and Hu, Zhi and others},
   year      = 2021,
-  journal   = {BMC Biology},
+  journal   = {BMC biology},
   publisher = {Springer},
   volume    = 19,
   pages     = {1--20}
 }
 
 @article{stothard2003sex,
-  title     = {{S}ex-determination gene and pathway evolution in nematodes},
+  title     = {Sex-determination gene and pathway evolution in nematodes},
   author    = {Stothard, Paul and Pilgrim, Dave},
   year      = 2003,
-  journal   = {BioEssays},
+  journal   = {Bioessays},
   publisher = {Wiley Online Library},
   volume    = 25,
   number    = 3,
@@ -2579,7 +2580,7 @@
 }
 
 @article{tree2014tree,
-  title     = {{T}ree of sex: a database of sexual systems},
+  title     = {Tree of sex: a database of sexual systems},
   author    = {Tree of Sex Consortium},
   year      = 2014,
   journal   = {Scientific Data},
@@ -2588,10 +2589,10 @@
 }
 
 @article{tu2006sea,
-  title     = {{S}ea urchin {F}orkhead gene family: phylogeny and embryonic expression},
+  title     = {Sea urchin Forkhead gene family: phylogeny and embryonic expression},
   author    = {Tu, Qiang and Brown, C Titus and Davidson, Eric H and Oliveri, Paola},
   year      = 2006,
-  journal   = {Developmental Biology},
+  journal   = {Developmental biology},
   publisher = {Elsevier},
   volume    = 300,
   number    = 1,
@@ -2599,10 +2600,10 @@
 }
 
 @article{uller2011origin,
-  title     = {{F}rom the origin of sex-determining factors to the evolution of sex-determining systems},
+  title     = {From the origin of sex-determining factors to the evolution of sex-determining systems},
   author    = {Uller, Tobias and Helanter{\"a}, Heikki},
   year      = 2011,
-  journal   = {The Quarterly Review of Biology},
+  journal   = {The Quarterly review of biology},
   publisher = {The University of Chicago Press},
   volume    = 86,
   number    = 3,
@@ -2610,7 +2611,7 @@
 }
 
 @article{todd2016bending,
-  title     = {{B}ending genders: the biology of natural sex change in fish},
+  title     = {Bending genders: the biology of natural sex change in fish},
   author    = {Todd, Erica V and Liu, Hui and Muncaster, Simon and Gemmell, Neil J},
   year      = 2016,
   journal   = {Sexual Development},
@@ -2621,10 +2622,10 @@
 }
 
 @article{wilkins1995moving,
-  title     = {{M}oving up the hierarchy: a hypothesis on the evolution of a genetic sex determination pathway},
+  title     = {Moving up the hierarchy: a hypothesis on the evolution of a genetic sex determination pathway},
   author    = {Wilkins, Adam S},
   year      = 1995,
-  journal   = {BioEssays},
+  journal   = {Bioessays},
   publisher = {Wiley Online Library},
   volume    = 17,
   number    = 1,
@@ -2632,10 +2633,10 @@
 }
 
 @article{verhulst2010insect,
-  title     = {{I}nsect sex determination: it all evolves around \textit{transformer}},
+  title     = {Insect sex determination: it all evolves around \textit{transformer}},
   author    = {Verhulst, Eveline C and van de Zande, Louis and Beukeboom, Leo W},
   year      = 2010,
-  journal   = {Current Opinion in Genetics \& Development},
+  journal   = {Current opinion in genetics \& development},
   publisher = {Elsevier},
   volume    = 20,
   number    = 4,
@@ -2643,7 +2644,7 @@
 }
 
 @article{vicoso2006evolutionXchrom,
-  title     = {{E}volution on the {X} chromosome: unusual patterns and processes},
+  title     = {Evolution on the X chromosome: unusual patterns and processes},
   author    = {Vicoso, Beatriz and Charlesworth, Brian},
   year      = 2006,
   journal   = {Nature Reviews Genetics},
@@ -2654,21 +2655,18 @@
 }
 
 @article{vizueta2020bitacora,
-  title     = {{B}itacora: {A} comprehensive tool for the identification and annotation of gene families in genome assemblies},
+  title     = {Bitacora: A comprehensive tool for the identification and annotation of gene families in genome assemblies},
   author    = {Vizueta Moraga, Joel and S{\'a}nchez-Gracia, Alejandro and Rozas Liras, Julio A},
   year      = 2020,
-  journal   = {Molecular Ecology Resources},
-  volume    = 20,
-  number    = 5,
-  pages     = {1445--1452},
+  journal   = {Molecular Ecology Resources, 2020, vol. 20, num. 5, p. 1445-1452},
   publisher = {John Wiley \& Sons}
 }
 
 @article{wang2023genome,
-  title     = {{G}enome-wide identification and expression analysis of {D}mrt genes in bivalves},
+  title     = {Genome-wide identification and expression analysis of Dmrt genes in bivalves},
   author    = {Wang, Quanchao and Cao, Tiangui and Wang, Chunde},
   year      = 2023,
-  journal   = {BMC Genomics},
+  journal   = {BMC genomics},
   publisher = {Springer},
   volume    = 24,
   number    = 1,
@@ -2676,10 +2674,10 @@
 }
 
 @article{wang2017scallop,
-  title     = {{S}callop genome provides insights into evolution of bilaterian karyotype and development},
+  title     = {Scallop genome provides insights into evolution of bilaterian karyotype and development},
   author    = {Wang, Shi and Zhang, Jinbo and Jiao, Wenqian and Li, JI and Xun, Xiaogang and Sun, Yan and Guo, Ximing and Huan, Pin and Dong, Bo and Zhang, Lingling and others},
   year      = 2017,
-  journal   = {Nature Ecology \& Evolution},
+  journal   = {Nature ecology \& evolution},
   publisher = {Nature Publishing Group UK London},
   volume    = 1,
   number    = 5,
@@ -2687,7 +2685,7 @@
 }
 
 @article{wang2015nasonia,
-  title     = {{G}enetic and epigenetic architecture of sex-biased expression in the jewel wasps \textit{{N}asonia vitripennis} and \textit{giraulti}},
+  title     = {Genetic and epigenetic architecture of sex-biased expression in the jewel wasps \textit{Nasonia vitripennis} and \textit{giraulti}},
   author    = {Wang, Xu and Werren, John H and Clark, Andrew G},
   year      = 2015,
   journal   = {Proceedings of the National Academy of Sciences},
@@ -2698,17 +2696,17 @@
 }
 
 @article{wei2020chromosome,
-  title     = {{C}hromosome-level clam genome helps elucidate the molecular basis of adaptation to a buried lifestyle},
+  title     = {Chromosome-level clam genome helps elucidate the molecular basis of adaptation to a buried lifestyle},
   author    = {Wei, Min and Ge, Hongxing and Shao, Changwei and Yan, Xiwu and Nie, Hongtao and Duan, Haibao and Liao, Xiaoting and Zhang, Min and Chen, Yihua and Zhang, Dongdong and others},
   year      = 2020,
-  journal   = {iScience},
+  journal   = {IScience},
   publisher = {Elsevier},
   volume    = 23,
   number    = 6
 }
 
 @article{wexler2014pan,
-  title     = {{P}an-metazoan phylogeny of the {D}{M}{R}{T} gene family: a framework for functional studies},
+  title     = {Pan-metazoan phylogeny of the DMRT gene family: a framework for functional studies},
   author    = {Wexler, Judith R and Plachetzki, David C and Kopp, Artyom},
   year      = 2014,
   journal   = {Development Genes and Evolution},
@@ -2718,7 +2716,7 @@
 }
 
 @article{wu2020identification,
-  title     = {{I}dentification and expression profiles of {F}ox transcription factors in the {Y}esso scallop ({P}atinopecten yessoensis)},
+  title     = {Identification and expression profiles of Fox transcription factors in the Yesso scallop (Patinopecten yessoensis)},
   author    = {Wu, Shaoxuan and Zhang, Yang and Li, Yajuan and Wei, Huilan and Guo, Zhenyi and Wang, Shi and Zhang, Lingling and Bao, Zhenmin},
   year      = 2020,
   journal   = {Gene},
@@ -2728,7 +2726,7 @@
 }
 
 @article{xu2022lack,
-  title     = {{L}ack of transcriptional coordination between mitochondrial and nuclear oxidative phosphorylation genes in the presence of two divergent mitochondrial genomes},
+  title     = {Lack of transcriptional coordination between mitochondrial and nuclear oxidative phosphorylation genes in the presence of two divergent mitochondrial genomes},
   author    = {Xu, Ran and Iannello, Mariangela and Havird, Justin C and Milani, Liliana and Ghiselli, Fabrizio},
   year      = 2022,
   journal   = {Zoological Research},
@@ -2740,7 +2738,7 @@
 }
 
 @article{xu2022multi,
-  title     = {{M}ulti-tissue {R}{N}{A}-{S}eq analysis and long-read-based genome assembly reveal complex sex-specific gene regulation and molecular evolution in the {M}anila clam},
+  title     = {Multi-tissue RNA-Seq analysis and long-read-based genome assembly reveal complex sex-specific gene regulation and molecular evolution in the Manila clam},
   author    = {Xu, Ran and Martelossi, Jacopo and Smits, Morgan and Iannello, Mariangela and Peruzza, Luca and Babbucci, Massimiliano and Milan, Massimo and Dunham, Joseph P and Breton, Sophie and Milani, Liliana and others},
   year      = 2022,
   journal   = {Genome Biology and Evolution},
@@ -2752,10 +2750,10 @@
 }
 
 @article{yang2021chromosome,
-  title     = {{C}hromosome-level genome assembly of the hard-shelled mussel \textit{{M}ytilus coruscus}, a widely distributed species from the temperate areas of {E}ast {A}sia},
+  title     = {Chromosome-level genome assembly of the hard-shelled mussel \textit{Mytilus coruscus}, a widely distributed species from the temperate areas of East Asia},
   author    = {Yang, Jin-Long and Feng, Dan-Dan and Liu, Jie and Xu, Jia-Kang and Chen, Ke and Li, Yi-Feng and Zhu, You-Ting and Liang, Xiao and Lu, Ying},
   year      = 2021,
-  journal   = {GigaScience},
+  journal   = {Gigascience},
   publisher = {Oxford University Press},
   volume    = 10,
   number    = 4,
@@ -2763,7 +2761,7 @@
 }
 
 @article{whitfield1993rapid,
-  title     = {{R}apid sequence evolution of the mammalian sex-determining gene {S}{R}{Y}},
+  title     = {Rapid sequence evolution of the mammalian sex-determining gene SRY},
   author    = {Whitfield, L Simon and Lovell-Badge, Robin and Goodfellow, Peter N},
   year      = 1993,
   journal   = {Nature},
@@ -2774,10 +2772,10 @@
 }
 
 @article{ghiselli2018comparative,
-  title     = {{C}omparative transcriptomics in two bivalve species offers different perspectives on the evolution of sex-biased genes},
+  title     = {Comparative transcriptomics in two bivalve species offers different perspectives on the evolution of sex-biased genes},
   author    = {Ghiselli, Fabrizio and Iannello, Mariangela and Puccio, Guglielmo and Chang, Peter L and Plazzi, Federico and Nuzhdin, Sergey V and Passamonti, Marco},
   year      = 2018,
-  journal   = {Genome Biology and Evolution},
+  journal   = {Genome biology and evolution},
   publisher = {Oxford University Press},
   volume    = 10,
   number    = 6,
@@ -2785,10 +2783,10 @@
 }
 
 @article{yang2014phylogeny,
-  title     = {{P}hylogeny of forkhead genes in three spiralians and their expression in {P}acific oyster \textit{{C}rassostrea gigas}},
+  title     = {Phylogeny of forkhead genes in three spiralians and their expression in Pacific oyster \textit{Crassostrea gigas}},
   author    = {Yang, Mei and Xu, Fei and Liu, Jun and Que, Huayong and Li, Li and Zhang, Guofan},
   year      = 2014,
-  journal   = {Chinese Journal of Oceanology and Limnology},
+  journal   = {Chinese journal of oceanology and limnology},
   publisher = {Springer},
   volume    = 32,
   number    = 6,
@@ -2796,7 +2794,7 @@
 }
 
 @article{yu2017ggtree,
-  title     = {ggtree: an {R} package for visualization and annotation of phylogenetic trees with their covariates and other associated data},
+  title     = {ggtree: an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data},
   author    = {Yu, Guangchuang and Smith, David K and Zhu, Huachen and Guan, Yi and Lam, Tommy Tsan-Yuk},
   year      = 2017,
   journal   = {Methods in Ecology and Evolution},
@@ -2808,7 +2806,7 @@
 }
 
 @article{yu2017genome,
-  title     = {{G}enome-wide identification and expression profiling of the {S}{O}{X} gene family in a bivalve mollusc \textit{{P}atinopecten yessoensis}},
+  title     = {Genome-wide identification and expression profiling of the SOX gene family in a bivalve mollusc \textit{Patinopecten yessoensis}},
   author    = {Yu, Jiachen and Zhang, Lingling and Li, Yangping and Li, Ruojiao and Zhang, Meiwei and Li, Wanru and Xie, Xinran and Wang, Shi and Hu, Xiaoli and Bao, Zhenmin},
   year      = 2017,
   journal   = {Gene},
@@ -2819,17 +2817,17 @@
 }
 
 @article{yu2008fox,
-  title     = {{T}he {F}ox genes of \textit{{B}ranchiostoma floridae}},
+  title     = {The Fox genes of \textit{Branchiostoma floridae}},
   author    = {Yu, Jr-Kai and Mazet, Francoise and Chen, Yen-Ta and Huang, Song-Wei and Jung, Kuo-Chen and Shimeld, Sebastian M},
   year      = 2008,
-  journal   = {Development Genes and Evolution},
+  journal   = {Development genes and evolution},
   publisher = {Springer},
   volume    = 218,
   pages     = {629--638}
 }
 
 @article{zeng2024genome,
-  title     = {{G}enome-wide identification and expression analysis of {D}mrt gene family and their role in gonad development of {P}acific oyster ({C}rassostrea gigas)},
+  title     = {Genome-wide identification and expression analysis of Dmrt gene family and their role in gonad development of Pacific oyster (Crassostrea gigas)},
   author    = {Zeng, Yetao and Zheng, Haiqian and He, Cheng and Zhang, Chuanxu and Zhang, Hongkuan and Zheng, Huaiping},
   year      = 2024,
   journal   = {Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology},
