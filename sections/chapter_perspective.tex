@@ -5,7 +5,7 @@
 {
 \setstretch{1.0}
 \chapter[Bivalves as model systems in sex-determination studies]{Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view}
-\label{perspective}
+\label{chapter:perspective}
 }
 
 {
@@ -66,6 +66,8 @@ Researchers have been addressing this topic mainly in snakes, ratites and sturge
 \subsection{Mito-nuclear interactions}
 An additional pivotal topic in bivalve biology, tentatively connected to \gls{sd}, regards the \gls{dui} of mitochondria, a process in which two highly divergent mitochondrial genomes are transmitted uniparentally through the maternal and paternal lineages, respectively through eggs and sperm. This process, which has been reported in more than a hundred bivalve species from five different orders (\cref{fig:summarySex}; \citebold{gusman2016pursuing,capt2020unorthodox}), has been proposed to interact with the major nuclear pathways that primarily establish the sexual identity, in a way that can resemble the \gls{cms} of plants (\citebold{ghiselli2013structure,breton2022did}). In \gls{cms}, specific mitochondrial chimeric \glspl{orf} cause the pollen to be sterile, while certain nuclear loci act in counterbalance to restore male fertility when occurring in the same individual. This Red-Queen scenario, in which balancing selection shapes the evolution of both \gls{cms} and restorer-of-fertility genes and keeps the two sexes viable, has been also hypothesized to be acting on bivalve \gls{dui} species (\citebold{ghiselli2013structure,xu2022lack}), where additional and effectively-transcribed \glspl{orf} have been observed in both the male-inherited and female-inherited mitochondrial lineages (\citebold{milani2013nuclear,milani2014paternally}).
 
+\begingroup
+\captionsetup[figure]{format=hruleformat}
 \begin{figure}[t!]
 	\centering
 	\includegraphics[width=0.9\textwidth]{chapter_bivalveModelSystems/figure_1.png}
@@ -83,6 +85,7 @@ An additional pivotal topic in bivalve biology, tentatively connected to \gls{sd
 	}
 	\label{fig:summarySex}
 \end{figure}
+\endgroup
 
 Clearly, if a functional interplay between \gls{dui} and \gls{sd} in bivalves is proven, this will provide new research questions regarding not only bivalve biology itself but also broader evolutionary topics (e.g., are there any converging trait between \gls{dui} and \gls{cms} systems? What is the degree of plasticity of such mitochondria-related \gls{sd} systems? Are mitochondria-related \gls{sd} systems more widespread in eukaryotes than currently thought?).
 
@@ -100,7 +103,6 @@ The first attempts to dig inside the phylogenetic history and diversity of bival
 
 \begin{figure}[t!]
 	\centering
-	\includegraphics[width=\textwidth]{chapter_bivalveModelSystems/figure_2.png}
 	\captionsetup[subfigure]{labelformat=nocaption}
 	\begin{subfigure}{0\linewidth}
 	\caption{}\label{fig:dmrt-A}
@@ -111,6 +113,7 @@ The first attempts to dig inside the phylogenetic history and diversity of bival
 	\begin{subfigure}{0\linewidth}
 	\caption{}\label{fig:dmrt-C}
 	\end{subfigure}% <----- get rid of space, for proper centering
+	\includegraphics[width=\textwidth]{chapter_bivalveModelSystems/figure_2.png}
 	\caption[\textbf{Phylogenetic tree (A) and taxonomic distribution (B) of Dmrt genes in bivalves, and comparison of amino acid pairwise distances within \textit{Dmrt-1L} and the other \glspl{dmrt} (B)}]
 	{
 		\textbf{Phylogenetic tree (A) and taxonomic distribution (B) of Dmrt genes in bivalves, and comparison of amino acid pairwise distances within \textit{Dmrt-1L} and the other \glspl{dmrt} (C)}. (A) Dmrt orthologs from bivalve genome assemblies were obtained with HMMsearch (HMMER toolkit; \citebold{eddy2011accelerated}) with the Pfam HMM profile of the DM domain (PF00751). Amino acid alignment was obtained with MAFFT-DASH (\citebold{rozewicki2019mafft}), and manually inspected to remove poorly aligning sequences, and trimmed with trimAl (gap threshold of \qty{60}{\percent}; \citebold{capella2009trimal}). The phylogenetic analysis was carried out using IQ-TREE 2 (\citebold{minh2020iq}) with default parameters. Nodes with bootstrap values greater than 84 are marked with filled black circles. The tree was rooted according to \citebold{evensen2022comparative}. \gls{dmrt} genes analysed by \citebold{evensen2022comparative} were used as reference to annotate the various orthology groups, and accession numbers are reported in the tree. The phylogenetic tree with all annotated tips and nodes can be accessed on supplementary material online. (B) Taxonomic distribution of identified Dmrt genes in bivalve genomes. Orders as reported in WoRMS (accessed before or on \DTMDate{2023-03-14}) and in \cref{fig:summarySex} are specified. (C) Pairwise amino acid distances were computed for amino acid sequences within each Dmrt orthology group identified in the tree, with the R package \singlecurlyquotes{phangorn} (\citebold{schliep2011phangorn}) under the JTT substitution model. After checking for normality with the Shapiro-Wilk test (\normalfont{$W = 0.88544$, $p < \num{2.2e-16}$}) and for group effect with the Kruskal-Wallis test (\normalfont{$p < \num{2.2e-16}$}), the pairwise Wilcoxon rank-sum test was used to compare the distributions of pairwise amino acid distances of \gls{dmrt-1l} and the other \glspl{dmrt}. Horizontal bars mark the significative results with \normalfont{$p < \num{2.2e-16}$} (\singlecurlyquotes{****}; Bonferroni correction for multiple test was applied). The list of genome assemblies used for these analyses and species identifiers can be found in \cref{tab:genomes}. Un.: Unionida; Ad.: Adapedonta; My.: Myida; Ar.: Arcida.
