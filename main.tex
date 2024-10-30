@@ -7,9 +7,9 @@
 \usepackage{setspace}
 \usepackage[indent=20pt]{parskip}                   % indent first line
 \usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
 \usepackage{tgbonum}
-\usepackage{helvet}
+\usepackage{atkinson}
+\usepackage[T1]{fontenc}
 \usepackage{soul}
 
 % FORMAT TABLES OF CONTENTS
@@ -133,7 +133,7 @@
 \preto\chapter\glsresetall % reset glossary for every chapter
 
 % CAPTIONS AND CROSS-REFERENCES
-\usepackage[labelfont=bf, labelsep=endash, font={small,sf,onehalfspacing}]{caption}
+\usepackage[labelfont=bf,labelsep=endash,font={small,sf,onehalfspacing}]{caption}
 \usepackage{subcaption}
 \DeclareCaptionLabelFormat{nocaption}{}                                                                         % new empty caption label format (useful to include and reference subfigures)
 \DeclareCaptionFormat{hruleformat}{#1#2#3\hrulefill}                                                            % add hrule after caption
@@ -174,7 +174,7 @@
 
 %-------------------------------------------------------------------------
 
-%\includeonly{sections/frontpage}
+%\includeonly{sections/chapter_molecularEvolution}
 
 \begin{document}
 
@@ -182,9 +182,9 @@
 \include{sections/frontpage.tex}
 
 \newgeometry{% total={17cm,24cm},
-  left=2cm, right=2cm, top=2.5cm, bottom=2.5cm,
-  headsep=\dimexpr2.5cm-50pt\relax,
-  headheight=50pt}
+  left=2cm, right=2cm, top=2.7cm, bottom=2.5cm,
+  headsep=\dimexpr2.5cm-55pt\relax,
+  headheight=55pt}
 
 % set page headers
 \pagestyle{fancy} % page style to fancy to print header
@@ -217,6 +217,7 @@
 %\listoftables
 %\addcontentsline{toc}{chapter}{List of tables}
 
+\include{sections/abstract}
 \include{sections/chapter_introduction}
 \include{sections/chapter_outlookObjectioves}
 \include{sections/chapter_perspective}
