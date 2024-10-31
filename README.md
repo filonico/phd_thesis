@@ -20,7 +20,7 @@ In this repository you can find my final PhD thesis, together with the LaTeX cod
 I wish to thank ***all*** the past and present members of the **[EVO·COM](https://sites.google.com/view/evo-com-unibo/home)** group at the University of Bologna. This thesis wouldn't be what it is without the contribution of each of you!
 
 ## What you will find here
-* <code>[main.pdf](main.pdf)</code> is the final thesis pdf file;
+* <code>[main.pdf](main.pdf)</code> is the final thesis pdf file (which is a little bit huge, so you'll have to download it);
 * <code>[main.tex](main.tex)</code> is the main LaTeX thesis document;
 * <code>[figures/](figures)</code> is the folder containing high-resolution figures, including [supplementary figures](figures/supp_figures);
 * <code>[sections/](sections)</code> is the folder containing the LaTeX documents for each thesis section (frontpage, chapters, etc.);
