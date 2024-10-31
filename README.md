@@ -1,6 +1,6 @@
 # Final PhD thesis
 
-> **Title**: A comparative and evolutionary approach to study bivalve sex determination from a broad-phylogenetic perspective.
+> **Title**: Integrative perspectives on bivalve sex determination: A comparative and evolutionary analysis across phylogeny.
 >
 > **PhD program**: Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources ([FishMed-PhD](https://site.unibo.it/laboratorio-biologia-marina-pesca-fano/en/international-phd-programme))\
 > **Cycle**: XXXVII\
