@@ -41,7 +41,7 @@ I wish to thank ***all*** the past and present members of the **[EVO·COM](https
 </details>
 
 <details>
-<summary><b>Chapter 4</b> -- Identification of putative sex-determination related genes in bivalves through comparative molecular evolutionary analyses.</summary>
+<summary><b>Chapter 4</b> – Identification of putative sex-determination related genes in bivalves through comparative molecular evolutionary analyses.</summary>
 
 <br/>
 
@@ -49,7 +49,7 @@ I wish to thank ***all*** the past and present members of the **[EVO·COM](https
 </details>
 
 <details>
-<summary><b>Chapter 5</b> -- Localisation of three sex-related genes and the germline marker <i>Vasa</i>/Vasa in the early developmental stages of <i>Mytilus galloprovincialis.</i></summary>
+<summary><b>Chapter 5</b> – Localisation of three sex-related genes and the germline marker <i>Vasa</i>/Vasa in the early developmental stages of <i>Mytilus galloprovincialis.</i></summary>
 
 <br/>
 
