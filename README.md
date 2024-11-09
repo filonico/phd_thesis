@@ -29,7 +29,7 @@ I wish to thank ***all*** the past and present members of the **[EVO·COM](https
 ## Published chapters
 
 <details>
-<summary><b>Chapter 3</b> -- Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view.</summary>
+<summary><b>Chapter 3</b> – Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view.</summary>
 
 <br/>
 
