@@ -11,7 +11,7 @@
 > **Settore Consorsuale**: 05/B1 – ZOOLOGIA E ANTROPOLOGIA\
 > **Settore Scientifico Disciplinare**: BIO/05 – ZOOLOGIA
 >
-> <p style="text-align:center"><b><a href="https://drive.google.com/file/d/1rMQH_pM9pgLmrS1qkrKDblJk2VXazSNI/view?usp=sharing">ACCESS THE THESIS HERE</a></b></p>
+> **[ACCESS THE THESIS HERE](https://drive.google.com/file/d/1rMQH_pM9pgLmrS1qkrKDblJk2VXazSNI/view?usp=sharing)**
 
 <p align="center">
 <img src="figures/logo_sexdet.png" width="70%" alt="sex determination concept bivalves">
