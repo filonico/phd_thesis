@@ -179,14 +179,14 @@
 \begin{document}
 
 \DTMsetdatestyle{ddmmyyyy}
-\include{sections/frontpage.tex}
+\include{sections/frontpage_eng}
 
 \newgeometry{% total={17cm,24cm},
   left=2cm, right=2cm, top=2.7cm, bottom=2.5cm,
   headsep=\dimexpr2.5cm-55pt\relax,
   headheight=55pt}
 
-% set page headers
+% set page headers  
 \pagestyle{fancy} % page style to fancy to print header
 \renewcommand{\headrulewidth}{0.2pt} % remove head ruler
 \renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \thechapter\ --\ #1}{}} % set leftmark style of chapters
@@ -240,8 +240,8 @@
 % insetr empty page
 \newpage\null\thispagestyle{empty}\newpage
 
-% activity report
-\DTMsetdatestyle{cvdateformat}
-\include{sections/activity_report}
+% % activity report
+% \DTMsetdatestyle{cvdateformat}
+% \include{sections/activity_report}
 
 \end{document}
