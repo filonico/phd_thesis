@@ -1,8 +1,8 @@
 % DOCUMENT STYLE
-\documentclass[12pt]{report}
+\documentclass[12pt, twoside]{book}
 \usepackage[a4paper,
   % total={17cm,24cm},
-  left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
+  margin=2cm]{geometry}
 \linespread{1.5}                                    % regulate line spacing
 \usepackage{setspace}
 \usepackage[indent=20pt]{parskip}                   % indent first line
@@ -11,6 +11,20 @@
 \usepackage{atkinson}
 \usepackage[T1]{fontenc}
 \usepackage{soul}
+
+\usepackage{afterpage}
+
+% define new command to insert blank white space
+\def\blankpage{%
+      \clearpage%
+      \thispagestyle{empty}%
+      \addtocounter{page}{-1}%
+      \null%
+      \clearpage
+}
+
+% prevent the book class to add vertical spacing to fit the text to the page
+\raggedbottom
 
 % FORMAT TABLES OF CONTENTS
 \usepackage{titletoc}
@@ -30,6 +44,14 @@
 \renewcommand*\@chapter[2][]{\std@chapter[#2]{#2}\chaptermark{#1}}
 \makeatother
 
+% define the style of doublepage as empty
+\let\origdoublepage\cleardoublepage
+\newcommand{\clearemptydoublepage}{%
+  \clearpage
+  {\pagestyle{empty}\origdoublepage}%
+}
+\let\cleardoublepage\clearemptydoublepage
+
 % ENUMERATE INLINE
 \usepackage[inline]{enumitem}
 
@@ -37,11 +59,9 @@
 \newlist{inlinelist}{enumerate*}{1}
 \setlist[inlinelist]{label=(\roman*)}
 
-
 % TABLES
 \usepackage{booktabs}
 \usepackage{lscape}
-\usepackage{afterpage}
 \usepackage{longtable}
 \usepackage{array}
 \usepackage{multirow}
@@ -172,7 +192,16 @@
  
 \makeatother
 
-%-------------------------------------------------------------------------
+
+
+
+%--------------------------------------------------------------------------------------------------------------------------------------------------
+%--------------------------------------------------------------------------------------------------------------------------------------------------
+%--------------------------------------------------------------------------------------------------------------------------------------------------
+%--------------------------------------------------------------------------------------------------------------------------------------------------
+%--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 %\includeonly{sections/activity_report}
 
@@ -181,26 +210,34 @@
 \DTMsetdatestyle{ddmmyyyy}
 %\include{sections/frontpage_ita}
 \include{sections/frontpage_eng}
+%\afterpage{\blankpage}
+\cleardoublepage
 
 \newgeometry{% total={17cm,24cm},
-  left=2cm, right=2cm, top=2.7cm, bottom=2.5cm,
+  inner=3cm, outer=2cm, top=2.7cm, bottom=2.5cm,
   headsep=\dimexpr2.5cm-55pt\relax,
   headheight=55pt}
 
 % set page headers  
 \pagestyle{fancy} % page style to fancy to print header
+
+% page style for chapter page: no header, but include footer with number
+\fancypagestyle{plain}{%
+  \fancyfoot[LE,RO]{\thepage}
+}
+
 \renewcommand{\headrulewidth}{0.2pt} % remove head ruler
-\renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \thechapter\ --\ #1}{}} % set leftmark style of chapters
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}} % set leftmark style of chapters
 \fancyhead{} % clear header
-\fancyhead[RO]{\textsl{\nouppercase{\leftmark}}} % set header
+\fancyfoot{} % clear footer
+\fancyhead[LE,RO]{\textsl{\nouppercase{\leftmark}}} % % set the same header on both odd and even pages
+\fancyfoot[LE,RO]{\thepage} % set page numbering
 
 \pagenumbering{roman}
 \addcontentsline{toc}{chapter}{Table of contents} % include the TOC in TOC
 \renewcommand{\contentsname}{Table of contents}
 \tableofcontents{\markboth{Table of contents}{Table of contents}}
-\clearpage
-
-\pagenumbering{arabic}
+\cleardoublepage
 
 \printunsrtglossary*[title={List of abbreviations}, toctitle={List of abbreviations}, style={super}]
 {
@@ -218,7 +255,12 @@
 %\listoftables
 %\addcontentsline{toc}{chapter}{List of tables}
 
+\include{sections/data_availability}
 \include{sections/abstract}
+\cleardoublepage
+
+\fancyhead[LE]{\textsl{\nouppercase{\chaptername{} \thechapter}}} % set even page header
+\pagenumbering{arabic}
 \include{sections/chapter_introduction}
 \include{sections/chapter_outlookObjectioves}
 \include{sections/chapter_perspective}
@@ -227,22 +269,22 @@
 \include{sections/conclusions}
 
 % bibliography
+\fancyhead[LE,RO]{\textsl{\nouppercase{\leftmark}}} % set the same header on both odd and even pages
 \begin{refcontext}[sorting=nyt]
 	\printbibliography[title=References]
 	\addcontentsline{toc}{chapter}{References}
 \end{refcontext}
 
-% appendix and supp matherials
+% appendix and supp materials
 \include{sections/appendix}
 \include{sections/supp_figures}
 \include{sections/supp_tables}
-\include{sections/data_availability}
 
 % insetr empty page
-\newpage\null\thispagestyle{empty}\newpage
+%\newpage\null\thispagestyle{empty}\newpage
 
 % % activity report
-\DTMsetdatestyle{cvdateformat}
-\include{sections/activity_report}
+%\DTMsetdatestyle{cvdateformat}
+%\include{sections/activity_report}
 
 \end{document}
