@@ -4,12 +4,14 @@
   % total={17cm,24cm},
   margin=2cm]{geometry}
 \linespread{1.5}                                    % regulate line spacing
+\usepackage[italian,british]{babel}
+\usepackage{csquotes}
 \usepackage{setspace}
 \usepackage[indent=20pt]{parskip}                   % indent first line
 \usepackage[utf8]{inputenc}
 \usepackage{tgbonum}
 \usepackage{atkinson}
-\usepackage[T1]{fontenc}
+\usepackage{fontspec}
 \usepackage{soul}
 
 \usepackage{afterpage}
@@ -112,9 +114,12 @@
 \DeclareSIUnit{\mya}{\pac{mya}}                   % define unit for million years ago
 
 \newcommand{\NA}{--}
-\newcommand{\doublecurlyquotes}[1]{“#1”}
-\newcommand{\singlecurlyquotes}[1]{‘#1’}
-\newcommand{\curlyapostrophe}{’}
+%\newcommand{\doublecurlyquotes}[1]{“#1”}
+%\newcommand{\singlecurlyquotes}[1]{‘#1’}
+%\newcommand{\curlyapostrophe}{’}
+\newcommand{\doublecurlyquotes}[1]{``#1''}
+\newcommand{\singlecurlyquotes}[1]{`#1'}
+\newcommand{\curlyapostrophe}{'}
 
 \newcommand{\fivepercent}{\qty{5}{\percent}}
 \newcommand{\onepercent}{\qty{1}{\percent}}
@@ -203,6 +208,7 @@
 
 
 
+
 %\includeonly{sections/activity_report}
 
 \begin{document}
@@ -237,8 +243,10 @@
 \addcontentsline{toc}{chapter}{Table of contents} % include the TOC in TOC
 \renewcommand{\contentsname}{Table of contents}
 \tableofcontents{\markboth{Table of contents}{Table of contents}}
+\include{sections/aknowledgements}
 \cleardoublepage
 
+% print glossary
 \printunsrtglossary*[title={List of abbreviations}, toctitle={List of abbreviations}, style={super}]
 {
 	\small
@@ -249,11 +257,6 @@
 		{\printunsrtglossaryskipentry} % skip (exclude)
 		{} % don't skip (include)
 	}}
-
-%\listoffigures
-%\addcontentsline{toc}{chapter}{List of figures}
-%\listoftables
-%\addcontentsline{toc}{chapter}{List of tables}
 
 \include{sections/data_availability}
 \include{sections/abstract}
